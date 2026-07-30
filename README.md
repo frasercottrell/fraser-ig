@@ -9,6 +9,7 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 
 ## Context files
 
+- **[operating-model.md](context/operating-model.md)** — ⭐ how to *think* about all of this: the mechanisms, tensions, and judgment. Reason from here; the rest is reference. When a rule conflicts with this, this wins.
 - **[strategy.md](context/strategy.md)** — positioning, the goal, the every-post checklist
 - **[tone-of-voice.md](context/tone-of-voice.md)** — how Fraser sounds (master voice reference)
 - **[audience.md](context/audience.md)** — who we're talking to + their pain points
