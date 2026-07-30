@@ -64,6 +64,80 @@ Don't put a convert-asset in an acquire-slot.
 
 ---
 
+## Deeper WHYs Georgia developed on the call (the reasoning under the rules)
+
+These came through richer in conversation than in her email summary. They're principles, not tactics.
+
+**The stranger test — clarity is the actual product of a profile.**
+Georgia kept returning to *"as a new visitor, I'm not immediately sure what I'll get consistently
+from you."* That's the real diagnosis — not "the feed is messy" but *the positioning is unreadable in
+3 seconds.* This reframes a pile of small tactics (bio line 1 = who/what, cover frames with the text
+hook, highlights per pillar, consistent filming location) as one job: **a stranger lands and instantly
+knows what they'll get and why you're worth following.** The bio, the grid, the highlights, the cover
+photos aren't separate checklist items — they're all the same landing-page moment. Judge any profile
+change by: *does a cold visitor get it faster now?*
+
+**Consistency is the accelerator — not the volume itself, the compounding.**
+Her read on Fraser's history: the old reels were *good*, they just weren't consistent, so nothing
+compounded. *"You were throwing stuff at the wall."* The lever isn't talent (he has it) — it's showing
+up in the same lane repeatedly so the audience, the algorithm, and the positioning all reinforce. This
+is why "more volume" is her main prescription for someone already skilled. Reps in one direction > occasional brilliance.
+
+**Follow the trail — don't reinvent, double down.**
+*"Follow the trail of what's already worked rather than starting from scratch."* The reasoning:
+proven winners already survived the market's judgment, so replicating their *style and topic* is lower
+risk than inventing cold. She'd rather replicate than repost. For Fraser specifically this is huge —
+he has a giant proven back-catalogue, so the default input to any piece is *a thing that already worked*,
+adapted to IG. Inventing from zero is the rare fallback (same principle the anti-slop skill is built on:
+references beat cold generation).
+
+**Why the hook is ~everything.**
+*"As long as you've grasped their attention in the first three to five seconds, you're already winning.
+That's all that really matters."* The whole system is gated on the hook because nothing downstream —
+the insight, the CTA, the proof — gets seen if the first 3 seconds fail. That's *why* trial reels exist
+(a rig to test hooks cheaply), *why* all three hook layers matter (text catches mute-scrollers, verbal +
+visual catch the rest), and *why* specificity is the lever. Everything else is secondary to the stop.
+
+**Mirror hooks — the mechanism is recognition, and specificity is the dial.**
+*"The more specific you can be, the more triggering it is — they're like 'oh my god, how do you know
+that?'"* You're mirroring the viewer's exact lived experience back at them. Generic pain = ignored;
+a precisely-named pain = *he's in my head* = the stop. So when brainstorming hooks, the work is getting
+specific about a real pain the buyer actually has — not finding clever phrasing. (Her own method: start
+from the pain, use Claude/ChatGPT to go *deeper* into the everyday version of it.)
+
+**Georgia's own anti-slop point — and why it matters here.**
+Unprompted, she said: *"There's a difference between getting something written up on ChatGPT and doing
+it yourself. When people can't sense any personality or real-life struggle or insight behind the writing,
+it feels generic — integrate as much of you as you can."* This is the same doctrine as the anti-slop kit,
+from the strategist's mouth. It's why the whole voice apparatus exists: **generic writing doesn't just
+read badly, it breaks the authority the content is trying to build.** Personality isn't garnish; it's proof
+you actually know the thing.
+
+**The order of belief — expertise first, personal second.**
+*"People need a reason to follow you. Once they see you're an expert, they'll naturally get interested in
+your personal life."* This is why Founder content is only 15% and framed as *supporting* authority. The
+sequence matters: lead with proof of expertise, and the personal content then deepens a relationship that
+already has a reason to exist. Personal-first would be building a house with no foundation.
+
+**Content bank — the real enemy is the blank-screen decision.**
+*"The biggest mistake creators make is deciding what to post every time they open Instagram — we go into
+procrastination mode."* The bank isn't admin; it's removing the daily decision that kills consistency.
+Brain-dump without filtering (every question asked, lesson, mistake, myth, advice repeated) because
+*filtering at capture-time is where good raw material dies.*
+
+**One idea → many formats — the multiplier that makes volume sustainable.**
+*"One topic can become multiple pieces."* One insight = a talking-head reel + a storytelling carousel +
+several trial-reel hooks + a Nice Ads subject line. This is *how* you hit the volume consistency demands
+without inventing endlessly — you mine each proven idea fully across formats before moving on.
+
+**Friction is the hidden killer (why captions/product names go on screen).**
+*"Put it on screen so I don't have to go Google what I thought I heard you say."* Small point, general
+principle: every bit of friction between the viewer and the value costs a save/share. Reducing
+comprehension effort *is* optimising for the saveable/shareable signals. Applies everywhere — clarity
+compounds.
+
+---
+
 ## Fraser's reality overrides generic advice (where they clash)
 
 Georgia gives the general model. Fraser has *data*. When they conflict, trust the data and reason about *why*:
