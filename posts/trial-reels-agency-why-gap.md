@@ -17,14 +17,20 @@ working"** → keyword **WHY**. (Freebie to build; using WHY below.)
 ---
 
 ## 1 — mirror / identity
-**On-screen hook:** "If your agency can't tell you why your best ad worked, they didn't make it work."
 
-**Caption:**
-They got lucky. That's the uncomfortable version.
+**On-screen text (2 beats):**
+1. *(the stop)* "If your agency can't tell you why your best ad worked, they didn't make it work."
+2. *(the caption-driver)* "the one question that exposes it 👇"
 
-A partner who can't explain the win can't repeat it. So next month you're back to zero, waiting to see if the dice land right again. That's not a strategy you're paying for. That's a subscription to a slot machine.
+**Caption** — *first line is the second hook; it's all that shows before "…more":*
 
-The win isn't the ad. The win is knowing exactly why it worked so you can do it again on purpose.
+There's one question that instantly tells you whether your agency knows what they're doing 👇
+
+Point at your best-performing ad and ask them: "why did this one work?"
+
+A real partner answers with the mechanism. This hook, this angle, this exact pain it hit — and here's the next ad we build on it. A guessing one reaches for the algorithm, the audience, the season. Anything but the creative.
+
+If they can't tell you why it worked, they can't repeat it. That's not a strategy you're paying for. It's a subscription to a slot machine.
 
 Follow if you want to actually understand your own ad account.
 Comment WHY for the 5 questions that reveal if your agency knows what's working.
