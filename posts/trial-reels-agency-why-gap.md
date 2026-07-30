@@ -18,11 +18,9 @@ working"** → keyword **WHY**. (Freebie to build; using WHY below.)
 
 ## 1 — mirror / identity
 
-**On-screen text (2 beats):**
-1. *(the stop)* "If your agency can't tell you why your best ad worked, they didn't make it work."
-2. *(the caption-driver)* "the one question that exposes it 👇"
+**On-screen hook (one line):** "If your agency can't tell you why your best ad worked, they didn't make it work."
 
-**Caption** — *first line is the second hook; it's all that shows before "…more":*
+**Caption** — *first line is the driver; it's all that shows before "…more", so it does the work of pulling them in:*
 
 There's one question that instantly tells you whether your agency knows what they're doing 👇
 

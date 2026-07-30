@@ -32,16 +32,24 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
-### Trial reel anatomy (the 4 parts — get all four or it leaks)
+### Trial reel anatomy (3 parts — ONE thing on screen)
 
-B-roll trial reels have no talking, so the **on-screen text + caption do all the hooking.** Four parts:
+Hard rule: **only one thing on screen** — a single text hook, nothing else. No second beat, no stacked
+cues. B-roll trial reels have no talking, so the whole job of driving to the caption falls on two written
+surfaces: the single on-screen hook and the caption's first line.
 
-1. **On-screen hook (beat 1) — the stop.** Identity → pain → curiosity. Wins the 3-second scroll-stop.
-2. **On-screen caption-driver (beat 2) — the bridge.** An open loop that sends the stopped viewer to the caption: *"the one question that exposes it 👇"*, *"the fix is in the caption"*, *"3 of these 👇"*. Without it, a stopped viewer just watches the B-roll loop and leaves. This beat converts a *watch* into a *caption tap*.
-3. **Caption first line — the second hook.** Only the first line shows before "…more". It must *promise the payoff*, not warm up. This is what earns the expand. (Don't waste it on "They got lucky." — lead with the promise.)
-4. **Value body → 2 CTAs** (follow + comment keyword). The value pays off the loop; the CTAs convert.
+1. **On-screen hook (one line) — the stop *and* the open loop.** Identity → pain → curiosity. Because it's
+   the only thing on screen, it has to do double duty: win the 3-second scroll-stop *and* leave a question
+   the viewer can only answer by reading on (a claim that begs "why?"/"how?", a tension left unresolved).
+   A hook that fully closes the thought gives no reason to tap.
+2. **Caption first line — the driver.** Only this line shows before "…more", so it *is* the caption CTA.
+   It must *promise the payoff* (e.g. "There's one question that instantly tells you if your agency knows
+   what they're doing 👇"), never warm up. This is what earns the expand. A 👇 here is fine — it lives in the
+   caption, not on screen.
+3. **Value body → 2 CTAs** (follow + comment keyword). The value pays off the loop; the CTAs convert.
 
-Miss beat 2 or a weak first line and the hook works but nobody reads the value — the whole point of the reel leaks out.
+Weak on-screen loop or a first line that warms up instead of promising = the hook works but nobody reads
+the value, and the whole point of the reel leaks out.
 
 ### 3. Trial reels (the growth engine — 2–3+/day)
 - **Test hooks in secret** without heavy production; brings in new followers faster than anything
