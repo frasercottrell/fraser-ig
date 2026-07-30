@@ -18,6 +18,20 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 - **[hooks-swipe.md](context/hooks-swipe.md)** — hook swipe file by category
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
 
+## Anti-AI-slop check
+
+Every piece of content should sound like Fraser, not like a machine. Two reference docs + a linter
+(pulled from the anti-ai-slop-scriptwriting toolkit, `LICENSE.md` — noncommercial):
+
+- **[context/ai-writing-tells.md](context/ai-writing-tells.md)** — the inventory of *written* AI tells (vocabulary, negative parallelism, balanced triads, participle tails…)
+- **[context/spoken-script-voice.md](context/spoken-script-voice.md)** — how human content *sounds* out loud (for talking-head reel scripts)
+- **`scripts/voice-lint.py`** — mechanical scan for the tells. Run on any draft:
+  ```
+  python3 scripts/voice-lint.py path/to/draft.md   # or '-' for stdin
+  ```
+
+**Workflow:** draft → run `voice-lint.py` → fix real flags by rewriting in Fraser's register (not thesaurus-swapping) → sanity-check against the tells doc.
+
 ## To add over time
 
 - `posts/` — drafted and published content
