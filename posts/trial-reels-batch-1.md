@@ -106,7 +106,7 @@ Comment SWIPE and I'll send the swipe file of the ones that worked.
 **Caption:**
 Same product. Same audience. Same budget.
 
-We changed the first line of the ad — from a feature to the problem it solves — and CPA dropped [X]%.
+We changed one thing. The first line. Went from naming a feature to naming the problem it solves. CPA dropped [X]%.
 
 People think scaling is a budget problem. Most of the time it's a first-line problem. The hook is doing 80% of the work and getting 5% of the attention.
 
