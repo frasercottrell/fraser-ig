@@ -32,17 +32,24 @@ Comment CONVERT for the 5 reasons ads stop converting.
 ## 2 — Pillar 1: Why Ads Work
 **[Template: "The biggest mistake I made with [TOPIC] was [MISTAKE]… here's what finally worked."]**
 
-**On-screen hook:** "My biggest mistake early on: I made ads pretty before I made them clear."
+**On-screen hook (one line):** "My biggest mistake early on: I made ads pretty before I made them clear."
 
-**Caption:**
-I used to obsess over the edit. The grade, the transitions, the perfect cut. Beautiful ads that sold nothing.
+**Caption** — *first line is the driver (the "…more" preview):*
 
-The switch was brutal and simple: say one clear thing to one specific person in the first three seconds, then worry about pretty. The "worse looking" ads outsold the polished ones almost every time.
+The best-looking ad in the account was almost always the worst performer. Took me years to work out why 👇
+
+Early on I fell in love with the craft. The grade, the transitions, the perfect cut. I'd spend days making an ad beautiful.
+
+Then it'd flop. And I couldn't work it out, because it looked incredible.
+
+The problem was the order. I made it pretty before I made it clear. A stranger scrolling doesn't care how polished it is. In the first three seconds they're asking one thing: is this about a problem I actually have? If that's not obvious, they're gone. The edit never gets a chance to matter.
+
+The fix was almost insulting in how simple it was. Say one clear thing, to one specific person, in the first three seconds. Then worry about pretty. The "worse looking" ads outsold the polished ones nearly every time. The ones that opened on the problem instead of the aesthetic.
 
 Clarity converts. Polish just makes the flop look expensive.
 
-Follow for the stuff I learned the hard way making thousands of these.
-Comment SWIPE for 20 ads worth studying.
+Follow for the stuff I learned the hard way making 10,000+ ads.
+Comment SWIPE for 20 ads that prove clarity beats polish, with notes on why they work.
 
 ---
 
