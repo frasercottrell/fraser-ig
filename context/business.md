@@ -38,11 +38,19 @@ Keep freebies short (1–2 pages), one per content pillar, rotate them. Each fre
 
 Promote via **keyword CTAs + ManyChat**: "Comment AD", "Comment HOOKS", etc. (drives engagement signals + starts conversations).
 
-### Standard keyword CTAs (use these exact numbers/keywords)
+### Standard keyword CTAs
 
-- **HOOKS** → "Comment HOOKS and I'll send you **34** proven hook templates to start from." (the hook swipe file)
-- **SWIPE** → the annotated ad swipe file (20 high-performing ads + notes)
-- **CONVERT** → "why your ads don't convert" PDF (5 mistakes + fixes)
-- **WHY** → "the 5 questions that reveal whether your agency actually knows what's working" (to build; fits agency-call-out content)
+Every keyword needs a real destination (ManyChat auto-DM, or manual reply with the link) or the comments
+come in but the leads leak. **A CTA that promises an undelivered freebie is worse than no CTA.**
 
-Every keyword needs a real destination (ManyChat auto-DM, or manual reply with the link) or the comments come in but the leads leak.
+**LIVE right now (only one set up):**
+- ✅ **HOOKS** → "Comment HOOKS and I'll send you **34** proven hook templates to start from." (the hook swipe file)
+
+**Not built yet — do NOT promise these until they exist:**
+- ⛔ **SWIPE** → annotated ad swipe file (20 ads + notes)
+- ⛔ **CONVERT** → "why your ads don't convert" PDF (5 mistakes + fixes)
+- ⛔ **WHY** → the 5 questions that reveal whether your agency knows what's working (fits agency call-outs)
+
+**Rule until more freebies exist:** default the comment CTA to **HOOKS**, and favour reel topics where HOOKS
+is a genuine match (Pillar 1 hook/creative content especially). When a reel's topic doesn't fit HOOKS, use a
+**soft CTA** instead — a comment-to-engage question or a plain follow — never a freebie we can't deliver.
