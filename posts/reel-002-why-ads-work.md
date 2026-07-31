@@ -24,4 +24,4 @@ The winners all do three things before the third second:
 Identity. A real tension. A loop they need closed. Miss one and the scroll wins.
 
 Follow @frasercottrell for more on why ads actually work.
-Comment HOOKS and I'll send you 30 proven hook templates to start from.
+Comment HOOKS and I'll send you 34 proven hook templates to start from.

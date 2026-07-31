@@ -37,3 +37,12 @@ Keep freebies short (1–2 pages), one per content pillar, rotate them. Each fre
 - ❌ Audit checklist — skip, attracts pre-launch beginners (wrong journey stage)
 
 Promote via **keyword CTAs + ManyChat**: "Comment AD", "Comment HOOKS", etc. (drives engagement signals + starts conversations).
+
+### Standard keyword CTAs (use these exact numbers/keywords)
+
+- **HOOKS** → "Comment HOOKS and I'll send you **34** proven hook templates to start from." (the hook swipe file)
+- **SWIPE** → the annotated ad swipe file (20 high-performing ads + notes)
+- **CONVERT** → "why your ads don't convert" PDF (5 mistakes + fixes)
+- **WHY** → "the 5 questions that reveal whether your agency actually knows what's working" (to build; fits agency-call-out content)
+
+Every keyword needs a real destination (ManyChat auto-DM, or manual reply with the link) or the comments come in but the leads leak.
