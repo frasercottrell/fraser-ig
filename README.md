@@ -18,6 +18,7 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 - **[instagram-playbook.md](context/instagram-playbook.md)** — execution: bio, trial reels, carousels, cadence, action plan
 - **[hooks-swipe.md](context/hooks-swipe.md)** — hook swipe file by category
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
+- **[results-log.md](context/results-log.md)** — real performance data + what each reel taught us (the flywheel)
 
 ## Anti-AI-slop check
 
