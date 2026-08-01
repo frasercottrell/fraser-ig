@@ -124,7 +124,7 @@ Brands find one format that works and run it into the ground. All video. All the
 The algorithm wants variety. Give it a mix:
 
 1. Video. Your workhorse. Story, demo, UGC.
-2. Statics. Cheap, fast, and they catch the people video doesn't. Often your best CPA.
+2. Statics. Cheap and fast to make. They catch the people video misses, often at your best CPA.
 3. Different angles inside each. Same product, a different reason to care.
 
 One format is one door into your brand. A mix opens more of them.
