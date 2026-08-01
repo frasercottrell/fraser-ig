@@ -147,9 +147,24 @@ Skip rate, best → worst (lower = better stop):
 
 **Takeaway so far:** the formula is only as good as the craft carrying it. A strong hook on dark B-roll with a tail still skips. **Re-shoot the bank on the bright/dynamic set; cut the "…." tails.**
 
+### Reel 006 — "AI is bad at the one thing everyone uses it for" (batch 8 #2, AI, operator-framed)
+
+- **On-screen hook:** "Everyone's using AI to write their ads. It's the one thing it's worst at…." (another "…." tail)
+- **B-roll:** brighter — window light, at the laptop. Better than reel 005's dark shot.
+
+**Metrics:** Views 159 · Reached 112 · Watch **5s** · Follows 0 · **Likes 5 · Comments 1 · Shares 1** · Saves ~1
+- Skip **51.8% (Higher)** · **Like 4.4% (Higher — best yet)** · **Save 0.9% (Higher)** · **Share 0.9% (Higher)** · **Comment 0.9% (Higher)**
+
+**Read — best engagement of any reel so far:**
+- Still high skip + low reach, but **every engagement rate came back green.** The people who stayed cared more than on any other reel. Like rate 4.4% is a standout.
+- **Confirms: AI (operator-framed) is a genuine engagement magnet.** Fewer stop, but they like/save/share/comment hard. Keep AI woven in.
+- 5s watch (vs reel 005's 3s) — brighter B-roll likely helped the hold.
+
+**Cross-cutting note (Day 2):** every Day-2 reel is skipping *higher than benchmark* (50–52%), vs Reel 001's 35%. Common factor: today's hooks are **3-line and framework-y**; the best-stopping past hook was a punchy, visceral one-liner. Hypothesis to test: **shorter, sharper on-screen hooks stop better than long 3-liners.** (Also: cut the "…." tails.)
+
 ---
 
-## Patterns forming (n=5 — firming up)
+## Patterns forming (n=6 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
