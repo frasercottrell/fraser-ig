@@ -32,6 +32,11 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
+### Current content mode (as of now)
+
+- **Trial reels only** — B-roll + one on-screen hook + caption. **No talking-head / "yapping" videos yet.** Anything that needs Fraser performing to camera (e.g. the AI multi-language reel) is **parked** until talking-heads start.
+- **AI is woven in, ~1 reel per batch** — operator-framed (see operating-model.md). Not a dedicated AI batch; it sits alongside the other pillars.
+
 ### ⭐ The trial-reel formula (learned from our own data — this is the default now)
 
 Proven on Fraser's own account across the first 4 reels (see results-log.md). Every new trial reel starts here:
