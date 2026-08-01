@@ -1,20 +1,20 @@
-# Ready for Tomorrow — adapted with Day-2 learnings
+# Ready for Tomorrow. Adapted with Day-2 learnings
 
-Curated + adapted from the queue using what today's data proved (see results-log.md → "Day-2 finding"):
-- **Each reel gets a specific bright/dynamic B-roll** (the #1 stop lever — the crew-shoot clip hit 36% skip vs 50%+ for dark/static).
+Picked and adapted from the queue using what today's data proved (see results-log.md → "Day-2 finding"):
+- **Each reel gets a specific bright/dynamic B-roll** (the #1 stop lever. The crew-shoot clip hit 36% skip vs 50%+ for dark/static).
 - **Topics weighted to what earns cold engagement:** AI (best engagement of any reel) + sharp saveable frameworks.
 - **Hooks tightened, no "…." tails.** One thing on screen. Caption first line = the driver.
-- **Trending audio (↑) on every one** — non-negotiable; it's the reach lever on a cold pool.
+- **Trending audio (↑) on every one**. Non-negotiable; it's the reach lever on a cold pool.
 - The goal loop: dynamic B-roll stops the stranger → saveable/AI topic earns the save/share → IG expands reach → new follows.
 
 **Post order (2–3/day):** 1 (AI) · 2 (hooks) · 3 (first-3-sec) · 4 (statics) · 5 (fatigue). Rotate the B-rolls listed.
 
 ---
 
-## 1 — AI (best engagement topic) · HOOKS
+## 1. AI (best engagement topic) · HOOKS
 
 **On-screen hook:** "Everyone's using AI to write their ads. It's the one thing it's worst at."
-**B-roll:** bright — you at the laptop mid-work, hands moving, screen visible. Movement, not a static sit.
+**B-roll:** bright. You at the laptop mid-work, hands moving, screen visible. Movement, not a static sit.
 **Audio:** trending (↑).
 
 **Caption:**
@@ -38,10 +38,10 @@ Comment HOOKS and I'll send you 34 proven hook templates to write the part AI ca
 
 ---
 
-## 2 — Hooks framework (HOOKS-perfect fit) · HOOKS
+## 2. Hooks framework (HOOKS-perfect fit) · HOOKS
 
 **On-screen hook:** "You're writing your hooks in the wrong order."
-**B-roll:** the crew filming on set (the winner — camera on gimbal, someone directing, movement). Visually busy.
+**B-roll:** the crew filming on set (the winner. Camera on gimbal, someone directing, movement). Visually busy.
 **Audio:** trending (↑).
 
 **Caption:**
@@ -61,7 +61,7 @@ Comment HOOKS and I'll send you 34 proven hook templates to start from.
 
 ---
 
-## 3 — First-3-seconds framework · HOOKS
+## 3. First-3-seconds framework · HOOKS
 
 **On-screen hook:** "Your ads are dying in the first 3 seconds."
 **B-roll:** rigging / adjusting a light on set, bright, hands working. Or scrubbing an ad timeline on a bright monitor.
@@ -84,7 +84,7 @@ Comment HOOKS and I'll send you 34 proven hook templates to start from.
 
 ---
 
-## 4 — Static ads framework · HOOKS
+## 4. Static ads framework · HOOKS
 
 **On-screen hook:** "Your static ads look expensive and sell nothing."
 **B-roll:** designing / reviewing a static on a bright screen, or a product shot being set up on set. Movement.
@@ -109,7 +109,7 @@ Comment HOOKS and I'll send you 34 proven hook templates to start from.
 
 ---
 
-## 5 — Creative fatigue framework · HOOKS
+## 5. Creative fatigue framework · HOOKS
 
 **On-screen hook:** "The ad carrying your whole account is already dying."
 **B-roll:** walking through the studio, or reviewing dashboards/numbers on a bright screen. Movement, not static.
