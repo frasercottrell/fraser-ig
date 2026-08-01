@@ -89,7 +89,46 @@ Match the signal you chase to the *job* of the piece (see operating-model.md: sa
 
 ---
 
-## Patterns forming (n=3 — firming up)
+---
+
+## Reel 004 — "Best copywriter is your customer" (Pillar 2, VoC, abstract hook)
+
+- **On-screen hook:** "The best copywriter on your account is your customer, here's why…."
+- **B-roll:** dark/static shot (two people looking at a phone) — dim, low movement ⚠️
+- **Caption:** the VoC how-to. Audio: "Haze Muse · Salty Air" (trending? unknown).
+
+**Metrics:** Views 139 · Reached 106 · Avg watch **2s** · Follows 0 · Likes 0 · Comments 0 · Saves 0
+- Skip **62.3% (Higher / worst so far)** · Share 0.0% · Like 0.0%
+
+**Read:**
+- **Weakest hook of the four.** "Best copywriter is your customer, here's why…" is a clever *aphorism*, not a *pain*. It doesn't name a sharp tension the viewer feels — it's an abstract insight that requires you to already care about copywriting. Clever ≠ stopping.
+- **"…here's why" is a weak tail** — it defers instead of hitting.
+- **B-roll hurt it too:** dark, static, low movement. The winners had bright, dynamic sets (clapperboard, lights). 2s watch = they bounced on sight.
+- Was meant to be saveable, got 0 saves — **a saveable payoff is worthless if the hook doesn't stop the right person first.** Hook gates everything.
+
+---
+
+## 🔑 Hook stopping-power ranking (n=4 — this is the real finding)
+
+Skip rate, best → worst (lower = better stop):
+
+| Reel | Hook style | Skip | Watch | Converts? |
+|---|---|---|---|---|
+| 001 agency why-gap | **Identity mirror** ("your agency…") | **35.1% ✅** | 6s | reach, but 0 saves/follows |
+| 002 pretty-before-clear | Personal story ("my biggest mistake…") | 40.3% ✅ | 4s | low |
+| 003 3-jobs-of-a-hook | Authority framework ("I studied thousands…") | 48.6% | 5s | **1 follow, 3 saves, keyword lead** |
+| 004 customer-copywriter | Abstract aphorism ("best copywriter is…") | 62.3% ❌ | 2s | nothing |
+
+**The rule this gives us:** the more the hook names the **viewer** and a **sharp, felt tension**, the better it stops. Identity/pain hooks stop best; abstract/clever statements stop worst. This is Identity → Pain → Curiosity, proven on Fraser's own account.
+
+**The two-lever model, confirmed:**
+- **Hook** decides *how many* (and how qualified) stop. → lead with identity + pain, never an aphorism.
+- **Content job** decides *what they do* after. → saveable frameworks convert (saves/follows/keyword leads); hot takes get reach; abstract insights get neither.
+- **Winning combo = identity/pain hook + saveable framework payoff.** (Reel 003 had the payoff but a soft authority hook; 001 had the hook but a no-save hot take. Fuse them.)
+
+**Secondary levers:** bright/dynamic B-roll > dark/static; trending audio (↑) matters; "…here's why" tails are weak — cut them.
+
+## Patterns forming (n=4 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
