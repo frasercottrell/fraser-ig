@@ -32,6 +32,17 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
+### How Instagram trial reels actually work (get this right)
+
+- A trial reel is shown **only to non-followers.** Existing followers never see it (not in feed, not on the grid). **Every metric we get is 100% cold audience.**
+- IG pushes it to an initial **test pool** of non-followers (~100–130 reached so far). **Reach is earned, not capped by follower count** — if retention + engagement are good in the pool, IG *expands* distribution; if not, it stays small.
+- A strong performer can later be **shared to followers / made a normal reel** — but until you do that, it stays cold-only.
+- **Implications:**
+  - "0 follows" = net-new-follower acquisition from strangers. That's the whole point of trial reels. It's the goal metric.
+  - Low reach isn't an account-size ceiling — it's the reel not yet earning expansion. Fix the stop + engagement and reach grows.
+  - Engagement here is from cold audience, which makes it a stronger signal than warm-follower likes.
+  - The loop: **stop the stranger (B-roll) → make them save/share (topic) → IG expands reach → more follows.** All cold.
+
 ### Current content mode (as of now)
 
 - **Trial reels only** — B-roll + one on-screen hook + caption. **No talking-head / "yapping" videos yet.** Anything that needs Fraser performing to camera (e.g. the AI multi-language reel) is **parked** until talking-heads start.

@@ -187,7 +187,7 @@ Three reels, same formula, same day, wildly different skip:
 - **B-roll visual interest > hook length for the stop.** Reel 007 had a 3-line hook and still stopped best, because the footage was bright, dynamic and unusual. This overturns the "3-line hooks skip more" hypothesis from reel 006's entry — it was mostly the B-roll.
 - **Topic drives engagement, independent of the stop.** AI (006) got the likes/saves/shares; founder-feedback (007) stopped people but they didn't act.
 - **The winning combo = bright/dynamic B-roll + engaging/saveable topic (AI or sharp framework).** Done separately today; fuse them.
-- **Follows still 0 across all Day-2 reels** — but reach is 110–130, so a follow is a low-probability event at this volume. **Low reach is the real ceiling now.** Likely audio (trending?) and account size. Fix: check every reel uses trending audio (↑); keep volume up to grow the account past the trial-reel reach cap.
+- **Follows still 0 across all Day-2 reels** — all cold non-follower audience (that's what trial reels are), and reach is only ~110–130 (the initial test pool), so a net-new follow is a low-probability event at this volume. **Reach is *earned*, not capped by follower count:** a trial reel only expands beyond the test pool if retention + engagement are strong. So the fix for reach = fix the stop (B-roll) + engagement (topic), and use trending audio (↑). Better in-pool performance → IG expands → more follow chances. (See playbook: "How Instagram trial reels actually work".)
 - **Every reel went out with a "…." tail** and (reel 005) a pre-strip em-dash caption. Use the cleaned versions; drop the tails.
 
 ---
