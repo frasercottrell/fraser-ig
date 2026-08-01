@@ -1,4 +1,4 @@
-# Reel — Pillar 2: "The best copywriter on your account is your customer"
+# Reel. Pillar 2: "The best copywriter on your account is your customer"
 
 Anatomy: one thing on screen · caption first line = driver · saveable how-to · CTA.
 
@@ -6,7 +6,7 @@ Anatomy: one thing on screen · caption first line = driver · saveable how-to �
 
 **B-roll:** at the laptop scrolling reviews / typing (movement, recognisable studio).
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 You're paying someone to write your ads. The best lines are already sitting in your reviews, for free 👇
 
@@ -15,7 +15,7 @@ The best-converting line I've ever put in an ad, I didn't write. A customer did,
 Here's what nobody wants to admit: your customers describe the problem and the payoff better than any copywriter, because they actually lived it. The exact words they use. The weird, specific phrasing. That's what stops the scroll, because it sounds like a real person instead of an ad.
 
 So stop inventing angles. Go read:
-→ Your reviews (especially the 3-star ones — those are the honest ones)
+→ Your reviews (especially the 3-star ones. Those are the honest ones)
 → Your DMs and comments
 → Your support tickets
 

@@ -70,6 +70,7 @@ Never use these. They're instant tells:
 - "Let me know your thoughts!" and similar filler closers
 - "unlock", "leverage", "supercharge", "elevate" (as verbs)
 - Hashtag spam (skip it, or max 2 at the very end)
+- **Em-dashes (—). One of the loudest AI tells now. Never use them.** Recast as a full stop (a fragment; his voice loves these), a comma, or split the sentence. The linter (`scripts/voice-lint.py`) flags every single one, not just stacked ones.
 
 ---
 

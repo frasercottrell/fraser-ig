@@ -159,6 +159,10 @@ def check_line(line):
     if line.count("—") + line.count(" - ") + line.count(" – ") >= 2:
         flags.append(("em-dash cadence", "—…—",
                       "stacked dramatic clauses on dashes"))
+    # any em-dash at all — a loud AI tell; use a full stop, comma, or fragment
+    elif "—" in line or " – " in line:
+        flags.append(("em-dash", "—",
+                      "em-dash reads as AI — recast as a full stop, comma, or fragment"))
     # balanced triplet: "X, Y, and Z" of short, matching-weight items
     trip = re.search(r"\b([\w-]+),\s+([\w-]+),\s+and\s+([\w-]+)\b", line)
     if trip and all(len(g) <= 13 for g in trip.groups()) \

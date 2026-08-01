@@ -1,4 +1,4 @@
-# Batch 4 — Scheduled Queue (5 ready-to-post reels)
+# Batch 4. Scheduled Queue (5 ready-to-post reels)
 
 All built to the live constraints: one thing on screen · caption first line = driver · HOOKS CTA only where
 it genuinely fits, otherwise a soft comment-to-engage CTA (drives comments/reach without promising an
@@ -11,11 +11,11 @@ unbuilt freebie). Pillar balance leans Pillar 1 (40% + HOOKS fits it).
 
 ---
 
-## 003 — Pillar 1: Why Ads Work  ·  CTA: HOOKS (perfect fit)
+## 003. Pillar 1: Why Ads Work  ·  CTA: HOOKS (perfect fit)
 
 **On-screen hook (one line):** "Stop trying to write clever hooks. Start stealing proven ones."
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 The best hooks aren't written from scratch. They're adapted from ones that already worked 👇
 
@@ -30,11 +30,11 @@ Comment HOOKS and I'll send you 34 proven hook templates to start from.
 
 ---
 
-## 004 — Pillar 1: Why Ads Work  ·  CTA: soft comment
+## 004. Pillar 1: Why Ads Work  ·  CTA: soft comment
 
 **On-screen hook (one line):** "The ugliest ad in the account is usually the one making money."
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 Brands keep making their ads prettier and quietly wondering why they convert worse 👇
 
@@ -49,17 +49,17 @@ What's the best-performing "ugly" ad you've ever run? Drop it below 👇
 
 ---
 
-## 005 — Pillar 2: Inside the Ad World  ·  CTA: soft comment
+## 005. Pillar 2: Inside the Ad World  ·  CTA: soft comment
 
 **On-screen hook (one line):** "Here's how our agency finds ad angles that actually work."
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 We don't brainstorm ad angles. We mine them 👇
 
 Everyone thinks the good angles come from a creative session round a whiteboard. Ours come from reading. Reviews. Comments. The DMs customers send. The exact words real buyers use to describe the problem and the win.
 
-That language is the angle. We're not inventing what to say — we're lifting it straight from the people who already bought. The best copywriter on your account is your customer. You're just transcribing.
+That language is the angle. We're not inventing what to say. We're lifting it straight from the people who already bought. The best copywriter on your account is your customer. You're just transcribing.
 
 Next time you're stuck for an angle, close the whiteboard and open your reviews.
 
@@ -68,15 +68,15 @@ What's the best line a customer's ever written about your product? Drop it below
 
 ---
 
-## 006 — Pillar 4: Founder Perspective  ·  CTA: soft comment
+## 006. Pillar 4: Founder Perspective  ·  CTA: soft comment
 
 **On-screen hook (one line):** "Your ads aren't the problem. Your offer is."
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 You can't out-create a boring offer. I've watched brands burn months trying 👇
 
-Everyone comes to us wanting better creative. Sometimes the creative's already fine — it's the offer that's the problem.
+Everyone comes to us wanting better creative. Sometimes the creative's already fine. It's the offer that's the problem.
 
 If the thing you're selling doesn't excite anyone, no hook saves it. You've put a brilliant trailer in front of a film nobody wants to see. The ad wins the click. The offer loses the sale, and you blame the ad.
 
@@ -85,19 +85,19 @@ Before you spend another month testing creative, ask the harder question: is the
 Creative amplifies. It can't rescue.
 
 Follow @frasercottrell for more of the stuff most agencies won't tell you.
-Be honest — is it your creative or your offer? 👇
+Be honest. Is it your creative or your offer? 👇
 
 ---
 
-## 007 — Pillar 1: Why Ads Work  ·  CTA: HOOKS
+## 007. Pillar 1: Why Ads Work  ·  CTA: HOOKS
 
 **On-screen hook (one line):** "Your best-performing ad has an expiry date. Most brands miss it."
 
-**Caption** — *first line = driver:*
+**Caption**. *first line = driver:*
 
 The ad carrying your whole account right now is already dying. You just can't see it yet 👇
 
-Every winning ad fatigues. Not because it got worse — because your audience saw it too many times. The hook that stopped them in week one is wallpaper by week four.
+Every winning ad fatigues. Not because it got worse. Because your audience saw it too many times. The hook that stopped them in week one is wallpaper by week four.
 
 The mistake is waiting for it to die, then panicking and scrambling for a replacement. The fix is having the next one ready before the current one drops. You're not chasing one winner. You're building a pipeline of them.
 

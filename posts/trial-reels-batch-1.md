@@ -1,4 +1,4 @@
-# Trial Reels — Batch 1
+# Trial Reels. Batch 1
 
 8 trial reels to start testing (2–3/day, rotate 2–3 B-rolls). Each = text hook on screen +
 5–7s B-roll + trending audio + caption below + 2 CTAs. Test one per pillar to see what non-followers respond to.
@@ -10,7 +10,7 @@ scrubbing an ad timeline on screen · coffee + notes. Always some movement.
 
 ---
 
-## 1 — Pillar 1: Why Ads Work
+## 1. Pillar 1: Why Ads Work
 
 **On-screen hook:** "Everyone copied this Nike ad. They all missed why it actually worked."
 
@@ -19,7 +19,7 @@ Everyone saw the Nike ad go viral and rushed to copy the format.
 
 The format was never the point.
 
-It worked because it named a feeling the audience already had before it ever mentioned the product. The edit, the sound, the celebrity — all secondary. Copy the surface and you get a nice-looking ad that sells nothing.
+It worked because it named a feeling the audience already had before it ever mentioned the product. The edit, the sound, the celebrity. All secondary. Copy the surface and you get a nice-looking ad that sells nothing.
 
 Steal the *why*, not the *what*.
 
@@ -28,14 +28,14 @@ Comment SWIPE and I'll send you 20 ads worth studying (with notes on why they wo
 
 ---
 
-## 2 — Pillar 1: Why Ads Work
+## 2. Pillar 1: Why Ads Work
 
 **On-screen hook:** "Your creative matters more than your targeting. Here's the proof."
 
 **Caption:**
 Brands still spend weeks tweaking audiences and 20 minutes on the ad itself.
 
-Meta's algorithm got so good at finding buyers that targeting is mostly solved. The variable you actually control now is the creative — the hook, the message, the first 3 seconds.
+Meta's algorithm got so good at finding buyers that targeting is mostly solved. The variable you actually control now is the creative. The hook, the message, the first 3 seconds.
 
 Weak creative + perfect targeting = expensive silence.
 Strong creative + broad targeting = scale.
@@ -47,9 +47,9 @@ Comment CONVERT for the 5 reasons ads stop converting (and the fixes).
 
 ---
 
-## 3 — Pillar 2: Inside the Ad World (AI)
+## 3. Pillar 2: Inside the Ad World (AI)
 
-**On-screen hook:** "We rebuilt a tool the whole ad industry pays for — with AI."
+**On-screen hook:** "We rebuilt a tool the whole ad industry pays for. With AI."
 
 **Caption:**
 There's a tool half the creative industry pays monthly for.
@@ -65,7 +65,7 @@ Comment SWIPE for our ad breakdown vault.
 
 ---
 
-## 4 — Pillar 2: Inside the Ad World
+## 4. Pillar 2: Inside the Ad World
 
 **On-screen hook:** "This is what happens to your ad before it ever goes live."
 
@@ -81,25 +81,25 @@ Comment HOOKS for the hook doc we start every concept with.
 
 ---
 
-## 5 — Pillar 3: Client Wins (⚠️ swap in a REAL number)
+## 5. Pillar 3: Client Wins (⚠️ swap in a REAL number)
 
 **On-screen hook:** "We tested 500 static ads. A handful made all the money."
 
 **Caption:**
 500 static ads. The vast majority did nothing.
 
-A small handful carried the entire account — and they had almost nothing in common visually. What they shared was structural: one clear message, a hook that named the problem in the first line, zero clever-for-clever's-sake design.
+A small handful carried the entire account. And they had almost nothing in common visually. What they shared was structural: one clear message, a hook that named the problem in the first line, zero clever-for-clever's-sake design.
 
 Volume isn't the strategy. Volume is how you *find* the strategy. Then you double down on the winners and kill everything else fast.
 
 Follow for what we learn running creative at scale.
 Comment SWIPE and I'll send the swipe file of the ones that worked.
 
-> Fraser — drop the real split (e.g. "7 of 500 drove 80% of revenue") and this becomes a proof post, not just a lesson.
+> Fraser. Drop the real split (e.g. "7 of 500 drove 80% of revenue") and this becomes a proof post, not just a lesson.
 
 ---
 
-## 6 — Pillar 3: Client Wins (⚠️ needs a REAL number)
+## 6. Pillar 3: Client Wins (⚠️ needs a REAL number)
 
 **On-screen hook:** "One line change dropped this brand's CPA by [X]%."
 
@@ -115,18 +115,18 @@ Rewrite the opening before you touch anything else.
 Follow for more creative fixes that move the number.
 Comment CONVERT for the 5 most common reasons ads don't convert.
 
-> Fraser — real brand + real % and this is one of your strongest posts. Anonymise the brand if needed.
+> Fraser. Real brand + real % and this is one of your strongest posts. Anonymise the brand if needed.
 
 ---
 
-## 7 — Pillar 4: Founder Perspective (agency call-out)
+## 7. Pillar 4: Founder Perspective (agency call-out)
 
 **On-screen hook:** "If your agency keeps blaming the algorithm every month, read this."
 
 **Caption:**
 "The algorithm's been weird lately."
 
-If you hear that every month, that's not a market update — it's an agency that can't explain its own results.
+If you hear that every month, that's not a market update. It's an agency that can't explain its own results.
 
 A good partner can tell you *why* an ad worked and why the next one will. If every debrief is a shrug and a promise to "keep testing," you're paying for guessing.
 
@@ -137,14 +137,14 @@ Comment CONVERT for the audit questions we'd ask your account first.
 
 ---
 
-## 8 — Pillar 4: Founder Perspective (founder mirror)
+## 8. Pillar 4: Founder Perspective (founder mirror)
 
 **On-screen hook:** "Founders: you're the reason your best ad died."
 
 **Caption:**
 The ad's working. It's scaling. Then you get bored of seeing it and ask to "refresh the creative."
 
-You're not the audience. You've seen it 400 times — they've seen it twice. Killing a winner because *you're* sick of it is the most expensive habit in DTC.
+You're not the audience. You've seen it 400 times. They've seen it twice. Killing a winner because *you're* sick of it is the most expensive habit in DTC.
 
 Judge ads by the numbers, not by your own fatigue. Your taste is not the KPI.
 
