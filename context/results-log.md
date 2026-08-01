@@ -67,8 +67,36 @@ Match the signal you chase to the *job* of the piece (see operating-model.md: sa
 
 ---
 
-## Patterns forming (n=2 — hold loosely, confirm with more)
+---
 
-1. **Identity/mirror hooks ("your agency", "you're paying…") > personal-story hooks ("my biggest mistake…") for cold reach.** The cold viewer needs to be *in* the hook. Save founder-story hooks for the feed / once they follow.
-2. **0 follows across 2 reels with good hooks = the leak is the profile, not the hook.** Decent scroll-stop, zero conversion → the profile isn't closing. **Profile setup is now the clear priority.**
-3. **Always check the audio is trending (↑).** Cheap lever, big reach effect.
+## Reel 003 — "3 jobs of a hook" (Pillar 1, SAVEABLE framework, HOOKS CTA)
+
+- **On-screen hook:** "I've studied thousands of winning ads. Their hooks all do the same 3 things…"
+- **B-roll:** studio set, clapperboard — on-brand ✅
+- **Caption:** the written framework (3 jobs) + **HOOKS** comment CTA (34 templates).
+
+**Metrics:** Views 255 · Reached 186 · Avg watch 5s · **Follows 1** · Likes 0 · **Comments 2** · **Saves 3** · Reposts 0
+- Skip **48.6% (Higher / worse)** · Share 0.0% (typical) · Like 0.0% (lower) · **Save 1.6% (Higher / good)** · **Comment 1.1% (Higher / good)**
+- 🎯 **One comment was "hook"** — first keyword-CTA conversion. A live lead.
+
+**Read — this is the important one:**
+- **The saveable framework did exactly its job.** Reel 001 (hot take) got 0 saves; this framework got 3 saves + 1 follow + 2 comments. Different content job → different signal, as predicted in operating-model.md.
+- **Higher skip but better conversion = narrower but more qualified.** The educational/authority hook ("winning ads… 3 things") stops fewer cold scrollers than an identity mirror, but the ones who stop are the *right* people — they save, comment, follow. Reel 001 was broad-and-shallow (huge reach, 0 conversion); this was narrow-and-qualified (less reach, real conversion). Per the model: qualified views > vanity views.
+- **The first follow came from VALUE content, not a hot take.** Confirms Georgia: people follow once you give them a reason (utility), not just a stop.
+- **The comment-keyword CTA works.** Adding it (the lever missing from 001) produced the first keyword comment. Keep it on every saveable reel.
+
+**⚡ Action:** deliver the 34 hooks to whoever commented "hook" — DM them the doc (ManyChat auto or manual reply). A raised hand you don't answer is a wasted lead.
+
+---
+
+## Patterns forming (n=3 — firming up)
+
+1. **Two hook jobs, both valid — match to intent:**
+   - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
+   - *Educational/authority hooks* ("I studied thousands… 3 things") → **higher skip, but saves + comments + follows** (Reel 003). Best for conversion + attracting the right people.
+   - **Next experiment:** fuse them — an identity/"you" hook (high stop) in front of saveable framework content (high conversion). Best of both.
+2. **Saveable framework content converts to follows/saves; hot takes get reach but 0 saves.** Make more frameworks — they're what grows the *right* audience.
+3. **Personal-story hooks ("my biggest mistake") underperform cold** (Reel 002) — save them for the feed / post-follow.
+4. **Comment-keyword CTA works — always include it on saveable reels** (and deliver the freebie!).
+5. **Follows are coming now (1 so far)** — the profile is converting *some*. Still set it up properly to lift the rate.
+6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
