@@ -162,9 +162,37 @@ Skip rate, best → worst (lower = better stop):
 
 **Cross-cutting note (Day 2):** every Day-2 reel is skipping *higher than benchmark* (50–52%), vs Reel 001's 35%. Common factor: today's hooks are **3-line and framework-y**; the best-stopping past hook was a punchy, visceral one-liner. Hypothesis to test: **shorter, sharper on-screen hooks stop better than long 3-liners.** (Also: cut the "…." tails.)
 
+### Reel 007 — "You're the bottleneck on your own ads" (batch 8 #3, founder)
+
+- **On-screen hook:** "You're the bottleneck on your own ads. And you don't even know it…."
+- **B-roll:** ✅ **bright, dynamic — a real crew shoot** (camera on gimbal, someone on the floor filming, bright windows). Visually unusual. Search association: "video production bottlenecks".
+
+**Metrics:** Views 166 · Reached 110 · Watch **5s** · Follows 0 · Likes 0 · Comments 0 · Saves 0
+- **Skip 35.7% (LOWER / best of the day)** · everything else typical/lower (no engagement)
+
+**Read:** best stop of the day by far, on the brightest/most dynamic B-roll. But the founder-feedback topic didn't drive engagement. Confirms the split: **B-roll drives the stop; topic drives the engagement.**
+
 ---
 
-## Patterns forming (n=6 — firming up)
+## 🔑 Day-2 finding: B-roll is the dominant lever on skip rate
+
+Three reels, same formula, same day, wildly different skip:
+
+| Reel | B-roll | Skip | Watch | Engagement |
+|---|---|---|---|---|
+| 005 identity | dark, looking away | 50.8% ❌ | 3s | ~none |
+| 006 AI | brightish, at laptop | 51.8% | 5s | **all green (best)** |
+| 007 founder | bright, dynamic crew shoot | **35.7% ✅** | 5s | none |
+
+- **B-roll visual interest > hook length for the stop.** Reel 007 had a 3-line hook and still stopped best, because the footage was bright, dynamic and unusual. This overturns the "3-line hooks skip more" hypothesis from reel 006's entry — it was mostly the B-roll.
+- **Topic drives engagement, independent of the stop.** AI (006) got the likes/saves/shares; founder-feedback (007) stopped people but they didn't act.
+- **The winning combo = bright/dynamic B-roll + engaging/saveable topic (AI or sharp framework).** Done separately today; fuse them.
+- **Follows still 0 across all Day-2 reels** — but reach is 110–130, so a follow is a low-probability event at this volume. **Low reach is the real ceiling now.** Likely audio (trending?) and account size. Fix: check every reel uses trending audio (↑); keep volume up to grow the account past the trial-reel reach cap.
+- **Every reel went out with a "…." tail** and (reel 005) a pre-strip em-dash caption. Use the cleaned versions; drop the tails.
+
+---
+
+## Patterns forming (n=7 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
