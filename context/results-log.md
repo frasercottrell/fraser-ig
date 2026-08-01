@@ -128,7 +128,28 @@ Skip rate, best → worst (lower = better stop):
 
 **Secondary levers:** bright/dynamic B-roll > dark/static; trending audio (↑) matters; "…here's why" tails are weak — cut them.
 
-## Patterns forming (n=4 — firming up)
+---
+
+## Day 2 posts (batch 8, formula-built)
+
+### Reel 005 — "Your ad has no idea who it's talking to" (batch 8 #1, identity/pain hook + framework)
+
+- **On-screen hook:** "Your ad has no idea who it's talking to. That's why no one stops…." (posted with a "…." tail we'd said to cut)
+- **B-roll:** ⚠️ **dark, dim, looking away from camera** — exactly the kind that tanked Reel 004.
+- **Caption:** batch-8 #1 (posted with the pre-strip em-dash version). Note: IG surfaced a "why my ads are not converting" search association — good for discoverability.
+
+**Metrics:** Views 184 · Reached 131 · Watch **3s** · Follows 0 · Likes 1 · Comments 0 · Saves 0
+- Skip **50.8% (Higher / worse)** · Like 0.8% (Higher) · Save 0.0% (Lower) · Share 0.0% (typical)
+
+**Read (hold loosely — low reach = small sample):**
+- Identity/pain hook but **high skip (50.8%)**. Confounded by two things we already know hurt: **dark B-roll** and a **"…." tail**. Can't blame the hook cleanly when the craft levers were working against it.
+- Low reach (184) continues a Day-2 pattern of small distribution — watch for whether it's audio (not trending?), account size, or cadence across the rest of today's posts.
+
+**Takeaway so far:** the formula is only as good as the craft carrying it. A strong hook on dark B-roll with a tail still skips. **Re-shoot the bank on the bright/dynamic set; cut the "…." tails.**
+
+---
+
+## Patterns forming (n=5 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
