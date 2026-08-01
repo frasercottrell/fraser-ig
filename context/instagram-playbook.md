@@ -32,6 +32,21 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
+### ⭐ The trial-reel formula (learned from our own data — this is the default now)
+
+Proven on Fraser's own account across the first 4 reels (see results-log.md). Every new trial reel starts here:
+
+1. **Hook = identity + pain.** Name the *viewer* ("you", "your agency", "founders spending £50k/mo") and a *sharp, felt pain* (getting skipped, wasting money, a dying winner). This is what stops the scroll.
+   - Identity/pain hooks stopped best (skip 35%). Abstract aphorisms stopped worst (skip 62%). Clever ≠ stopping.
+   - Cut "…here's why" / trailing tails — they defer instead of hitting.
+2. **Payload = saveable framework.** A numbered breakdown they'd save (3 jobs of a hook, 3 signs of fatigue…). Frameworks convert to saves + follows + keyword leads; hot takes get reach but 0 saves; abstract insights get neither.
+3. **CTA = HOOKS** (while it's the only live freebie) when the topic fits; soft comment CTA otherwise. Always deliver the freebie to anyone who comments the keyword.
+4. **Craft:** bright/dynamic B-roll (dark/static tanked), trending audio (↑), one thing on screen, caption first line = the driver.
+
+**In one line:** *identity/pain hook + saveable framework + HOOKS CTA.* Don't re-test old reels — apply this to new ones.
+
+---
+
 ### Trial reel anatomy (3 parts — ONE thing on screen)
 
 Hard rule: **only one thing on screen** — a single text hook, nothing else. No second beat, no stacked
