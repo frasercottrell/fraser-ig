@@ -46,7 +46,11 @@ Proven on Fraser's own account across the first 4 reels (see results-log.md). Ev
    - Cut "…here's why" / trailing tails — they defer instead of hitting.
 2. **Payload = saveable framework.** A numbered breakdown they'd save (3 jobs of a hook, 3 signs of fatigue…). Frameworks convert to saves + follows + keyword leads; hot takes get reach but 0 saves; abstract insights get neither.
 3. **CTA = HOOKS** (while it's the only live freebie) when the topic fits; soft comment CTA otherwise. Always deliver the freebie to anyone who comments the keyword.
-4. **Craft:** bright/dynamic B-roll (dark/static tanked), trending audio (↑), one thing on screen, caption first line = the driver.
+4. **Craft:** trending audio (↑), one thing on screen, caption first line = the driver, **no "…." tails**.
+   - **⭐ B-roll is the #1 lever on the STOP (proven Day 2).** Bright + dynamic + visually *unusual* (a real crew shoot, movement, something happening) = ~36% skip. Dark/static/looking-away = ~50%+ skip. Pick 2–3 go-to clips that are genuinely interesting to look at and reuse them. This matters more than hook length.
+   - **Topic drives the ENGAGEMENT, separately from the stop.** AI and sharp saveable frameworks earn the likes/saves/shares. Founder/opinion topics can stop well but not get saved.
+   - **Winning combo:** bright/dynamic B-roll (stop) + AI or a sharp framework (engagement). Do both in one reel.
+   - **Reach is the current ceiling** (trial reels sitting ~110–130 reached → follows near-impossible at that volume). Always use trending audio; keep volume up to grow past the cap.
 
 **In one line:** *identity/pain hook + saveable framework + HOOKS CTA.* Don't re-test old reels — apply this to new ones.
 
