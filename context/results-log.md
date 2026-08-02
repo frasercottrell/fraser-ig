@@ -172,6 +172,11 @@ Skip rate, best → worst (lower = better stop):
 
 **Read:** best stop of the day by far, on the brightest/most dynamic B-roll. But the founder-feedback topic didn't drive engagement. Confirms the split: **B-roll drives the stop; topic drives the engagement.**
 
+**⚡ Overnight update (Day 3 morning):** this reel **expanded** — Views 166 → **364**, Reached 110 → **247**, Skip 35.7% → **33.1%** (held as it widened). Still 0 follows / 0 saves / 0 engagement.
+- **This is live proof of the trial-reel loop:** the reel with the best stop is the one IG pushed to a bigger cold pool. **Reach is earned by retention, not capped by follower count** — confirmed.
+- **But expanded reach ≠ results without an engaging topic.** 247 cold people reached, 0 acted. The dynamic B-roll earned the reach; the founder-feedback topic wasted it.
+- **The lesson, now proven end-to-end:** put the winning (dynamic) B-roll under a save-worthy/AI topic → you get the stop *and* the action *and* the expanded reach compounds it. Exactly the fusion in `tomorrow-ready.md`.
+
 ---
 
 ## 🔑 Day-2 finding: B-roll is the dominant lever on skip rate
