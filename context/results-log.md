@@ -218,7 +218,26 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=8 — firming up)
+### Reel 009 — "The first thing I check in a broken ad account isn't the targeting" (fresh batch #2, audit) — 🏆 BREAKTHROUGH
+
+- **On-screen hook:** clean, universal, curiosity + identity. No tail. Strong.
+- **B-roll:** ✅✅ **tight, centered, slightly-unusual POV first frame** — holding a pro camera rig (Atomos monitor) with an ad playing on the screen, walking. Instantly legible and interesting. The opposite of reel 008's wide studio shot.
+
+**Metrics:** Views **929** · Reached **650 (expanded ~6x)** · Watch **6s** · Follows 0 · Likes 6 · Saves 0 · Comments 0
+- **Skip 32.5% (Lower — best ever)** · Like 0.9% (Higher) · rest typical
+
+**Read — cracks the STOP + REACH half of the loop:**
+- **Arresting first frame + universal topic = best stop + biggest expansion by far.** Confirms the reel 008 refinement: it's the *first frame's* clarity/intrigue, not "a set". And universal topics cast wider than niche ones (audit > UGC-brief).
+- **This is the template for cold reach at scale.** 650 reached vs the usual ~110.
+- **The conversion gap persists, harder to ignore now:** 650 reached, 0 saves, 0 follows. Two suspects:
+  1. **Soft CTA, no HOOKS.** The one reel that got real engagement (006, AI) had the comment-for-freebie CTA. This had a soft question → 0 comments. **Hypothesis: the lead-magnet CTA is what converts reach into action.**
+  2. **Broad expansion = less-qualified audience.** IG pushed it to a wide cold pool; high reach tends to come with lower engagement rate.
+
+**Next test:** take THIS winning stop-combo (arresting POV first frame + universal topic) and add a **HOOKS CTA + a genuinely save-worthy payoff**, and see if the big reach converts to saves/follows. That's the whole loop closing.
+
+---
+
+## Patterns forming (n=9 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
