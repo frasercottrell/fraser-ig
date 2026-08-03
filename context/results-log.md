@@ -197,7 +197,28 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=7 — firming up)
+---
+
+## Day 3 posts (fresh batch — tomorrow-ready angles)
+
+### Reel 008 — "Your UGC creator isn't the problem. Your brief is." (fresh batch #1, creative brief)
+
+- **On-screen hook:** clean, no tail ✅ (finally dropped the "…." — good)
+- **B-roll:** crew shoot, BUT a **wide establishing shot** — subject small/in background, a person's back fills the foreground. Reads as "just a studio" at a glance.
+
+**Metrics:** Views 136 · Reached **110 (did not expand)** · Watch 3s · Follows 0 · 0 engagement
+- **Skip 63.6% (Higher — worst yet)** · everything else typical/lower
+
+**Read — refines the B-roll rule, doesn't break it:**
+- High skip → no expansion (stuck at test pool). Model working correctly.
+- **"Bright + dynamic + a set" is NOT enough.** The bottleneck reel (33% skip) had a *tight, unusual, centered* first frame (guy lying on the floor filming — "what's that?"). This one is a *wide establishing shot* with no clear focal point. **The real lever is an arresting, legible FIRST FRAME — clear focal point, ideally something slightly odd.** Wide studio shots don't stop.
+- **Topic breadth matters too.** "Your UGC creator…" self-selects to people who *have* a creator — narrow slice of a cold pool → more skip. Universal pains ("your ads are dying in the first 3 seconds") cast wider.
+
+**Actions:** for B-roll, pick frames with a **clear, slightly-unusual centered subject** (not wide establishing shots). Lead the batch with the **most universal** topics; save narrow ones (UGC-brief) for when there's a warmer audience.
+
+---
+
+## Patterns forming (n=8 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
