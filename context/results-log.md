@@ -237,7 +237,34 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=9 — firming up)
+### Reel 010 — "Your competitor is testing 10x more ads than you. They're using AI." (fresh batch #4, AI)
+
+- **B-roll:** ✅✅ peak arresting first frame — a shirtless guy in an inflatable pool under a shower on set. "What IS this?" You have to look.
+- **Hook:** identity (you have competitors) + pain (falling behind) + AI curiosity. HOOKS CTA.
+
+**Metrics:** Views 379 · Reached 214 (expanded ~2x) · Watch 5s · **Follows 1** · Likes 1 · Saves 0 · Comments 0
+- **Skip 28.4% (Lower — best of all 10 reels)** · rest typical/lower
+
+**Read:** best stop yet (unusual BTS scene) + AI topic = **a follow.** Less raw reach than the audit reel (214 vs 650) but it *converted* (1 follow) where audit (soft CTA, 650 reached) converted 0. **AI keeps being the topic that converts** (engagement/follows), consistent with reel 006. Universal topics (audit) expand biggest; AI converts best.
+
+---
+
+## Fresh batch (Day 3) — the 3-reel summary
+
+| Reel | First frame | Topic breadth | CTA | Skip | Reached | Follows/engagement |
+|---|---|---|---|---|---|---|
+| 008 UGC brief | ❌ wide studio shot | narrow (need a creator) | HOOKS | 63.6% | 110 (no expand) | 0 |
+| 009 audit | ✅ tight POV camera rig | universal | soft | 32.5% | **650** | 6 likes, 0 follows |
+| 010 AI competitor | ✅✅ unusual BTS (pool) | AI (mid), urgent | HOOKS | **28.4%** | 214 | **1 follow** |
+
+**Three clean learnings:**
+1. **The FIRST FRAME decides the stop.** Wide/unclear = 64% skip. Tight/unusual/legible = 28–33% skip. Biggest single lever, confirmed 3x.
+2. **Universal topics expand biggest (audit → 650); AI converts best (the follow).** Match topic to goal: reach vs conversion.
+3. **The stop + reach is SOLVED. Conversion (saves/follows) is the open frontier.** Best skips ever, reach up to 650 — but saves ~0, follows 0–1. AI + HOOKS is the only combo that's converted anything yet.
+
+---
+
+## Patterns forming (n=10 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
