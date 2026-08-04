@@ -284,7 +284,26 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=11 — firming up)
+### Reel 012 — "Nobody skips your ad because it's too long. They skip because it's boring." (batch 9 #2)
+
+- **Hook:** strong, universal, contrarian. Search tag "effective video content strategy". HOOKS CTA.
+- **B-roll:** wide-ish studio shot (empty floor, lights, a figure in the corner) — NOT arresting, but brighter/more depth than reel 008's.
+
+**Metrics:** Views 184 · Reached 147 (slight expansion) · Watch 5s · Follows 0 · Likes 1 · Saves 0 · Comments 0
+- **Skip 37.8% (Lower / good)** · Like 0.7% (Lower) · rest typical
+
+**Read — refines the B-roll rule (they interact):**
+- Expected ~60% skip (wide studio, like reel 008). Got **37.8%**. **The contrarian, universal hook carried the stop despite mediocre B-roll.**
+- So: **first frame is a big lever, but a genuinely contrarian/universal hook can rescue the stop by itself.** Reel 011 (static frame + non-contrarian hook) = 50%; this (weak frame + sharp contrarian hook) = 38%. Best case is both.
+
+**⚠️ The loudest signal across all 12 reels — SAVES are the real bottleneck:**
+- Stop is now reliably crackable (28–38%). But saves are ~0 on nearly everything, follows trickle 1 at a time.
+- **Only reel 003 got real saves (3)** — a dead-concrete, immediately-usable checklist ("the 3 jobs of a hook").
+- **Hypothesis: saves come from ultra-tactical checklists people will literally use, not conceptual "here's why" insights.** Most of our frameworks are "here's why / what to check" — worth testing sharper, do-this-now checklists.
+
+---
+
+## Patterns forming (n=12 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
