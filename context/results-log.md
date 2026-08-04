@@ -264,7 +264,27 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=10 — firming up)
+---
+
+## Day 4 posts (batch 9, purpose-built)
+
+### Reel 011 — "You don't have a spend problem. You have a creative problem." (batch 9 #1)
+
+- **Hook:** universal, pointed, strong. HOOKS CTA. Save-worthy 3-point framework. Search tag "marketing budget vs creativity".
+- **B-roll:** ❌ **static "pensive sitting" shot** — Fraser on a sofa, hands clasped, looking down. No action, no intrigue. NOT the arresting POV camera-rig I specced.
+
+**Metrics:** Views 156 · Reached 127 (no expansion) · Watch 4s · **Follows 1** · Likes 1 · Saves 0 · Comments 0
+- **Skip 50.4% (Higher)** · Like 0.8% (Higher) · rest typical
+
+**Read — the B-roll rule, confirmed in the negative:**
+- **Content worked (got a follow — 3rd reel to convert one, all strong-hook + HOOKS).** But skip jumped back to 50% and it didn't expand.
+- **The only thing that changed vs the 28–33% winners was the first frame:** a static posed "thinking man" shot instead of an arresting/action/POV frame. Same failure family as reel 005 (dark) and 008 (wide studio).
+- **Proof the B-roll first frame can make or break a reel independent of content quality.** Great hook + framework + a follow, capped at 127 reach by a static opener.
+- **Rule reinforced:** first frame must have *action or intrigue* (camera-rig POV, unusual set moment, movement). "Fraser sitting/thinking" = static = high skip. Avoid.
+
+---
+
+## Patterns forming (n=11 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
