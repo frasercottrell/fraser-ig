@@ -303,7 +303,20 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=12 — firming up)
+### Reel 013 — "You're guessing what your customer wants. AI already knows." (batch 9 #3, AI research)
+
+- **B-roll:** POV holding a camera, walking, looking down. Decent (hands/camera/movement) BUT **first frame is floor-heavy** — camera enters mid-frame, first instant is grey floor. Search tag "AI vs manual customer research".
+
+**Metrics:** Views 322 · Reached 228 (expanded ~2x) · Watch 4s · Follows 0 · Likes 1 · Saves 0 · Comments 0
+- **Skip 47.9% (Lower vs benchmark, but ~half absolute)** · rest typical/lower
+
+**Read:**
+- Expanded to 228 (AI topic pulls some reach) but **0 saves, 0 follows** — AI's conversion is inconsistent (converted on 006/010, not here).
+- Skip worse than reel 012's 38% despite POV-camera B-roll, because the **first frame is floor-heavy**. Refinement: POV works, but fill frame one with the subject — don't open on empty floor.
+
+---
+
+## Patterns forming (n=13 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
