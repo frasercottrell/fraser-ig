@@ -316,7 +316,33 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=13 — firming up)
+---
+
+## Reel 014 — "The one thing every high-converting ad has in common." 🏆🏆 BEST REEL YET
+
+**Georgia's Educational hook (from hooks-swipe.md), posted before the "use her hooks" conversation — it outperformed everything.**
+
+- **Hook:** Georgia's, verbatim. Curiosity + universal + "the one thing" (inherently save-worthy).
+- **B-roll:** ✅✅ camera-rig POV (Atomos monitor with an ad playing) — the proven arresting first frame (3rd time it's performed). Search tag "Atomos Ninja monitor for creators".
+
+**Metrics:** Views **1,337** · Reached **870 (biggest ever)** · Watch 6s · Follows 0 · Likes 4 · Comments 0 · Shares 1 · Saves ~4
+- **Skip 35.6% (Lower)** · **Share 0.1% (Higher/green)** · **Save 0.5% (Higher/green)** · Like 0.5% (Lower)
+
+**Read — this cracks the conversion frontier:**
+- **First high-reach reel to also get green SAVES and SHARES.** Everything we'd been chasing in one reel: biggest reach + best-tier skip + saves + shares.
+- **Validates all three theses at once:**
+  1. **Georgia's hooks work for trial reels** (Fraser's instinct). This is her Educational hook, and it beat every original one.
+  2. **"The one thing…" curiosity framing is save-worthy** — confirms the saves hypothesis (concrete/curiosity > "here's why").
+  3. **Camera-rig POV B-roll = the reliable arresting first frame** (audit reel 650 reach, now this 870).
+- **Only follows still lag (0).** Saves/shares are the leading indicators and they're finally green. Follows should follow as reach compounds.
+
+### ⭐⭐ THE WINNING TEMPLATE (proven)
+**Georgia's curiosity/contrarian hook + camera-rig POV (or similarly arresting) first frame + save-worthy payoff + HOOKS CTA.**
+This is batch 10 exactly. Double down: mine Georgia's hook doc, shoot the tight POV first frames, keep the "one thing / the [N] things" curiosity framing.
+
+---
+
+## Patterns forming (n=14 — firming up)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
