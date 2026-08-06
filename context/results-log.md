@@ -339,7 +339,22 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=14 — hold loosely, keep testing variety)
+### Reel 015 — "Most brands are wasting money because of this." (batch 11 #3, Georgia Educational)
+
+- **B-roll:** wide podcast shot — two people on a sofa, small/mid-ground, lots of empty room. Not a tight subject.
+- **Hook:** decent curiosity, but generic (not sharply contrarian).
+
+**Metrics:** Views 117 · Viewers 98 (no expansion) · Watch 3s · Follows 0 · all engagement 0/Lower
+- **Skip 59.2% (Higher)**
+
+**Read (consistent with the pattern, n adds up — still not a "formula"):**
+- Wide shot, subject mid-ground → high skip, no expansion. Same shape as reel 008. **The accumulating lean holds: tight/arresting first frame stops, wide shots skip.** Several data points now, so a reasonably-supported tendency — act on it, stay open.
+- The hook didn't rescue the weak frame (unlike reel 012's sharper contrarian line). **Both hook sharpness and frame matter; this had a soft version of each.**
+- NB: same *topic* as reel 014 ("wasting money"-ish curiosity) but wildly different result (98 vs 870 reach) — the difference was the first frame. Useful natural comparison.
+
+---
+
+## Patterns forming (n=15 — hold loosely, keep testing variety)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
