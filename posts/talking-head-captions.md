@@ -24,7 +24,7 @@ In the video I said I don't know the science behind why the ugly ads win. Truth 
 
 3. They're native to the feed. They look like the content around them instead of interrupting it, so the viewer doesn't brace and the algorithm doesn't flag it as an obvious ad and bury it.
 
-4. They let you test more. You can make 20 ugly ads for the cost of one beautiful one. And since nobody can actually predict the winner (that's the whole point), whoever tests the most angles finds it first. Ugly isn't just cheaper. It's faster.
+4. They let you test more. You can make 20 ugly ads for the cost of one beautiful one. And since nobody can actually predict the winner (that's the whole point), whoever tests the most angles finds it first. Ugly is cheaper to make. More to the point, it gets you to a winner faster.
 
 5. They take your ego out of it. A "beautiful" ad is usually beautiful to you, the founder or the strategist, not to the customer. Ugly ads sidestep your taste completely and let the market vote instead.
 
