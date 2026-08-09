@@ -32,6 +32,19 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
+### ⭐ Caption standard (Georgia's feedback + our saves data — this is the bar now)
+
+The old captions were too short and thin. New standard, because captions are how we finally earn the SAVE:
+
+- **Much longer.** Pack the caption with genuinely useful, specific info — the kind of thing a marketer screenshots and comes back to *right before they run their ads.* If it's not worth saving, it's not done.
+- **A different caption for every hook.** No recycling. Each one earns its own depth.
+- **Use listicles — aim for 5 points, not 3.** "Here's what they all had in common: 1… 2… 3… 4… 5…" Each point is 2–3 sentences of *real* tactical advice: a specific example, a concrete number, a do-this-not-that. Not one-liners.
+- **Genuinely helpful, not surface.** Specifics over vibes. Name the niche, the phrase, the metric, the exact fix. Teach something a pro would still find useful.
+- **Keep Fraser's voice** (punchy, fragments, no fluff) *inside* the longer structure — long doesn't mean padded. Every line earns its place.
+- Still: caption first line = the driver, em-dash-free, HOOKS CTA.
+
+**Test:** would someone about to launch an ad save this to reference? If not, add more real substance.
+
 ### How Instagram trial reels actually work (get this right)
 
 - A trial reel is shown **only to non-followers.** Existing followers never see it (not in feed, not on the grid). **Every metric we get is 100% cold audience.**
