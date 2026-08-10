@@ -360,7 +360,7 @@ Three reels, same formula, same day, wildly different skip:
 
 **Not a cold trial reel.** Distribution: **48.6% followers / 51.4% non-followers** — it went to the main feed, so it's a *convert/nurture* asset, not cold acquisition. Judge it differently.
 
-- **Format:** talking head, ~35s, lav mic, pink-lit room. On-screen text "…this is what actually works" (didn't match the spoken hook "90% were ugly ads" — minor; Georgia says match all three).
+- **Format:** talking head, ~35s, lav mic, pink-lit room. On-screen text "I've tested over 10,000 ads and this is what actually works" — matches the spoken opening ("I've tested over 10,000 ads and…"). Hooks aligned. ✅
 - **Content:** ugly ads win / your opinion doesn't matter / only the customer's does / test it.
 
 **Metrics:** Views 543 · Viewers 340 · **Saves 4** · Comments 2 · Likes 9 · Shares 0 · Accounts engaged 15 · Follows 0
@@ -374,7 +374,7 @@ Three reels, same formula, same day, wildly different skip:
   - **Main-feed talking heads** = followers + some non-followers. Job: convert/nurture (saves, engagement, eventually course/agency interest).
 - Don't compare a talking head's "0 follows" to a trial reel's reach. Different audience, different scoreboard.
 
-**Worth testing:** more talking heads (they earn saves), and match the on-screen text to the spoken hook.
+**Worth testing:** more talking heads — they earn saves, which is the metric we care about.
 
 ---
 
