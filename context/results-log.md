@@ -354,7 +354,31 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=15 — hold loosely, keep testing variety)
+---
+
+## Reel 016 — FIRST TALKING HEAD ("I've tested over 10,000 ads… ugly ads win") — different format, different job
+
+**Not a cold trial reel.** Distribution: **48.6% followers / 51.4% non-followers** — it went to the main feed, so it's a *convert/nurture* asset, not cold acquisition. Judge it differently.
+
+- **Format:** talking head, ~35s, lav mic, pink-lit room. On-screen text "…this is what actually works" (didn't match the spoken hook "90% were ugly ads" — minor; Georgia says match all three).
+- **Content:** ugly ads win / your opinion doesn't matter / only the customer's does / test it.
+
+**Metrics:** Views 543 · Viewers 340 · **Saves 4** · Comments 2 · Likes 9 · Shares 0 · Accounts engaged 15 · Follows 0
+- Interactions skew **72% followers** (normal for a main-feed piece).
+
+**Read (n=1 for talking heads — hold loosely):**
+- **4 saves ties the all-time best** (reel 003, 014). ~1.2% save rate on viewers, higher than nearly every trial reel. **The talking-head format + save-worthy content earns saves** — encouraging, and it's the metric we care about.
+- **0 follows, 0 shares** — but this is a *warm-audience convert asset*, not a cold-follow play. Follows aren't its main job; deepening belief with people who already follow is.
+- **Two different formats, two different jobs (important, was muddling them):**
+  - **Trial reels** = cold non-followers only. Job: acquire new followers + stop the scroll.
+  - **Main-feed talking heads** = followers + some non-followers. Job: convert/nurture (saves, engagement, eventually course/agency interest).
+- Don't compare a talking head's "0 follows" to a trial reel's reach. Different audience, different scoreboard.
+
+**Worth testing:** more talking heads (they earn saves), and match the on-screen text to the spoken hook.
+
+---
+
+## Patterns forming (n=16 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
