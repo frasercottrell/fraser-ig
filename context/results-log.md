@@ -378,6 +378,15 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
+## Call 2 review (Georgia, bi-weekly) — findings
+
+- **Winning footage = camera/BTS that implies real ad production** (camera-rig, "fake shower" shoot). Confirms our first-frame lean and names *why* it works: it signals "these people make real ads." Keep shooting BTS.
+- **Fraser-on-camera underperforms for cold ads trial reels** (broad subject, not personal brand). Reserve him-on-cam for personal stories + main-feed talking heads.
+- **The 3 trial-reel hooks that worked share curiosity mechanisms:** contrarian expertise ("first thing I check…"), competitive threat ("your competitor tests 10x more"), pattern recognition ("the one thing every winning ad…"). Expand on these three.
+- **Use "ads" in every hook** (algorithm training) + be more specific.
+- **Correction: align the freebie to the video.** Stop putting HOOKS on non-hook content; rotate 2–3 relevant freebies.
+- **Still a volume game** — ~+50 followers (skewed), 3 keyword leads, low engagement. Not enough reps to read signal yet.
+
 ## Patterns forming (n=16 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**

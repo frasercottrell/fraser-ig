@@ -45,6 +45,29 @@ The old captions were too short and thin. New standard, because captions are how
 
 **Test:** would someone about to launch an ad save this to reference? If not, add more real substance.
 
+### Call 2 learnings (bi-weekly review — what the data said + corrections)
+
+**Winning B-roll = camera / behind-the-scenes footage that implies real ad production.** Confirmed on Fraser's account: the camera-rig footage and the "fake shower" BTS shoot both won. Georgia: *"camera stuff does really well… anything behind the scenes implies big ads."* That's the visual to keep shooting.
+- **Fraser on camera is LESS effective for trial reels about ads** — it's a broad subject, not a personal brand. Keep him-on-camera for *personal* stories and for the *main feed* (talking heads). For cold trial reels on ads topics, lead with BTS/production footage.
+- **Add a visual pattern-disruptor / movement** (we'd landed here too): swivel the chair, walk to the chair mic-in-hand, coffee in hand. All footage so far was static — test movement.
+
+**Hooks (call 2):** use the word **"ads"** in nearly every hook (trains the algorithm), be more specific, lead with the result in 5 seconds. Lean on the 3 proven hook types + the *"the first thing I check…"* / *"I analysed X and found…"* generator. (Full detail in idea-bank.md.)
+
+**CTA correction (important — changes what I've been doing):** the freebie **must be relevant to the video**. Don't slap "Comment HOOKS" on a video that isn't about hooks. Rotate **2–3 freebies** and tag the matching one:
+- HOOKS → hook / ad-writing content only.
+- (build) an **AI/tools freebie** → AI content. An **audit freebie** → account/audit content. A **case-study/swipe freebie** → breakdowns.
+- If no relevant freebie exists yet, use a soft comment CTA, not a mismatched one.
+
+**Carousels — start testing (1–3/week, one per pillar):**
+- Take a winning reel hook and make it a carousel. **Two hooks:** slide 1 stops them, slide 2 makes them swipe to slide 3, then the story.
+- Notes-app style, bite-size, written like a human. Max ~8–10 slides. Last slide = a relevant comment-for-X CTA.
+- Image + basic readable text (lower the photo exposure so text reads). Trending audio (↑).
+- Test same-photo-throughout vs different-photos. Compare carousel vs reel vs trial reel on the *same* hook.
+
+**Stories & highlights:** daily "look at this ad we ran this week" laptop stories (already part of Fraser's routine). Q&A box — seed 5–6 of his own expert questions ("what problems are you having with your ads this week?"). Highlights: BTS + Results.
+
+**State of play:** ~+50 followers since call 1 (skewed — brands run ads on Fraser's page). 3 HOOKS auto-DM leads, all from trial reels. Engagement low, no DMs/comments yet. **It's a volume game right now** — not enough reps to read signal. Keep posting.
+
 ### How Instagram trial reels actually work (get this right)
 
 - A trial reel is shown **only to non-followers.** Existing followers never see it (not in feed, not on the grid). **Every metric we get is 100% cold audience.**
