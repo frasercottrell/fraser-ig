@@ -7,11 +7,37 @@ Fraser's real bottleneck (his words): he can talk about anything, but stalls on 
 **Hook rules from call 2 (apply to everything here):**
 - **Use the word "ads" in (nearly) every hook** — trains the algorithm on what Fraser talks about.
 - **Be specific**, and **lead with the result/story in the first 5 seconds**, then explain how ("My client tripled sales when we started using X").
-- The 3 hook types that have actually worked for Fraser (all curiosity mechanisms):
-  1. **Contrarian expertise** — "The first thing I check in a broken ad account isn't the targeting." → generator: *"The first thing I [check/do]…"*, *"I analysed X and noticed why…"*, *"I checked X and found…"*
-  2. **Competitive threat / gap** — "Your competitor is testing 10x more ads than you." → *"Your competitor isn't spending more than you. They're testing more."*, *"Your competitor is beating you on the same ad budget."*
-  3. **Pattern recognition** — "The one thing every high-converting ad has in common." / *"The one thing I found in every winning ad I analysed."*
 - Gut-check: *"You post ads for a living — what hits you in the gut that your ads aren't good enough?"* That's the hook.
+
+### ⭐ The real unlock (call-2 email): hook FAMILIES, not new hooks
+
+Georgia's headline note: **stop trying to invent a brand-new hook every time.** Build a small set of repeatable hook *families*, then test different angles/topics *inside* each family. That's what makes performance readable — when a family wins, you know why, and you pour more into it. A one-off hook that wins teaches you nothing you can repeat.
+
+The 3 families that have already worked for Fraser (all curiosity mechanisms):
+
+1. **Contrarian expertise** — "The first thing I check in a broken ad account isn't the targeting."
+   - Templates: *"The first thing I [check/do] isn't X…"* · *"Most brands think X. Actually, Y."* · *"I analysed X and noticed Y."*
+2. **Competitive gap / FOMO** — "Your competitor is testing 10x more ads than you. They're using AI."
+   - Templates: *"Your competitor is doing X. Here's why."* · *"Your competitor isn't spending more than you. They're testing more."*
+3. **Pattern recognition / authority** — "The one thing every high-converting ad has in common."
+   - Templates: *"Every winning X I've seen does Y."* · *"The one thing I found in every winning ad I analysed."*
+
+**The 5 fill-in templates to reuse forever** (pick a family, drop in a topic):
+- "Most brands think X. Actually, Y."
+- "The first thing I check/do isn't X…"
+- "Your competitor is doing X. Here's why."
+- "Every winning X I've seen does Y."
+- "I analysed X and noticed Y."
+
+### Testing discipline (call-2 email): name what you're testing
+
+Georgia: *"Focus on testing, not just posting."* For **every** idea, write down the one variable you're testing so the result means something:
+- **Hook** (same topic + format, different hook family) ·
+- **Angle** (same claim, different way in) ·
+- **Format** (trial reel vs main reel vs carousel on the *same* hook) ·
+- **Topic** (which pillar cold viewers actually bite on).
+
+One variable at a time. If you change the hook *and* the B-roll *and* the topic, a win tells you nothing. Log the variable in results-log next to the numbers.
 
 ---
 
@@ -48,6 +74,17 @@ Fraser's real bottleneck (his words): he can talk about anything, but stalls on 
 ## Founder Perspective (Pillar 4)
 
 - Running the agency, lessons, hot takes — Fraser's been defaulting here (it's the easy one). Rotate *away* from it toward the pillars above for variety.
+
+---
+
+## More from the call-2 email (next 2 weeks — new ones not above)
+
+- **Meta is about to change how AI-generated ads work.** Topic/news reel — what the change means for advertisers. (Pairs with the Claude-metadata news angle above.)
+- **How AI is changing creative testing.** The volume-of-testing story — you can now test 10x more angles for the same budget.
+- **3 types of statistic-led ads that consistently scale.** Show the 3 on screen, break down why the number does the selling. (Distinct from "top 3 static formats" — this is specifically number/proof-led.)
+- **Simple image + text + trending song: why boring ads can work.** The anti-polish argument in ad form — cheap, native, testable.
+- **What most founders get wrong about their ads.** Founder-facing myth-bust.
+- **How to turn a founder's story into an ad.** The method, not just the Guinness case — repeatable framework.
 
 ---
 

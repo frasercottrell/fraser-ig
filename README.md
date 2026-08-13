@@ -20,6 +20,7 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
 - **[idea-bank.md](context/idea-bank.md)** — video ideas + topics + hooks (kills the blank-screen problem)
 - **[results-log.md](context/results-log.md)** — real performance data + what each reel taught us (the flywheel)
+- **[sources/](context/sources/)** — raw source material kept verbatim for provenance (e.g. Georgia's call-2 email)
 
 ## Anti-AI-slop check
 

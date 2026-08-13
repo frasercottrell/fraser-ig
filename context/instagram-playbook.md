@@ -64,6 +64,18 @@ The old captions were too short and thin. New standard, because captions are how
 - Image + basic readable text (lower the photo exposure so text reads). Trending audio (↑).
 - Test same-photo-throughout vs different-photos. Compare carousel vs reel vs trial reel on the *same* hook.
 
+**⭐ Carousel slide-by-slide anatomy (call-2 email — the standard):**
+- **Slide 1** — big pattern-interrupting hook. One job: stop the scroll.
+- **Slide 2** — reinforce the hook / open a curiosity gap so they *have* to swipe to slide 3. This slide is what makes or breaks the carousel — if slides 1 & 2 aren't strong enough that someone feels they need the answer, nothing after it matters.
+- **Slides 3–7** — tell the story, break down the insight, give real examples (show the ad/evidence).
+- **Final slide** — strong CTA: "Comment [WORD] and I'll send you [relevant resource]." (Keep the keyword relevant to the content — same CTA-must-match rule as reels.)
+- **Key objective:** slides 1–2 create the *need to know*, slides 3–7 deliver enough value that the final comment-for-freebie feels earned, not tacked on.
+
+**The 3 carousels Georgia wants built first:**
+1. **"Most brands are wasting money because XYZ."** Reveal the mistake → show how brands *should* create/test ads → examples of what to do instead.
+2. **"I've tested 10,000+ ads. This is what actually works."** Use the number as credibility, then break down the repeated patterns across winning ads.
+3. **Bonus / wildcard.** Any story within the pillars — pure experiment to read what cold viewers bite on. (Tag the test variable in results-log.)
+
 **Stories & highlights:** daily "look at this ad we ran this week" laptop stories (already part of Fraser's routine). Q&A box — seed 5–6 of his own expert questions ("what problems are you having with your ads this week?"). Highlights: BTS + Results.
 
 **State of play:** ~+50 followers since call 1 (skewed — brands run ads on Fraser's page). 3 HOOKS auto-DM leads, all from trial reels. Engagement low, no DMs/comments yet. **It's a volume game right now** — not enough reps to read signal. Keep posting.
