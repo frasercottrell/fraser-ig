@@ -7,6 +7,20 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 *"What can I teach my audience today?"* so a stranger lands on the profile and thinks
 *"If anyone understands ad creative, it's Fraser."*
 
+## ⚠️ One brain, one branch (read first)
+
+This repo IS the memory — nothing carries between Claude sessions except what's committed here.
+So the whole brain must live on **one branch: the repo default** (`instagram-content-context`).
+History fragmented once (call-2 notes landed on a different branch than the talking-head work, and a
+later session couldn't see them). To stop it happening again:
+
+- **Always branch new work from the default**, and **merge it back to the default** when done. Don't leave
+  learnings stranded on a feature branch.
+- **Every consultant/strategy call** → raw source verbatim in `context/sources/`, then ingest the
+  *knowledge* into the right context file (ideas → `idea-bank.md`, execution → `instagram-playbook.md`).
+- If something you're sure exists isn't on the working branch, search **all** branches
+  (`git log --all`, `git branch -a --contains <hash>`) before concluding it's gone.
+
 ## Context files
 
 - **[operating-model.md](context/operating-model.md)** — ⭐ how to *think* about all of this: the mechanisms, tensions, and judgment. Reason from here; the rest is reference. When a rule conflicts with this, this wins.
