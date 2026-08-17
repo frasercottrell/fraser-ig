@@ -378,7 +378,48 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
-## Patterns forming (n=16 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 14 — Georgia's 3 hook FAMILIES, Day 1 (3 reels, same day, same camera-in-hands POV frame)
+
+All three used the **same B-roll**: POV holding the Canon C50 in the studio (tight, hands + camera fill frame). Same footage, fresh export each. Only the hook family + caption changed. This is as clean a family A/B/C as we've run.
+
+### Reel 017 — F1 Contrarian expertise — "The first thing I fix in a losing ad isn't the creative."
+
+**Metrics:** Views 1,483 · Viewers 1,048 · Watch 6s · **Follows 0**
+- **Skip 32.7% (Lower)** · Share 0.0% (Typical) · Like 0.7% (Lower) · **Save 0.4% (Lower) ≈ 4 saves** · Comment 0
+
+**Read:** Biggest reach of any trial reel to date (beats the old 1,139 and reel 014's 870). Skip 32.7% sits in the winning band. Save *rate* reads "Lower" but that's the big-reach denominator — **absolute saves ≈ 4, which ties the all-time best**, just spread over ~1.7x the audience. So: new reach high, saves held at ceiling. Solid all-rounder. No follows.
+
+### Reel 018 — F2 Competitive gap / FOMO — "Your competitor launched 40 ads last month. You launched 4."
+
+**Metrics:** Views 1,293 · Viewers 878 · Watch 5s · **Follows 2** ⭐
+- Skip 39.8% (Lower) · **Share 0.1% (Higher)** · Like 0.3% (Lower) · **Save 0.0% (Lower) = 0 saves** · Comment 0
+
+**Read:** **FIRST MEANINGFUL FOLLOWS IN THE LOG (2).** Follows have been stuck at 0 across nearly every trial reel; the FOMO/competitive family is the first to move them, plus a green share. But it earned **zero saves** — the "you're behind" callout drives *follow to keep up*, not *save to reference*. Higher skip (39.8%) and lowest watch (5s): people got the point fast, then followed or left. n=2 on follows, hold loosely — but it's a real lead on the follows problem.
+
+### Reel 019 — F3 Pattern recognition / authority — "I analysed 500 winning ads and noticed the same 5-second pattern." ⭐ BEST YET
+
+**Metrics:** Views 1,715 · Viewers 1,095 · Watch 6s · Follows 0
+- Skip 35.0% (Lower) · **Share 0.1% (Higher)** · Like 0.6% (Lower) · **Save 1.3% (Higher) ≈ 14 saves** 🔥 · Comment 0
+
+**Read:** **Best reach AND best saves in the entire log.** ~14 saves is a **3.5x jump on the previous all-time best (~4)** — and it came with the highest reach (1,715), not at the expense of it. The "I analysed X → here's the exact second-by-second pattern" hook + a genuinely tactical numbered template is the most save-worthy thing we've posted. This is the fusion working: authority hook (reach) + steal-this template (saves). No follows.
+
+### Day 1 verdict — the families do DIFFERENT JOBS (the map we've been chasing)
+
+| Reel | Family | Reach | Skip | Saves | Follows |
+|---|---|---|---|---|---|
+| 017 | F1 Contrarian | 1,483 | 32.7% | ~4 | 0 |
+| 018 | F2 Competitive/FOMO | 1,293 | 39.8% | 0 | **2** |
+| 019 | F3 Pattern/authority | **1,715** | 35.0% | **~14** | 0 |
+
+1. **Reach is now reliable, not a fluke.** All three cleared 1,000+ views on the same camera-in-hands POV frame. The floor has moved up — this frame + these hook families = a dependable reach engine.
+2. **F3 (pattern/authority + concrete numbered template) = the SAVE machine.** Tactical density drives saves. Make more of these when saves are the goal.
+3. **F2 (competitive/FOMO) = the FOLLOW machine.** Emotional/identity pressure drives follows, not saves. Use it when the goal is followers.
+4. **F1 (contrarian process) = balanced all-rounder** — strong reach, best-ever-tier saves, low skip.
+5. **Match family to intent:** saves → F3 (then F1); follows → F2. Confirms the "two hook jobs" hypothesis from the patterns below, now with a third family in the map.
+
+---
+
+## Patterns forming (n=19 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
@@ -387,5 +428,7 @@ Three reels, same formula, same day, wildly different skip:
 2. **Saveable framework content converts to follows/saves; hot takes get reach but 0 saves.** Make more frameworks — they're what grows the *right* audience.
 3. **Personal-story hooks ("my biggest mistake") underperform cold** (Reel 002) — save them for the feed / post-follow.
 4. **Comment-keyword CTA works — always include it on saveable reels** (and deliver the freebie!).
-5. **Follows are coming now (1 so far)** — the profile is converting *some*. Still set it up properly to lift the rate.
+5. **Follows are coming now** — after a long run of 0, Reel 018 (F2 competitive/FOMO) got 2. **The FOMO family is the follows lever.** Still set the profile up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
+7. **Family = job (Batch 14, Day 1, n=3):** F3 pattern/authority + numbered template → **saves** (new record ~14). F2 competitive/FOMO → **follows** (first 2). F1 contrarian → balanced. Pick the family by the metric you're chasing.
+8. **Camera-in-hands POV (C50) is a reliable reach frame** — three 1,000+ reach reels in one day on it. The "arresting/tight first frame" rule keeps holding.
