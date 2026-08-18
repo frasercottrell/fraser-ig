@@ -419,7 +419,47 @@ All three used the **same B-roll**: POV holding the Canon C50 in the studio (tig
 
 ---
 
-## Patterns forming (n=19 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 14 — Day 2 (same 3 families, fresh angles) — SAME C50 footage, 6th+ outing → REACH COLLAPSE
+
+Same camera-in-hands C50 POV footage as Day 1. New angles within each family. **Reach cratered across all three** despite the frame that carried Day 1.
+
+### Reel 020 — F1 Contrarian — "Most brands think they have a targeting problem. They don't."
+
+**Metrics:** Views 263 · Viewers 181 · Watch 5s · Follows 1
+- **Skip 47.3% (Higher)** · Share 0 · Like 0.5% (Lower) · Save 0 · Comment 0
+
+**Read:** Big drop from Day 1 F1 (1,483). First "Higher" skip. "Targeting" is narrower/jargonier than "a losing ad" — weaker angle within the family — but see the batch-level footage read below.
+
+### Reel 021 — F2 Competitive/FOMO — "Your competitor is using AI to test 100 ads a week. Here's how."
+
+**Metrics:** Views 286 · Viewers 202 · Watch 5s · **Follows 0**
+- **Skip 40.6% (Higher)** · Share 0 · Like 0 · Save 0.5% (Lower) · Comment 0
+
+**Read:** Day 1's F2 was the follow winner (2). This got 0. AI angle didn't drive the FOMO-follow the volume angle did — and again, throttled reach.
+
+### Reel 022 — F3 Pattern/authority — "Every ad that scaled this year did the same boring thing." ⭐ THE DIAGNOSTIC
+
+**Metrics:** Views 469 · Viewers 389 · **Watch 7s (best of batch)** · Follows 0
+- **Skip 34.3% (Lower — best of Day 2)** · Share 0 · Like 0 · Save 0 · Comment 0
+
+**Read:** THE KEY DATA POINT. Hook clearly still works — lowest skip of the day, best watch time of the whole batch. Yet reach was only 469 vs Day 1 F3's 1,715 on the *identical* skip rate (~34%). **Strong stop + strong hold + throttled reach = the brake is upstream of the hook.** Points at content-level footage fatigue, not the copy.
+
+### Day 2 verdict — FOOTAGE FATIGUE is now the leading hypothesis (with evidence)
+
+| Reel | Family | Day 1 reach | Day 2 reach | Day 2 skip |
+|---|---|---|---|---|
+| F1 | Contrarian | 1,483 | 263 | 47.3% |
+| F2 | Competitive/FOMO | 1,293 | 286 | 40.6% |
+| F3 | Pattern/authority | 1,715 | **469** | **34.3% (Lower)** |
+
+1. **The clip is burned.** Six reels on one identical C50 POV clip. Day 1 all 1k+, Day 2 all sub-500. Reel 022 is the proof: great hook signals (34.3% skip, 7s watch) could not buy reach. When stop+hold are good and reach still dies, distribution is being suppressed at the content level. **Trial reels serve fresh viewers, but Instagram still recognises and down-ranks a repeated clip.** Earlier assumption (fresh audience = no fatigue) was incomplete: audience fatigue ≠ content-level fatigue.
+2. **Day 2 engagement metrics are unreliable** — tiny denominators (181–389 viewers). Can't judge the family→job map on throttled reach. Day 1's map (F3=saves, F2=follows) is NOT disproven; it just couldn't express itself with no reach.
+3. **Possible secondary confound: audio.** Day 2 audios (Pink Floyd, Hans Zimmer, etc.) may not be trending (↑). Reel 002's low reach was blamed on non-trending audio before. Enforce trending audio next.
+4. **ACTION: fresh footage is the #1 lever now.** New arresting/tight first-frame B-roll, varied per reel, retire the C50-in-hands clip. Re-run proven family shapes on fresh footage to confirm reach returns.
+
+---
+
+## Patterns forming (n=22 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
@@ -431,4 +471,5 @@ All three used the **same B-roll**: POV holding the Canon C50 in the studio (tig
 5. **Follows are coming now** — after a long run of 0, Reel 018 (F2 competitive/FOMO) got 2. **The FOMO family is the follows lever.** Still set the profile up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
 7. **Family = job (Batch 14, Day 1, n=3):** F3 pattern/authority + numbered template → **saves** (new record ~14). F2 competitive/FOMO → **follows** (first 2). F1 contrarian → balanced. Pick the family by the metric you're chasing.
-8. **Camera-in-hands POV (C50) is a reliable reach frame** — three 1,000+ reach reels in one day on it. The "arresting/tight first frame" rule keeps holding.
+8. **Camera-in-hands POV (C50) WAS a reliable reach frame — then it burned.** Three 1,000+ reels on Day 1, all sub-500 on Day 2 (same clip, 6th+ outing). The frame worked; reusing the identical clip too many times got it throttled at the content level. **Lesson: rotate footage every ~3 posts. Fresh export ≠ fresh footage — the algorithm still recognises the same clip.**
+9. **Diagnostic rule (Reel 022):** if skip is Lower and watch is high but reach is still low, the problem is NOT the hook — it's distribution (stale footage / non-trending audio). Don't rewrite a hook that's clearly stopping people; change what's upstream.
