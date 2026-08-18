@@ -442,20 +442,23 @@ Same camera-in-hands C50 POV footage as Day 1. New angles within each family. **
 **Metrics:** Views 469 · Viewers 389 · **Watch 7s (best of batch)** · Follows 0
 - **Skip 34.3% (Lower — best of Day 2)** · Share 0 · Like 0 · Save 0 · Comment 0
 
-**Read:** THE KEY DATA POINT. Hook clearly still works — lowest skip of the day, best watch time of the whole batch. Yet reach was only 469 vs Day 1 F3's 1,715 on the *identical* skip rate (~34%). **Strong stop + strong hold + throttled reach = the brake is upstream of the hook.** Points at content-level footage fatigue, not the copy.
+**Read:** THE KEY DATA POINT. Skip was great (34.3%) and watch was best of batch (7s) — the hook *stopped and held* people. But **shares 0, saves 0.** On a trial reel, the initial stop earns the seed pool; **expansion past it is earned by shares/saves** (IG lists share rate as the #2 reach factor after skip). 0 shares/saves = no expansion = capped at 469. The reel stopped people but didn't compel them to *act*, so it never widened.
 
-### Day 2 verdict — FOOTAGE FATIGUE is now the leading hypothesis (with evidence)
+### Day 2 verdict — CORRECTED: it's the angles' share/save-worthiness, NOT footage
 
-| Reel | Family | Day 1 reach | Day 2 reach | Day 2 skip |
-|---|---|---|---|---|
-| F1 | Contrarian | 1,483 | 263 | 47.3% |
-| F2 | Competitive/FOMO | 1,293 | 286 | 40.6% |
-| F3 | Pattern/authority | 1,715 | **469** | **34.3% (Lower)** |
+⚠️ **Correction (Fraser flagged this):** an earlier version of this entry blamed "footage fatigue." That's a **main-feed** concept and does NOT apply to trial reels. Every trial reel is an independent cold test to fresh non-followers; reusing the C50 clip across separate trial reels carries no cumulative penalty, and Day 1 proved that exact clip can do 1k+. The footage was never the problem.
 
-1. **The clip is burned.** Six reels on one identical C50 POV clip. Day 1 all 1k+, Day 2 all sub-500. Reel 022 is the proof: great hook signals (34.3% skip, 7s watch) could not buy reach. When stop+hold are good and reach still dies, distribution is being suppressed at the content level. **Trial reels serve fresh viewers, but Instagram still recognises and down-ranks a repeated clip.** Earlier assumption (fresh audience = no fatigue) was incomplete: audience fatigue ≠ content-level fatigue.
-2. **Day 2 engagement metrics are unreliable** — tiny denominators (181–389 viewers). Can't judge the family→job map on throttled reach. Day 1's map (F3=saves, F2=follows) is NOT disproven; it just couldn't express itself with no reach.
-3. **Possible secondary confound: audio.** Day 2 audios (Pink Floyd, Hans Zimmer, etc.) may not be trending (↑). Reel 002's low reach was blamed on non-trending audio before. Enforce trending audio next.
-4. **ACTION: fresh footage is the #1 lever now.** New arresting/tight first-frame B-roll, varied per reel, retire the C50-in-hands clip. Re-run proven family shapes on fresh footage to confirm reach returns.
+| Reel | Family | Day 1 reach | Day 1 shares | Day 2 reach | Day 2 shares |
+|---|---|---|---|---|---|
+| F1 | Contrarian | 1,483 | 0 | 263 | 0 |
+| F2 | Competitive/FOMO | 1,293 | 0.1% ↑ | 286 | 0 |
+| F3 | Pattern/authority | 1,715 | 0.1% ↑ | **469** | **0** |
+
+1. **Reach is earned by shares/saves, and Day 2 earned neither.** Consistent with the established trial-reel loop (see reel 009/176: reach is earned by retention + engagement, not capped by follower count). Day 1 reels carried green shares/saves and expanded to 1k+. Every Day 2 reel had 0 shares and 0 saves and stayed sub-500. Skip got the stop; shares/saves get the spread. This is the mechanism, not the clip.
+2. **So it's the ANGLES.** Day 2's angles (targeting, AI how-to, "boring thing" mindset list) were less shareable/saveable than Day 1's ("40 vs 4", the ugly-truth callout, and the save-bait second-by-second template that pulled ~14 saves). Same families, weaker *angles* within them → no share/save signal → no expansion. Within-angle share/save-worthiness is the real lever.
+3. **Day 2 engagement metrics are otherwise unreliable** — tiny denominators (181–389). Day 1's family→job map (F3=saves, F2=follows) is NOT disproven; the weak angles just never earned reach for it to express.
+4. **Possible secondary confound: audio.** Day 2 audios (Pink Floyd, Hans Zimmer) likely weren't trending (↑). Non-trending audio can cap the initial push. Enforce trending audio.
+5. **ACTION: engineer the share/save, not the footage.** Write angles people *act* on — a saveable reference (numbered template) or a shareable truth (send-this-to-your-marketer). Footage variety is fine and healthy, but it is NOT the fix and there is no "rotate every 3 posts" rule for trial reels.
 
 ---
 
@@ -471,5 +474,6 @@ Same camera-in-hands C50 POV footage as Day 1. New angles within each family. **
 5. **Follows are coming now** — after a long run of 0, Reel 018 (F2 competitive/FOMO) got 2. **The FOMO family is the follows lever.** Still set the profile up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
 7. **Family = job (Batch 14, Day 1, n=3):** F3 pattern/authority + numbered template → **saves** (new record ~14). F2 competitive/FOMO → **follows** (first 2). F1 contrarian → balanced. Pick the family by the metric you're chasing.
-8. **Camera-in-hands POV (C50) WAS a reliable reach frame — then it burned.** Three 1,000+ reels on Day 1, all sub-500 on Day 2 (same clip, 6th+ outing). The frame worked; reusing the identical clip too many times got it throttled at the content level. **Lesson: rotate footage every ~3 posts. Fresh export ≠ fresh footage — the algorithm still recognises the same clip.**
-9. **Diagnostic rule (Reel 022):** if skip is Lower and watch is high but reach is still low, the problem is NOT the hook — it's distribution (stale footage / non-trending audio). Don't rewrite a hook that's clearly stopping people; change what's upstream.
+8. **Camera-in-hands POV (C50) is a strong reach frame** — three 1,000+ reels on Day 1. Day 2's sub-500 on the same clip was NOT footage fatigue (trial reels are independent cold tests; no cumulative clip penalty). The frame still works; reuse it freely. Footage variety is nice-to-have, not a reach lever.
+9. **Diagnostic rule (Reel 022):** if skip is Lower and watch is high but reach is still low, the hook is fine — the reel just didn't earn the **shares/saves** that drive trial-reel expansion. Fix: make the payoff more shareable/saveable (and check audio is trending ↑). Don't rewrite a hook that's clearly stopping people.
+10. **Reach = skip (stop) × shares/saves (spread).** Skip earns the seed pool; shares/saves earn expansion beyond it (IG's own order: skip #1, share #2). A reel needs both. Day 2 had the first, missed the second, and stalled.

@@ -1,21 +1,25 @@
-# Batch 15. Days 3-4 (3/day) - SAME winning families, FRESH FOOTAGE (the footage-fatigue fix)
+# Batch 15. Days 3-4 (3/day) - SAME winning families, MORE SHAREABLE/SAVEABLE angles
 
-## Why this batch exists
-Batch 14 Day 1 = all three reels 1,000+ reach. Day 2 = all three sub-500, on the *identical* C50 camera-in-hands
-clip (6th+ outing). Reel 022 proved it's the footage, not the hooks: best skip (34.3%) + best watch (7s) of the
-day, yet reach still choked to 469. Content-level footage fatigue. See results-log.
+## Why this batch exists (CORRECTED reasoning)
+Batch 14 Day 1 = all three reels 1,000+ reach. Day 2 = all three sub-500. First guess was "footage fatigue" -
+WRONG. These are trial reels: each is an independent cold test to fresh non-followers, so reusing the C50 clip
+carries no penalty, and Day 1 proved that clip does 1k+. The real cause: **Day 1 reels earned green shares/saves
+and expanded; every Day 2 reel got 0 shares and 0 saves and stalled.** On trial reels, skip earns the seed pool
+and **shares/saves earn the expansion** (IG's order: skip #1, share #2). Reel 022 is the tell: great skip (34.3%)
++ best watch (7s), but 0 shares/saves = no expansion = 469. The hook stopped people; the angle didn't make them act.
 
-## The experiment for Days 3-4
-**Primary variable = FRESH FOOTAGE.** We hold the proven family shapes roughly constant and change the clip.
-If reach returns to 1k+, footage fatigue is confirmed and rotation becomes a rule.
+## The lever for Days 3-4
+**Primary variable = share/save-worthiness of the ANGLE**, not the footage. Every caption below is engineered to
+earn one of the two expansion signals: a *saveable* reference (numbered template/checklist you keep) or a
+*shareable* truth (the send-this-to-your-marketer line). Footage is NOT the fix.
 
-## Rules for this batch (non-negotiable)
-- **A DIFFERENT clip for every reel.** Retire the C50-in-hands POV. Six new setups below.
-- **Arresting / tight first frame** on every one (the rule that keeps holding) - subject fills frame one, no empty floor/wide.
-- **Trending audio (↑)** on every post. Check it's trending before posting (possible Day 2 drag).
+## Rules for this batch
+- **Footage:** the C50 camera-in-hands POV is fine to reuse (it's a proven 1k+ frame; no trial-reel clip penalty). Varying it is optional for freshness, not required. Whatever the clip: arresting/tight first frame, subject fills frame one, no empty/wide.
+- **Trending audio (↑)** on every post - likely a secondary Day 2 drag; don't skip this.
+- **Engineer the action.** Each reel should give a clear reason to SAVE (keep-this reference) or SHARE (someone-needs-to-see-this). That's what drives reach now.
 - Caption standard: 5-point save-worthy listicle, different caption per hook, Fraser's voice, em-dash-free, HOOKS CTA.
-- Keep one reel per family per day so the family->job map (F3=saves, F2=follows, F1=balanced) keeps building on healthy reach.
-- Log as reels 023-028, tagged by family AND note the new footage.
+- One reel per family per day so the family->job map (F3=saves, F2=follows, F1=balanced) keeps building.
+- Log as reels 023-028, tagged by family.
 
 ===============================================================================
 # DAY 3
