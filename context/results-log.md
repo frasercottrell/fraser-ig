@@ -378,6 +378,25 @@ Three reels, same formula, same day, wildly different skip:
 
 ---
 
+## Reel 017 — GRÜNS DTC TEARDOWN ("GRÜNS is doing what 90% of wellness brands get wrong") — best talking head yet
+
+**Main-feed talking head** (convert/nurture asset). Format: talking head, RØDE lav mic, pink-lit room, reacting to the Grüns ad on the laptop (BTS-implied production). Original audio. Posted Aug 16, read Aug 20 (4-day).
+
+- **Content:** DTC ad teardown — the Grüns UGC ad wins *because* it breaks the rules (low-fi, self-qualifying hook "she's on GLP1", no cuts, teach-then-sell). Pillar 1. First execution of the "cover actual DTC brands" direction (and Georgia call-2's "big-DTC brand breakdown, name the brand in the first 5s").
+- **TOS actually used:** "GRÜNS is doing what 90% of wellness brands get wrong." **Note:** this differs from the drafted TOS ("Everyone missed why this Grüns ad works") — the one Fraser ran is *more specific + more contrarian* (names the brand + a hard % claim). Likely a factor in the lift. Feed the specific/contrarian TOS pattern forward.
+
+**Metrics:** Views **848** · Comments **7** · Shares **3** · Reposts **3** · Likes 11 · Save rate **1.1%** (Higher). Rates vs typical: Skip 66.3% (Higher) · Share 0.5% (Higher) · Like 1.7% (Higher) · Comment 1.1% (Higher) · Repost 0.0% (Typical). Every engagement rate above typical except repost.
+
+**Read (n=2 for talking heads — still hold loosely):**
+- **Biggest-reach talking head yet** (848 vs 016's 543) and the **first talking head to earn shares (3) AND reposts (3)** — 016 had 0 of each. Shares are Georgia's shareability signal ("would a marketer send this to their team?"). The *teardown* format is more shareable than the pure hot take, because it's a useful thing to forward.
+- **Best talking-head comment count (7 vs 016's 2).** A teardown with an opinion + the comment-keyword CTA invites replies. The DTC-teardown format drives conversation.
+- **Save rate 1.1% ≈ 016's ~1.2%** — the format keeps earning saves at a healthy rate while now also reaching further and getting shared.
+- **Skip rate 66.3% (Higher than typical)** — the one soft spot. More people skipped than usual (longer talking head + a slow word-by-word TOS reveal). But the ones who stayed engaged *deeply* (shares/comments/saves all up). Trade-off worth watching: can we cut the skip without losing the depth? Test a punchier open / faster first 3s.
+
+**Worth testing:** more DTC-brand teardowns (this format shares + comments better than the hot-take talking head). Keep the specific-contrarian TOS. Try to pull the skip rate down with a faster opening.
+
+---
+
 ## Call 2 review (Georgia, bi-weekly) — findings
 
 - **Winning footage = camera/BTS that implies real ad production** (camera-rig, "fake shower" shoot). Confirms our first-frame lean and names *why* it works: it signals "these people make real ads." Keep shooting BTS.
@@ -387,7 +406,7 @@ Three reels, same formula, same day, wildly different skip:
 - **Correction: align the freebie to the video.** Stop putting HOOKS on non-hook content; rotate 2–3 relevant freebies.
 - **Still a volume game** — ~+50 followers (skewed), 3 keyword leads, low engagement. Not enough reps to read signal yet.
 
-## Patterns forming (n=16 — hold loosely; trial reels vs talking heads are separate scoreboards)
+## Patterns forming (n=17 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
@@ -398,3 +417,5 @@ Three reels, same formula, same day, wildly different skip:
 4. **Comment-keyword CTA works — always include it on saveable reels** (and deliver the freebie!).
 5. **Follows are coming now (1 so far)** — the profile is converting *some*. Still set it up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
+7. **DTC-brand teardowns out-share the hot-take talking head** (Reel 017 vs 016): first talking head to earn shares + reposts, best comment count, biggest reach — while holding the same ~1.1% save rate. A teardown is *useful to forward*; a hot take is not. Make more real-brand teardowns for the main feed.
+8. **Specific + contrarian on-screen text beats vague-curiosity TOS** (Reel 017 ran "GRÜNS is doing what 90% of wellness brands get wrong" over the drafted "everyone missed why this works"). Name the brand + a hard claim in the TOS.

@@ -1,8 +1,9 @@
 # Talking Head — Grüns DTC Ad Teardown (Pillar 1: Why Ads Work)
 
-**Status:** filmed. Caption below (voice-lint: 0 flags).
+**Status:** ✅ POSTED (Aug 16). Performance logged as Reel 017 in `context/results-log.md` — best talking head yet (848 views, 7 comments, 3 shares, 3 reposts; first talking head to earn shares). Caption below (voice-lint: 0 flags).
 **Format:** talking head, straight to camera + the Grüns ad shown on screen. No B-roll.
 **Georgia's 3 hooks aligned:** verbal + text-on-screen + visual (you reacting to the ad).
+**TOS actually run:** `GRÜNS is doing what 90% of wellness brands get wrong.` (more specific + contrarian than the draft below — and it worked; keep that pattern).
 
 ## Hooks (proven — Georgia's Ad Breakdown family)
 - **Spoken:** "This is why this ad from Grüns is their top performer, yet it breaks every single marketing rule."
