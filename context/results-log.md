@@ -462,7 +462,48 @@ Same camera-in-hands C50 POV footage as Day 1. New angles within each family. **
 
 ---
 
-## Patterns forming (n=22 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 15 — Day 3 (reels 023-025) — BEST BATCH EVER. Fresh workbench footage + sharper angles.
+
+New footage: messy garage workbench, hands assembling a cinema camera with a red-handled tool. Busy, authentic, "ugly," and (for 023) congruent with the message. Tight/arresting first frame. Trending audio. This batch fixed the Day 2 collapse and set records across the board.
+
+### Reel 023 — F3 Pattern/authority — "I studied 1,000 ads this year. The best performers were the ugliest."
+
+**Metrics:** Views 1,471 · Viewers 1,100 · **Watch 9s** · Follows 0
+- **Skip 24.4% (Lower)** · Share 0.1% (Higher) · **Like 2.2% (Higher)** · **Save 0.5% (Higher)** · Comment 0
+
+**Read:** First reel with the FULL engagement set green (share + like + save). Reach roared back to 1,471 from Day 2's sub-500. The "ugly ads win" reference-checklist is saveable, and the scrappy footage literally matched the message. Records at the time for skip and watch (both beaten later same day).
+
+### Reel 024 — F2 Competitive/FOMO — "Your competitor's worst ad is still beating your best one." ⭐ REACH RECORD
+
+**Metrics:** Views **2,318** · Viewers 1,657 · **Watch 9s** · Follows 0
+- **Skip 26.9% (Lower)** · Share Typical · **Like 1.0% (Higher)** · Save Lower · Comment 0
+
+**Read:** BIGGEST REACH IN THE LOG (2,318). Near-record skip + green likes carried it even though shares/saves weren't green. Confirms **skip is the dominant reach lever; one green engagement signal amplifies.** NB: F2 got 0 follows here — the Day-1 "F2 = follows" (n=2) was noise, now debunked.
+
+### Reel 025 — F1 Contrarian — "The first thing I do with a winning ad isn't scale it." ⭐ SKIP + WATCH RECORD
+
+**Metrics:** Views 2,068 · Viewers 1,485 · **Watch 10s (record)** · Follows 0
+- **Skip 21.5% (Lower — RECORD)** · Share 0.1% (Higher) · **Like 0.9% (Higher)** · Save Lower · Comment 0
+
+**Read:** Lowest skip (21.5%) and longest watch (10s) ever recorded. The proven "first thing I do isn't X" F1 shape + arresting fresh footage = elite stop and hold. Green share + like.
+
+### Day 3 verdict — the reach/retention machine is SOLVED; conversion is the whole remaining problem
+
+| Reel | Family | Reach | Skip | Watch | Like | Save | Follows | Comments |
+|---|---|---|---|---|---|---|---|---|
+| 023 | F3 | 1,471 | 24.4% | 9s | 2.2%↑ | 0.5%↑ | 0 | 0 |
+| 024 | F2 | **2,318** | 26.9% | 9s | 1.0%↑ | Lower | 0 | 0 |
+| 025 | F1 | 2,068 | **21.5%** | **10s** | 0.9%↑ | Lower | 0 | 0 |
+
+1. **Skip is the reach engine, and Day 3 hit record skips (21–27%).** Vs Day 2's 34–47%. Sharper, more relatable angles ("ugliest won", "worst beats your best", "don't scale a winner") + fresh arresting workbench footage = a whole tier better stop → a whole tier more reach. This decisively confirms the corrected model over footage-fatigue.
+2. **Watch times are records too (9–10s).** The save-worthy 5-point captions are holding people to the end. Stop AND hold, both solved.
+3. **Engagement amplifies reach; likes are now reliably green.** Shares green on 2 of 3. Saves green only on 023 (the reference-checklist) — saveable *format* drives saves, not family label.
+4. **⚠️ THE UNSOLVED PROBLEM (now glaring): Follows 0, Comments 0 across ~5,900 reach in one day.** Record reach + record retention + green engagement, and still zero follows and zero comments/lead-magnet actions. Reach and retention are done. **The entire remaining lever is CONVERSION: the HOOKS CTA (comments) and the profile (follows).** Next experiment must target those, NOT the hook/footage/reach — those are working.
+5. **Fresh footage helped, but the takeaway is "arresting first frame", not "rotate footage".** The workbench clip stopped harder than the C50 clip because it's busier/more intriguing (and congruent), not because the C50 was "used up". Pick the most arresting first frame; congruence with the hook is a bonus.
+
+---
+
+## Patterns forming (n=25 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
