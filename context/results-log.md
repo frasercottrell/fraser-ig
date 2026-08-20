@@ -391,9 +391,9 @@ Three reels, same formula, same day, wildly different skip:
 - **Biggest-reach talking head yet** (848 vs 016's 543) and the **first talking head to earn shares (3) AND reposts (3)** — 016 had 0 of each. Shares are Georgia's shareability signal ("would a marketer send this to their team?"). The *teardown* format is more shareable than the pure hot take, because it's a useful thing to forward.
 - **Best talking-head comment count (7 vs 016's 2).** A teardown with an opinion + the comment-keyword CTA invites replies. The DTC-teardown format drives conversation.
 - **Save rate 1.1% ≈ 016's ~1.2%** — the format keeps earning saves at a healthy rate while now also reaching further and getting shared.
-- **Skip rate 66.3% (Higher than typical)** — the one soft spot. More people skipped than usual (longer talking head + a slow word-by-word TOS reveal). But the ones who stayed engaged *deeply* (shares/comments/saves all up). Trade-off worth watching: can we cut the skip without losing the depth? Test a punchier open / faster first 3s.
+- **Skip rate 66.3% (Higher than typical) — NOT a red flag for a talking head.** Skip/hook rate is the trial-reel KPI (cold scroll-stop is that format's whole job). A talking head is a warm main-feed convert asset — its job is depth with the people who *do* stay, and that's exactly what happened (shares/comments/saves all up). Do **not** judge a talking head by skip rate or chase a "punchier first 3s" the way we would on a trial reel. Different format, different scoreboard.
 
-**Worth testing:** more DTC-brand teardowns (this format shares + comments better than the hot-take talking head). Keep the specific-contrarian TOS. Try to pull the skip rate down with a faster opening.
+**Worth testing:** more DTC-brand teardowns (this format shares + comments better than the hot-take talking head). Keep the specific-contrarian TOS. Judge these on saves/shares/comments, not skip rate.
 
 ---
 
