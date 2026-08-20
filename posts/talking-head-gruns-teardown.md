@@ -44,3 +44,28 @@ You can't copy the ad. Copy the moves.
 
 Follow @frasercottrell for more breakdowns from 10,000+ ads made.
 Comment HOOKS and I'll send you 34 proven hook templates to grab attention just like this one.
+
+## Caption — v2 (alternate: the self-qualifying-hook angle)
+
+Lead on the single sharpest move (she qualifies the audience inside the hook) instead of the full move-by-move. Use whichever fits the feed. Voice-lint: 0 flags.
+
+The best targeting isn't in your ads manager 👇
+
+This Grüns ad is one of their top performers, and the smartest thing it does happens in the first ten seconds, before the product, before the pitch. She tells you she's on a GLP1.
+
+That one line does what a week of audience testing tries to do. The right person hears it and thinks "that's me". The wrong person scrolls. She's filtered the whole feed down to buyers without touching a single targeting setting. Here's why that beats what most brands do:
+
+1. It qualifies with words, not settings. You can stack interests and lookalikes all day. A specific line in the hook sorts your audience faster and cheaper than the platform ever will.
+
+2. It makes the viewer raise their hand. When someone silently agrees "yeah, that's my situation", they've already leaned in. Now they're watching to see if you understand them, not to decide whether to keep scrolling.
+
+3. It earns the right to teach. Because she called out the exact person, everything after it lands. She spends the middle of the video educating them on what matters on a GLP1, and they actually listen, because she's clearly talking to them.
+
+4. It hides the sell inside the help. By the time the product shows up, it feels like the obvious answer to what she just taught, not a pitch bolted onto the end.
+
+And the format lets all of that breathe. No cuts, no B roll, just her talking to camera, looking like a real person instead of a brand. That's the part people copy last and should copy first.
+
+The lesson isn't "mention GLP1". It's call out your exact customer in the first line, then earn the rest. Vague hooks chase everyone and convert no one.
+
+Follow @frasercottrell for more breakdowns from 10,000+ ads made.
+Comment HOOKS and I'll send you 34 proven hook templates that call out the right buyer fast.
