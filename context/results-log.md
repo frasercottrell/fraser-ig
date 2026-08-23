@@ -503,7 +503,48 @@ New footage: messy garage workbench, hands assembling a cinema camera with a red
 
 ---
 
-## Patterns forming (n=25 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 17 — Day 6 (reels 029-031) — CONVERSION TEST: 3 CTAs. Verdict: CTA is NOT the follows lever.
+
+Proven reach formula held (workbench footage, sharp angle, 5-point caption). Only the CTA changed, one per reel.
+
+### Reel 029 — F2 agency-callout — CTA-D share driver ("send this to whoever runs your ads")
+
+**Metrics:** Views 2,269 · Viewers 1,709 · Watch 8s · Follows 1
+- Skip 32.8% (Lower) · **Share 0.0% (Lower)** · Like 0.7% (Lower) · Save 0.2% (Lower) · Comment 0
+
+**Read:** Biggest reach of the day but WORST engagement. The "send this to..." share ask did NOT lift shares (0.0%, Lower). Agency-callout is a narrower topic (only lands for people who have an agency), so the broad cold pool didn't act. Share-ask CTA = failed.
+
+### Reel 030 — F1 "Fight me" — CTA-E debate prompt ("agree or disagree?")
+
+**Metrics:** Views 1,432 · Viewers 1,048 · Watch 8s · Follows 0
+- Skip 28.6% (Lower) · Share 0.0% (Typical) · Like 1.0% (Lower) · Save 0.0% (Lower) · **Comment 0.1% (Higher) ⭐**
+
+**Read:** FIRST green comment rate in ~28 reels (≈1 comment). Tiny, but the debate/"fight me" prompt is the ONLY CTA that has ever moved comments. Opinion beats keyword for comments. Worth more reps.
+
+### Reel 031 — F3 audit-100 — CTA-F series follow-hook ("1 of 5 this week, follow for the rest")
+
+**Metrics:** Views 1,391 · Viewers 1,105 · Watch 7s · **Follows 0**
+- Skip 28.5% (Lower) · **Share 0.1% (Higher)** · Like 0.5% (Lower) · **Save 0.6% (Higher)** · Comment 0.0% (Lower)
+
+**Read:** The series follow-hook got 0 follows. But the reel earned green saves + shares — the F3 reference-checklist ("5 mistakes, check your account") keeps reliably driving saves. Content worked; the follow CTA didn't.
+
+### Day 6 verdict — CTA is NOT the conversion lever. Follows are won on the PROFILE, not the caption.
+
+| Reel | CTA tested | Target signal | Result |
+|---|---|---|---|
+| 029 | share ("send to...") | shares | 0.0% shares (Lower) ❌ |
+| 030 | debate ("fight me") | comments | 0.1% comments (Higher) ⭐ weak win |
+| 031 | series ("1 of 5, follow") | follows | 0 follows ❌ |
+
+1. **You cannot caption your way to follows on a cold trial reel.** Three deliberate CTAs, follows across the day = **1 total on ~4,900 reach.** The explicit follow-hook got zero. This is now well-evidenced across ~30 reels: the CTA wording is NOT the follows bottleneck.
+2. **Follows happen on the profile, not in the caption.** A cold viewer who likes a reel taps the profile before following. If they don't follow, the profile isn't converting them. **Next work = profile optimisation** (bio, pinned "start here" reels, what the feed looks like), not more CTA rewrites.
+3. **Reframe the trial-reel scoreboard.** Trial reels reliably deliver reach + retention but almost never follows, regardless of CTA. Their real job is **finding winning content.** The winners (023 full-green, 024 reach record, 025 skip record) should be **republished to the main grid / used as ads**, where follows and comments actually accrue over time with a warmer audience. Stop judging trial reels on follows.
+4. **Weak positives to keep:** debate/"fight me" is the best comment lever we've found (keep testing it); the F3 numbered self-checklist is the reliable save driver.
+5. **Reach machine still humming** — all three 1,391-2,269 reach, skip 28-33% (all Lower), regardless of CTA. The CTA never hurt reach; it just didn't fix conversion.
+
+---
+
+## Patterns forming (n=28 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
