@@ -34,38 +34,65 @@ banned outright and I'll record that.
 
 ---
 
-## Slides
+## Slides — v2 (Georgia's ramp structure, Fraser's voice)
+
+Georgia sent back a rework of the opening. Her structural point is right and is adopted: the
+curiosity gap runs across four slides, one line each, before any answer. Full analysis in
+`context/carousels.md` under "Georgia's rewrite of carousel 05".
+
+Not adopted: her "Not to be dramatic but" opener. It's a softener, and `tone-of-voice.md` says never
+warm up while `ai-writing-tells.md` §9 puts permission-asking openers in the manufactured-intimacy
+family. Fraser's own three rewrites all open cold. Her disarming instinct is right, but his pattern
+puts the aside *after* the claim ("For real.", "I'm being serious."), which keeps the punch first.
+So slide 1 carries the claim, then the aside.
+
+Cut to fit the ramp: the old slide 6 ("while you're waiting on one shoot...") restated what slides 5
+to 7 already established.
 
 **1.**
-> Your competitor is testing 10x more ads than you.
-> They're not spending more.
+> Your competitors are probably testing 10x more ads than you.
+> I know how that sounds.
 
 **2.**
-> And they're not working harder than you either
+> Not because they've got bigger budgets
 
 **3.**
-> The thing that used to limit testing was production
-> every new angle meant a shoot and a week of waiting
+> Or because they're working harder...
 
 **4.**
-> That cost has basically gone
-> they can put out 10 angles in the time it used to take to make one
+> They've just worked out something you haven't
 
 **5.**
+> Testing used to be limited by production
+> every new angle meant a shoot and a week of waiting
+
+**6.**
+> That cost has basically gone
+
+**7.**
 > They're not using AI to make the ads
 > they're using it to write the angles and the scripts, then filming the winners properly
 
-**6.**
-> So while you're still waiting on one shoot
-> they've already found out which angle works
-
-**7.**
+**8.**
 > They're just getting more shots at it than you are.
 
-**8.**
+**9.**
 > Want the angles we test first? Comment ANGLES and I'll send you the list
 
 ---
+
+## Slides — v1 (mine, kept for the comparison)
+
+**1.** Your competitor is testing 10x more ads than you. / They're not spending more.
+**2.** And they're not working harder than you either
+**3.** The thing that used to limit testing was production / every new angle meant a shoot and a week of waiting
+**4.** That cost has basically gone / they can put out 10 angles in the time it used to take to make one
+**5.** They're not using AI to make the ads / they're using it to write the angles and the scripts, then filming the winners properly
+**6.** So while you're still waiting on one shoot / they've already found out which angle works
+**7.** They're just getting more shots at it than you are.
+**8.** Want the angles we test first? Comment ANGLES and I'll send you the list
+
+The difference: v1 starts answering on slide 3. v2 holds until slide 5.
 
 ## Notes on the build
 

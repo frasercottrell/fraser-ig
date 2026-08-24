@@ -45,7 +45,11 @@ Straight from the call-2 email. This is the spec, not a suggestion.
 that the final comment-for-freebie feels natural rather than tacked on.
 
 **The two-hook structure is the thing that makes carousels different.** A reel has one hook. A
-carousel has two: slide 1 buys the stop, slide 2 buys the swipe. Slide 2 is where carousels are
+carousel has two: slide 1 buys the stop, slide 2 buys the swipe.
+
+⚠️ **Extended below.** Slides 1 and 2 are the *minimum*. Georgia's rework runs the gap across four
+slides before any answer, and every carousel in this doc rushed the payload. See "The curiosity gap
+is a ramp, not a slide". Slide 2 is where carousels are
 won and lost. If slides 1 and 2 aren't strong enough that someone needs the answer, **nothing after
 them matters** — the best slide 5 in the world is never seen.
 
@@ -400,6 +404,82 @@ That's the same rule solved from the other end, and it's better. It keeps the ke
 is engagement fuel and list-building, per `business.md`) instead of surrendering it. The cost is that
 the asset has to exist before the post does. Add the new keyword to `business.md` when it's built,
 and never post the carousel first.
+
+### Georgia's rewrite of carousel 05 — the curiosity ramp
+
+She sent back a rework of the opening slides. It exposes a structural mistake in every carousel in
+this doc, and it also contains one move that fights `tone-of-voice.md`. Both worth recording.
+
+Her version:
+
+> 1. Not to be dramatic but your competitors may be testing 10x more ads than you.
+> 2. Not because they have bigger budgets.
+> 3. Or becuase they're working harder...
+> 4. It's because they've figured out something you haven't.
+
+Mine:
+
+> 1. Your competitor is testing 10x more ads than you. / They're not spending more.
+> 2. And they're not working harder than you either
+> 3. The thing that used to limit testing was production / every new angle meant a shoot and a week of waiting
+
+**S. The curiosity gap is a ramp, not a slide.** This is the real lesson. The anatomy in this doc
+says slide 1 stops and slide 2 opens the gap, and I read that as "gap done by slide 2, start
+delivering on slide 3". Georgia spends **four** slides before any answer: claim, denial, denial,
+then a slide whose entire job is to confirm an answer exists.
+
+I was rushing to the payload. Every carousel above starts delivering on slide 3. Hold longer.
+
+**T. The "there's something you don't know" slide.** Slide 4 is the move I don't have anywhere:
+
+> It's because they've figured out something you haven't.
+
+After two denials a reader can conclude there's no answer coming and drop off. This closes that exit
+while still refusing to say what. It converts denial into promise, and it applies status pressure
+(they know, you don't) without naming anything. Steal this outright.
+
+**U. One line per slide during the ramp.** Her ramp slides are one line each. Mine stacked the claim
+and the first denial onto slide 1. Splitting them across slides makes each denial its own beat, and
+every extra swipe is a micro-commitment from the reader. The 2-line default still holds for the body;
+**the ramp runs at one.**
+
+**V. A trailing "..." is correct mid-carousel. The ban is a reel rule.** Her slide 3 ends "they're
+working harder...". `instagram-playbook.md` bans trailing tails on reel hooks because they defer
+instead of hitting, and on a reel deferral is fatal since there's nowhere to go. On a carousel the
+deferral resolves in the swipe, which is exactly what you want. Mid-line "..." marks a reversal
+(Fraser); terminal "..." hands off to the next slide (Georgia). Both good, different jobs.
+
+**W. Hedge the headline claim, not just the lesson.** Hers: "**may be** testing 10x more ads". Mine
+asserted it flat. Fraser independently added "probably" to a lesson slide in carousel 03, so two
+sources now agree. It reads as more credible than the flat claim, and it happens to be truer since
+nobody knows what any given reader's competitor is doing.
+
+**X. The denials run parallel across slides, and that's fine.** "Not because…" / "Or because…" is
+matched structure, which the tells doc flags inside a line. Across slides it's a rhythm that pulls
+the reader through, not a balanced triad on the page. Different mechanism, allow it.
+
+#### Where her version conflicts with Fraser's voice, and what to do about it
+
+**"Not to be dramatic but" is a softener, and Fraser doesn't use them.** `tone-of-voice.md` says
+open with a bold hook or a challenge, never warm up. `ai-writing-tells.md` §9 puts permission-asking
+openers ("Can I be real for a second?") in the manufactured-intimacy family. And Fraser's own three
+rewrites all open cold: "You're not wasting money on ads", "I've made over 10,000 ads", "I scaled a
+brand 70%". Not one warms up.
+
+It is doing real work, though. A flat "your competitor is testing 10x more ads than you" reads like a
+scare-tactic marketing line, and the disclaimer pre-empts the eye-roll.
+
+**The resolution is in Fraser's own pattern: he disarms after the claim, not before it.** "I scaled a
+brand 70% with photos of people's feet. **For real.**" "I've made over 10,000 ads. The ones that made
+the most money... looked the worst." The punch lands first and the human aside follows. Georgia's
+instinct is right; her placement costs the opening.
+
+So: **take her structure, keep his opening order.** Claim, then the aside.
+
+This is `operating-model.md` working as designed. Georgia is the strong general model, and where her
+generic phrasing meets Fraser's specific voice, the voice wins. Her lines read format-correct and
+person-neutral, which is exactly what you'd expect from a specialist writing for someone else's
+account.
 
 ### The text-message test
 
@@ -782,7 +862,11 @@ Before it goes out:
       trailing "…here's why".
 - [ ] Slide 1 uses the word "ads" and comes from one of the 3 hook families.
 - [ ] Slide 1's image is a tight, legible, slightly unusual frame. BTS / camera / production.
-- [ ] **Slide 2 widens the gap.** Cover slides 3+ and check someone *needs* the answer.
+- [ ] **The gap runs as a ramp, not one slide.** Claim, denial, denial, then a slide confirming an
+      answer exists. Don't start delivering on slide 3.
+- [ ] Ramp slides are one line each. Body slides are two.
+- [ ] Headline claim hedged ("probably", "may be"), not asserted flat.
+- [ ] Cover the payload slides and check someone *needs* the answer.
 - [ ] Slides 3–7 are a numbered, saveable framework, one thought per slide, 1–3 lines each.
 - [ ] **Text-message test on every slide: would you actually send this line to a mate?**
 - [ ] No summarising punch line at the end of a slide. The swipe is the button.
