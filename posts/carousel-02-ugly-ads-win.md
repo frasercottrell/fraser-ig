@@ -16,47 +16,42 @@ in ManyChat. Resolve before either posts.
 
 ## Slides
 
+Fraser's rewrite, verbatim. Only genuine misspellings and a double space fixed ("should't", "to  cheat").
+Lowercase line starts, the lowercase "i", the "=" and the dropped full stops are style and stay.
+Went from 9 slides to 8, and from 7 content patterns to 5.
+
 **1.**
 > I've made over 10,000 ads.
 > The ones that made the most money... looked the worst.
 
 **2.**
 > go and look at your top performer right now.
-> I bet it isn't the one you were proud of.
+> I bet it's not the one you were proud of
 > That's not a coincidence
 
 **3.**
-> Polish is a signal. It tells people this is an ad
+> To most people polish = Ad
 > and the second they know it's an ad, they scroll
-> Meta doesn't punish you for it. People do
 
 **4.**
-> Every winner calls out who it's for in the first line
-> not with targeting. with words
-> "if you're on a GLP1" beats any lookalike you can build
+> So make that first second count and target the right people
+> "if you're on a GLP1" so simple but it works
 
 **5.**
-> The product turns up late
-> the first line names something they already feel
-> if your first line is about you, you've lost them
+> Your product shouldn't be the first thing people see
+> it should be about them, the customer.
 
 **6.**
-> The best lines aren't written, they're stolen
+> Those first lines are probably already written by your customer
 > reviews, DMs, the comments under your competitor's ads
-> your customer already wrote your ad for you
 
 **7.**
-> And they only ever say one thing
-> the losers crammed in five benefits and landed none of them
+> You don't need a better camera, you need a better first line.
 
 **8.**
-> You don't need a better camera.
-> You need a better first line.
+> If you want to cheat, i made you 34 top hooks, comment HOOK
 
-**9.**
-> Want the hooks I use for this? Comment HOOK and I'll send you 34 of them.
-
----
+⚠️ Keyword still unresolved. Slide 8 says HOOK, `business.md` says HOOKS is what's live in ManyChat.
 
 ## Caption
 

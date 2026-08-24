@@ -134,6 +134,9 @@ thing" appears zero times.** Same for "the result?" and "sound familiar?" — qu
 nobody. On a carousel this matters double: **the swipe is the transition.** The gap between slides
 already does the work a bridge phrase would do, so a bridge phrase on top is pure padding.
 
+⚠️ **Half-corrected below.** Formulaic bridges stay banned, but Fraser does thread slides with
+natural connectors ("So…", "Those…"). See "Thread the slides".
+
 - ❌ "But here's the thing. The result? Your ads stop working."
 - ✅ "So it fatigues. And nobody spots it until the numbers fall off a cliff."
 
@@ -233,6 +236,71 @@ and I'll send you 34 of them."
 A question, then the ask. Shorter, warmer, no justification bolted on. He also dropped the follow CTA
 from the slide entirely, since it's already in the caption. One ask per slide.
 
+### Second pass (carousel 02) — what still needed cutting
+
+Pass 2 held on most of the eleven. Slides 1, 2 and the closing reframe survived nearly intact, which
+means the register is landing. Everything below is what he *still* had to fix, so it's the residue
+the first list didn't catch. He went from 9 slides to 8, and from 7 content patterns to 5.
+
+**A. The setup is the flourish. The punch is the statement.** This is the real shape of "don't write
+buttons", and it's the single most repeated correction across both passes. I write a setup line and
+land a punch under it. He deletes the setup and keeps the punch as a plain statement.
+
+- Mine: "The best lines aren't written, they're stolen / reviews, DMs, the comments…" → his: "Those first lines are probably already written by your customer / reviews, DMs, the comments…"
+
+He took what I'd built up to and just said it first. **If a line exists to make the next line land,
+cut it and let the next line open the slide.**
+
+**B. Cut the clever construction, keep the information.** I told myself these were "consequence
+lines" and kept them. He cut every one. What they have in common is that they do rhetorical work,
+not informational work:
+
+- "Meta doesn't punish you for it. People do" — a chiasmus. Cut.
+- "not with targeting. with words" — a contrast built for rhythm. Cut.
+- "beats any lookalike you can build" — a comparative flourish. Cut.
+- "aren't written, they're stolen" — the not-X-but-Y frame, a cousin of the banned "not just X, it's Y". Cut.
+
+The test isn't "is this a consequence or a summary". It's **would this line survive if it weren't
+also satisfying**. Clever is the tell.
+
+**C. Compress into notation.** "To most people polish = Ad" replaced my two-clause explanation.
+Equals signs, slashes, arrows and mid-sentence capitals for emphasis all read as fast typing, which
+is the register. A symbol beats a clause.
+
+**D. Hedge. Don't assert.** "Those first lines are **probably** already written by your customer."
+I write absolute claims because they feel stronger. They read as content-marketing confidence. A
+hedge reads as a person who's actually thought about it and isn't overselling.
+
+**E. Thread the slides. This corrects the no-bridge rule.** I said the swipe is the transition and
+bridge phrases are padding. Half right. **Formulaic** bridges stay banned ("but here's the thing",
+"the result?"). But Fraser threads slides with natural connectors and back-references:
+
+- "**So** make that first second count…"
+- "**Those** first lines are probably…"
+
+The carousel is one continuous argument he's talking through, not eight independent cards. A
+connector that carries the thought forward is good. A phrase that announces a transition is not.
+
+**F. Cut a whole point rather than compress every point.** I had 7 content patterns. He cut two
+outright ("they only say one thing" went entirely) and gave the survivors room. Faced with too much,
+the instinct to shorten every slide is wrong. **Drop a pattern.**
+
+**G. Two lines is the slide length.** His slides run 2 lines, occasionally 3, and the last two run 1.
+Mine were consistently 3. This narrows the earlier "1 to 3 lines" guidance: **default to 2.**
+
+**H. Second person, including the possessive.** "**Your** product shouldn't be the first thing
+people see." "i made **you** 34 top hooks." I write "the product" and "the hooks I use". He makes
+everything theirs, right down to the CTA being a gift rather than a resource.
+
+**I. In the CTA, the ask goes last.** Mine: offer question, then the ask, then the payload. His:
+condition, payload, ask.
+
+> If you want to cheat, i made you 34 top hooks, comment HOOK
+
+"comment HOOK" is the final two words. They know exactly what they're getting before they're asked to
+do anything. Note also "if you want to cheat" — cheeky framing beats a plain offer, and it's straight
+out of `tone-of-voice.md` ("confident, slightly cheeky").
+
 ### The text-message test
 
 The spoken doc has the read-aloud test. Slides get the texting version, and it's stricter:
@@ -249,8 +317,8 @@ person.
 
 ### One thought per slide, and keep it short
 
-A slide holds **one thought, in one to three lines.** If it needs a paragraph, it's two slides. If
-it needs three paragraphs, it's a caption.
+A slide holds **one thought, in two lines.** Three at a push, one for the close and the CTA. If it
+needs a paragraph, it's two slides. If it needs three paragraphs, it's a caption.
 
 This isn't a design preference, it's the friction rule: every bit of comprehension effort costs a
 save. Georgia's version — *"put it on screen so I don't have to go Google what I thought I heard you
@@ -618,6 +686,12 @@ Before it goes out:
 - [ ] Slides 3–7 are a numbered, saveable framework, one thought per slide, 1–3 lines each.
 - [ ] **Text-message test on every slide: would you actually send this line to a mate?**
 - [ ] No summarising punch line at the end of a slide. The swipe is the button.
+- [ ] No setup lines. If a line exists to make the next one land, cut it.
+- [ ] No clever constructions. Chiasmus, not-X-but-Y, comparative flourishes all go.
+- [ ] 2 lines per slide. If there are too many patterns, drop one rather than compress all.
+- [ ] Claims hedged where honest ("probably"), not asserted absolutely.
+- [ ] Slides threaded with natural connectors, never formulaic bridges.
+- [ ] CTA order: condition, payload, ask. The ask is last.
 - [ ] Every number is real. Nothing invented to sound specific.
 - [ ] Platform mechanism used where one exists, not a definition.
 - [ ] Format names, real account vocabulary, digits not words.
