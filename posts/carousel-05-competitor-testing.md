@@ -34,7 +34,7 @@ banned outright and I'll record that.
 
 ---
 
-## Slides — v2 (Georgia's ramp structure, Fraser's voice)
+## Slides. v2 (Georgia's ramp structure, Fraser's voice)
 
 Georgia sent back a rework of the opening. Her structural point is right and is adopted: the
 curiosity gap runs across four slides, one line each, before any answer. Full analysis in
@@ -81,7 +81,7 @@ to 7 already established.
 
 ---
 
-## Slides — v1 (mine, kept for the comparison)
+## Slides. v1 (mine, kept for the comparison)
 
 **1.** Your competitor is testing 10x more ads than you. / They're not spending more.
 **2.** And they're not working harder than you either
