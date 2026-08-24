@@ -458,6 +458,28 @@ nobody knows what any given reader's competitor is doing.
 matched structure, which the tells doc flags inside a line. Across slides it's a rhythm that pulls
 the reader through, not a balanced triad on the page. Different mechanism, allow it.
 
+
+**Y. Name the thing the reader is literally doing.** The best line on the built carousel, and it was
+a straight upgrade on mine:
+
+- Mine: "So while you're still waiting on one shoot, they've already found out which angle works"
+- His: "So while you're still staring at a blank google doc, they've already tested 10 new angles"
+
+Mine described a *process*. His named the object in front of them at that exact moment. This is the
+mirror mechanism from `operating-model.md` ("the more specific you can be, the more triggering it
+is") applied to an everyday object rather than a pain. Reach for the thing on their desk.
+
+**Z. A closing image can replace a closing statement.** I ended with a reframe: "They're just getting
+more shots at it than you are." He cut it and let the blank-doc slide run straight into the CTA. The
+image already carries the argument, and a statement after it just explains the joke. So the
+reframe-close rule holds, but **an image that lands the point is a valid close in its own right**,
+and the abstract version of the same idea belongs in the caption.
+
+**AA. Point the keyword at something that already exists.** Three of the carousels above invented a
+keyword that needed an asset built (FEET, AUDIT, ANGLES). Fraser pointed slide 9 at a video he has
+already made. Same engagement mechanic, no build, nothing blocking the post. **Check the shelf before
+inventing the asset.**
+
 #### Where her version conflicts with Fraser's voice, and what to do about it
 
 **"Not to be dramatic but" is a softener, and Fraser doesn't use them.** `tone-of-voice.md` says
@@ -475,6 +497,20 @@ the most money... looked the worst." The punch lands first and the human aside f
 instinct is right; her placement costs the opening.
 
 So: **take her structure, keep his opening order.** Claim, then the aside.
+
+**⚠️ Correction: I was wrong about this and Fraser overruled it.** The slide he actually built:
+
+> Hate to break it to you but your competitor is testing 10x more ads than you.
+
+Georgia's move, front-loaded, in his words. So the rule is **not** "never soften". A softener that
+sounds like him is fine, and on a claim this confrontational it buys the credibility that a flat
+assertion spends. What `tone-of-voice.md` is actually banning is the *generic* warm-up, the
+throat-clear that could top anyone's post. "Hate to break it to you but" is a voice; "Not to be
+dramatic but" and "In today's landscape" are not.
+
+Note also what he dropped once the softener was in: Georgia's hedge. Hers ran "competitors **may
+be**", his is "your competitor **is**", flat and singular. **The softener and the hedge do the same
+job, so you only need one.** Soften the delivery or hedge the claim, not both, or it reads apologetic.
 
 This is `operating-model.md` working as designed. Georgia is the strong general model, and where her
 generic phrasing meets Fraser's specific voice, the voice wins. Her lines read format-correct and

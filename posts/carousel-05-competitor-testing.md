@@ -34,65 +34,62 @@ banned outright and I'll record that.
 
 ---
 
-## Slides. v2 (Georgia's ramp structure, Fraser's voice)
+## Slides. FINAL (as built in the IG editor)
 
-Georgia sent back a rework of the opening. Her structural point is right and is adopted: the
-curiosity gap runs across four slides, one line each, before any answer. Full analysis in
-`context/carousels.md` under "Georgia's rewrite of carousel 05".
-
-Not adopted: her "Not to be dramatic but" opener. It's a softener, and `tone-of-voice.md` says never
-warm up while `ai-writing-tells.md` §9 puts permission-asking openers in the manufactured-intimacy
-family. Fraser's own three rewrites all open cold. Her disarming instinct is right, but his pattern
-puts the aside *after* the claim ("For real.", "I'm being serious."), which keeps the punch first.
-So slide 1 carries the claim, then the aside.
-
-Cut to fit the ramp: the old slide 6 ("while you're waiting on one shoot...") restated what slides 5
-to 7 already established.
+Georgia's ramp structure, Fraser's voice, built and screenshotted. 9 slides.
 
 **1.**
-> Your competitors are probably testing 10x more ads than you.
-> I know how that sounds.
+> Hate to break it to you but your competitor is testing 10x more ads than you.
 
 **2.**
-> Not because they've got bigger budgets
+> Not because they have bigger budgets
 
 **3.**
 > Or because they're working harder...
 
 **4.**
-> They've just worked out something you haven't
+> It's because they've figured something out you haven't
 
 **5.**
-> Testing used to be limited by production
-> every new angle meant a shoot and a week of waiting
+> The thing that used to limit testing was production, every new angle meant a shoot and a week of waiting
 
 **6.**
-> That cost has basically gone
+> That cost has basically gone now they can put out 10 angles in the time it used to take to make one
 
 **7.**
-> They're not using AI to make the ads
-> they're using it to write the angles and the scripts, then filming the winners properly
+> They're not using AI to make the ads they're using it to help write the angles and pump out net new ideas
 
 **8.**
-> They're just getting more shots at it than you are.
+> So while you're still staring at a blank google doc, they've already tested 10 new angles
 
 **9.**
-> Want the angles we test first? Comment ANGLES and I'll send you the list
+> Want my video on scripting great ads with the help of AI? Comment 'SCRIPT' and I'll DM it to you
 
----
+### ⚠️ Three typos in the built version, fix before posting
 
-## Slides. v1 (mine, kept for the comparison)
+- Slide 3: "Or because **their** working harder" should be **they're**
+- Slide 7: "and **the** pump out net new ideas" should be **and pump out**
+- Slide 8: "while **your** still staring" should be **you're**
 
-**1.** Your competitor is testing 10x more ads than you. / They're not spending more.
-**2.** And they're not working harder than you either
-**3.** The thing that used to limit testing was production / every new angle meant a shoot and a week of waiting
-**4.** That cost has basically gone / they can put out 10 angles in the time it used to take to make one
-**5.** They're not using AI to make the ads / they're using it to write the angles and the scripts, then filming the winners properly
-**6.** So while you're still waiting on one shoot / they've already found out which angle works
-**7.** They're just getting more shots at it than you are.
-**8.** Want the angles we test first? Comment ANGLES and I'll send you the list
+Two of them are your/their for you're/they're on a post about being the expert in the room. Worth the
+two minutes.
 
-The difference: v1 starts answering on slide 3. v2 holds until slide 5.
+### What changed from the drafts, and why it's better
+
+- **The softener came back, in his words.** "Hate to break it to you but". I'd argued against
+  Georgia's "Not to be dramatic but" on the grounds that `tone-of-voice.md` bans warm-ups. Wrong
+  call. See the correction in `carousels.md`.
+- **The blank google doc.** My line was "while you're still waiting on one shoot". His is "while
+  you're still staring at a blank google doc". Mine described a process, his named the thing the
+  reader is literally doing. That's the mirror mechanism, and it's the best line on the carousel.
+- **No reframe close.** Slides 8 then straight to CTA. My "they're just getting more shots at it than
+  you are" is gone. The blank-doc slide is doing that job, and it does it with an image rather than a
+  statement. The reframe now lives in the caption instead.
+- **The CTA points at something that already exists.** ANGLES was an asset that needed building.
+  SCRIPT is an existing video. That solves the problem three of these carousels have.
+
+⚠️ **SCRIPT still needs a ManyChat setup** and an entry in `business.md`, which currently lists HOOKS
+as the only live keyword.
 
 ## Notes on the build
 
@@ -107,22 +104,25 @@ The difference: v1 starts answering on slide 3. v2 holds until slide 5.
 
 ## Caption
 
-Save this before you plan your next month of testing 👇
+Written to the built arc. The slides establish what changed; the caption delivers the how, which is
+where the save gets earned.
 
-The brands out-testing you usually aren't outspending you. What changed is that the expensive part of trying a new angle stopped being expensive. Here's what that actually looks like when a team runs it properly, rather than as an AI-hacks thing:
+Save this before you write your next batch of ads 👇
 
-1. The bottleneck was never budget, it was production time. Every new angle used to mean booking a shoot, briefing a creator, waiting on an edit. That's why most brands tested wording instead of ideas. Wording was the only thing cheap enough to change. That constraint is the one that's gone, and it's the whole story.
+The brands out-testing you usually aren't outspending you. The expensive part of trying a new angle used to be production, and that's the bit that collapsed. Here's what it actually looks like when a team runs it properly, rather than as an AI hacks thing:
 
-2. Use AI for the angles and the scripts, not the finished ad. The teams getting real results are writing twenty angles and twenty scripts in an afternoon, picking the strongest handful, then filming those properly. The output people share online is AI-generated video. The output that actually moves accounts is AI-generated thinking followed by real production.
+1. Stop starting from a blank doc. The blank doc is the reason most brands end up testing wording instead of ideas. Feed the model your reviews, your DMs, the comments under your competitor's ads, and ask it for angles. You're not asking it to be creative. You're asking it to read more customer language in ten minutes than you'd get through in a week.
 
-3. Test angles, not variations. Volume only counts if the things you're running are genuinely different arguments. Twenty AI-written versions of the same idea is the old problem with a faster engine bolted on, and it'll teach you exactly as little as ten manual variations did.
+2. Write angles before you write scripts. One line each. Problem-led, founder-led, proof-led, comparison-led, objection-led. The angle is the argument for buying. The script is just how you deliver it. Most brands skip straight to scripts and end up with five versions of the same argument.
 
-4. Write the angles down before you make anything. One line each. Problem-led, founder-led, proof-led, comparison-led. If two of them collapse into the same sentence, you've got one angle, not two. This is the step that decides whether the volume is worth anything.
+3. Use AI for the volume, use yourself for the judgement. Getting twenty angles out is trivial now. Knowing which three are worth filming is the actual job, and that part hasn't got any easier. If you're letting the model pick the winners, you've automated the wrong half of the process.
 
-5. The winners still need real production. Finding the angle is now cheap. Making the version that scales is not, and that gap is where the advantage sits. Brands that skip straight to publishing the AI output get a lot of ads and no winners.
+4. Kill the duplicates before anything gets briefed. Read the angles back to yourself. If two of them collapse into the same sentence, you've got one angle, not two. It takes about ten minutes and it's the step that decides whether all that volume was worth anything.
 
-The gap between you and the brand beating you usually isn't money or talent. They're just getting more shots at it, because they removed the thing that used to make each shot expensive.
+5. The winners still get made properly. Finding the angle is cheap now. Making the version that scales isn't, and that gap is exactly where the advantage sits. The brands publishing raw AI output end up with a lot of ads and no winners.
 
-Want the angles we test first? Comment ANGLES and I'll send you the list.
+None of this is about making ads faster. It's about getting more shots at finding the one that works, because the thing that used to make every shot expensive is gone.
+
+Want my video on scripting great ads with AI? Comment SCRIPT and I'll DM it over.
 
 Follow @frasercottrell for more from 10,000+ ads made.
