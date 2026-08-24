@@ -30,6 +30,7 @@ later session couldn't see them). To stop it happening again:
 - **[business.md](context/business.md)** — offers, funnel, course, newsletters, freebies
 - **[pillars.md](context/pillars.md)** — the 4 content pillars + hook formula
 - **[instagram-playbook.md](context/instagram-playbook.md)** — execution: bio, trial reels, carousels, cadence, action plan
+- **[carousels.md](context/carousels.md)** — ⭐ the complete carousel guide: slide-by-slide anatomy, slide-2 mechanics, CTA rules, caption bar, testing discipline
 - **[hooks-swipe.md](context/hooks-swipe.md)** — hook swipe file by category
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
 - **[idea-bank.md](context/idea-bank.md)** — video ideas + topics + hooks (kills the blank-screen problem)
