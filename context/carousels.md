@@ -113,6 +113,9 @@ cycling is a named AI tell. Repetition is how the voice underlines.
 - ❌ "The creative, the asset, the content itself is the real variable here."
 - ✅ "The creative is the variable. Not the budget. Not the audience. The creative."
 
+⚠️ **Narrowed below.** This is for emphasis on a single word or claim, not for list scaffolding.
+See "Break the parallel scaffolding".
+
 **7. Be concrete to the point of over-sharing.**
 Real numbers, real brands, real niches. Vague reads as marketing. Specific reads as someone who's
 actually done it. (Same rule as the tone doc's specificity rule, but it bites harder on a slide,
@@ -120,6 +123,9 @@ where there are only eight words and every one is exposed.)
 
 - ❌ "A significant portion of viewers drop off almost immediately."
 - ✅ "70% are gone before three seconds. That's your hook rate."
+
+⚠️ **Corrected below.** Specificity means *real* detail. Never invent a number to satisfy this rule.
+See "Generic beats invented-specific".
 
 **8. Transition by moving, not by signposting.**
 The written instinct bridges every slide with the same connective tissue. Real speech just moves.
@@ -142,6 +148,90 @@ The odd bit of self-mockery breaks the guru frame and buys enormous trust. Frase
 not a guru. Practitioners have made bad ads.
 
 - ✅ "I've made 10,000 ads. Plenty of them were rubbish. That's how I know this."
+
+### What Fraser changed (learned from his rewrite of carousel 01)
+
+The ten moves above came from the spoken-script doc. These came from Fraser rewriting a draft I'd
+written to those rules, which makes them the higher authority. Where they contradict the list above,
+**these win.**
+
+**1. Don't write buttons.** The clearest pattern, on three separate slides. I closed each slide with
+a summarising punch line. He deleted every one of them.
+
+- Mine: "…Same idea underneath. **That's a repeat.**" → his: ends on "It's all the same idea underneath."
+- Mine: "…One opens on proof. **Three arguments.** Now you're testing." → his: "Now you're testing"
+- Mine: "You never built a second idea. **You built ten copies of the first one.**" → cut.
+
+The instinct to land a punch on every slide is a written instinct. **The swipe is the button.** End
+on the substance and let the reader move.
+
+**2. Reach for the platform mechanism, not the definition.** The single biggest upgrade in his pass.
+
+- Mine: "Changing the wording is a variation. Changing the argument is a test."
+- His: "Changing the TOS isn't a good enough test / **Meta sees them as the same ad** / it's not going to teach you anything"
+
+Mine is a definitional distinction, which is a thing anyone could assert. His is a fact about how the
+platform behaves, which is a thing only someone in the accounts knows. **When there's a mechanism
+available, use the mechanism.** It does the authority work that adjectives can't.
+
+**3. Use the real account vocabulary, unexplained.** TOS. Hook. Headline. Yapper. Creative diversity.
+He doesn't gloss any of it. The audience is people already running ads (`audience.md`), so insider
+shorthand is a qualifier, not a barrier. It reads as someone who was in Ads Manager this morning.
+
+Note he swapped my "thumbnail" and "edit" for "headline" and "first line in the hook". Thumbnail is a
+YouTube word. Getting the platform's vocabulary wrong is a tell of its own.
+
+**4. Name formats, not descriptions.**
+
+- Mine: "One opens on the problem. One opens on the founder. One opens on proof."
+- His: "One is a UGC ad based around problem/solution / The other is a founder story / The next one is a UGC yapper"
+
+Name the thing you'd actually put in a brief. A format name is concrete and immediately actionable;
+"opens on proof" is a description of a format, one abstraction up.
+
+**5. Generic beats invented-specific.** I wrote "bloating at 3pm" and "4,000 reviews" to satisfy the
+specificity rule. He replaced the whole thing with "the same product" and named formats instead.
+
+**Fabricated detail is not specificity, it's a liability.** Every invented number is a claim Fraser
+would have to stand behind in the comments. Where there's a real number, use it and be relentless
+about it. Where there isn't, go generic and get the concreteness from format names, mechanisms and
+the reader's own situation. This corrects move 7 above.
+
+**6. Texting punctuation, properly.** His slides do all of this and it's the texture the draft was
+missing:
+- **Digits, not words.** "9 of them", never "nine of them".
+- **Mid-line "..." as a beat.** "the same ad**...** ten times." A pause before the punch. Distinct from
+  a trailing "…" at the end of a line, which is the deferral tail the playbook bans. Mid-line beat: good.
+  Terminal tail: still banned.
+- **Lowercase line starts.** "it's not going to teach you anything", "go back and check your reports."
+- **Dropped terminal full stops** on slides 4, 5, 6. The line break does the punctuating.
+
+**7. Give an instruction.** "**go back and check your reports.**" Mine was a statement about the
+reader ("your reporting backs you up"). His makes them do something. An imperative pulls someone into
+their own account mid-swipe, which is a far stronger involvement device than being described to.
+
+**8. Break the parallel scaffolding.** I ran "One… One… One…". He ran "One is… The other is… The next
+one is…". Repetition is for emphasis on a single word or claim (move 6), not for list scaffolding.
+Three matched openers in a row is the balanced-triad tell wearing a disguise.
+
+**9. Vague-on-purpose words are fine.** "You are just testing **the same stuff**." Nobody would write
+"stuff" in a deck. Everybody says it. Casual imprecision in the connective tissue is what makes the
+precise bits read as real.
+
+**10. Close on a reframe, not a to-do.** I ended with a three-line process instruction (write the
+angles on paper, kill the duplicates). He cut it entirely and replaced it with one line:
+
+> Just because it worked once, doesn't mean that's the only ad you should be running.
+
+A permission, not a task. This matches `tone-of-voice.md` on endings: a reframe, a callback, a
+one-liner that lands. The process detail belongs in the caption, which is where it now lives.
+
+**11. The CTA offers, it doesn't instruct.** Mine: "Comment HOOKS and I'll send you the 34 templates
+I actually use. Sorted by angle, not by wording." His: "**Want some good hook ideas?** Comment HOOK
+and I'll send you 34 of them."
+
+A question, then the ask. Shorter, warmer, no justification bolted on. He also dropped the follow CTA
+from the slide entirely, since it's already in the caption. One ask per slide.
 
 ### The text-message test
 
@@ -184,31 +274,34 @@ that's the most common way this format gets botched.
 
 ### Worked example
 
-Carousel 1 from Georgia's brief, "Most brands are wasting money because XYZ", written both ways.
+Carousel 1 from Georgia's brief, "Most brands are wasting money because XYZ". Full draft in
+`posts/carousel-01-same-ad-ten-times.md`. Below is what I wrote to the ten moves, and what Fraser
+made of it. The gap between the two columns is what section "What Fraser changed" is derived from.
 
-**The written version (what to avoid):**
-
-> 1. Most brands are wasting significant ad spend without realising it.
-> 2. The issue is not their targeting or their budget allocation.
-> 3. It's that they are testing variations rather than genuinely different concepts.
-> 4. Ten variations of one idea will only ever tell you about that one idea.
-> 5. Effective testing requires distinct angles that can be measured against each other.
-> 6. This approach ensures you always have a next winner in the pipeline.
-> 7. Comment HOOKS below to receive our hook template resource.
-
-Technically correct. Reads like a slide deck from an agency you'd never hire.
-
-**The texting-a-mate version:**
+**My draft (rules followed, still reads written):**
 
 > 1. You're not wasting money on ads. You're wasting it on the same ad, ten times.
-> 2. And you won't spot it, because your reporting says you ran ten tests last month.
-> 3. Ten variations of one idea isn't ten tests. It's one test, run ten times.
-> 4. Different thumbnail. Different first line. Same idea underneath. That's a repeat, not a test.
-> 5. A real test changes the *angle*. Problem-led vs founder-led vs proof-led. Three different arguments for the same product.
-> 6. That's why your winner dies and nothing replaces it. You never built a second idea to fall back on.
-> 7. Comment HOOKS and I'll send you the 34 templates I actually use. They're all different angles, not different wording.
+> 2. And your reporting backs you up. Ten tests last month. Says so right there. Nine of them weren't tests.
+> 3. What most brands call a test: new thumbnail, new first line, new edit. Same idea underneath. That's a repeat.
+> 4. Changing the wording is a variation. Changing the argument is a test. Only one of those teaches you anything.
+> 5. Three ads, same supplement. One opens on the problem. Bloating at 3pm. One opens on the founder. One opens on proof. 4,000 reviews. Three arguments. Now you're testing.
+> 6. This is why your winner dies and nothing replaces it. You never built a second idea. You built ten copies of the first one.
+> 7. Next round, write the angles first. On paper, before anyone opens Premiere. If two of them say the same thing, kill one.
+> 8. Comment HOOKS and I'll send you the 34 templates I actually use. Sorted by angle, not by wording.
 
-Same argument. One sounds like a person who's seen it happen a hundred times.
+**Fraser's rewrite:**
+
+> 1. You're not wasting money on ads. You're wasting it on the same ad... ten times.
+> 2. go back and check your reports. You launched ten ads last month. 9 of them were the same ads.
+> 3. What most brands say is a new ad, isn't. A new headline, a new first line in the hook. It's all the same idea underneath.
+> 4. Changing the TOS isn't a good enough test. Meta sees them as the same ad. it's not going to teach you anything
+> 5. Three ads for the same product. One is a UGC ad based around problem/solution. The other is a founder story. The next one is a UGC yapper. Now you're testing
+> 6. This is why your winner dies and nothing can replace it. You are just testing the same stuff, adding no diversity to your account
+> 7. Just because it worked once, doesn't mean that's the only ad you should be running.
+> 8. Want some good hook ideas? Comment HOOK and I'll send you 34 of them.
+
+Same argument, same structure, same eight slides. His is shorter, has no punch lines, names real
+formats, cites how Meta actually behaves, and ends on permission instead of homework.
 
 ---
 
@@ -524,6 +617,12 @@ Before it goes out:
 - [ ] **Slide 2 widens the gap.** Cover slides 3+ and check someone *needs* the answer.
 - [ ] Slides 3–7 are a numbered, saveable framework, one thought per slide, 1–3 lines each.
 - [ ] **Text-message test on every slide: would you actually send this line to a mate?**
+- [ ] No summarising punch line at the end of a slide. The swipe is the button.
+- [ ] Every number is real. Nothing invented to sound specific.
+- [ ] Platform mechanism used where one exists, not a definition.
+- [ ] Format names, real account vocabulary, digits not words.
+- [ ] Closing slide is a reframe, not a to-do list.
+- [ ] CTA keyword matches what is actually live in ManyChat.
 - [ ] Read the whole thing aloud. Uneven breathing, not a steady rhythm.
 - [ ] Contractions everywhere. Fragments used on purpose. No synonym-cycling.
 - [ ] No bridge phrases between slides. The swipe is the transition.

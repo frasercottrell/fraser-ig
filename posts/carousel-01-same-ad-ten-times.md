@@ -11,70 +11,71 @@ expansion). Same hook, carousel format, proper cover image. Judge on saves/share
 
 ## Slides
 
+Fraser's rewrite, verbatim. Only genuine misspellings fixed ("is't", "thats"). The lowercase line
+starts, the dropped full stops and the mid-line "..." are style and stay.
+
 **1.**
 > You're not wasting money on ads.
-> You're wasting it on the same ad, ten times.
+> You're wasting it on the same ad... ten times.
 
 **2.**
-> And your reporting backs you up.
-> Ten tests last month. Says so right there.
-> Nine of them weren't tests.
+> go back and check your reports.
+> You launched ten ads last month.
+> 9 of them were the same ads.
 
 **3.**
-> What most brands call a test:
-> new thumbnail, new first line, new edit.
-> Same idea underneath.
-> That's a repeat.
+> What most brands say is a new ad, isn't.
+> A new headline, a new first line in the hook
+> It's all the same idea underneath.
 
 **4.**
-> Changing the wording is a variation.
-> Changing the argument is a test.
-> Only one of those teaches you anything.
+> Changing the TOS isn't a good enough test
+> Meta sees them as the same ad
+> it's not going to teach you anything
 
 **5.**
-> Three ads, same supplement.
-> One opens on the problem. Bloating at 3pm.
-> One opens on the founder. Why she made it.
-> One opens on proof. 4,000 reviews.
-> Three arguments. Now you're testing.
+> Three ads for the same product
+> One is a UGC ad based around problem/solution
+> The other is a founder story
+> The next one is a UGC yapper
+> Now you're testing
 
 **6.**
-> This is why your winner dies and nothing replaces it.
-> You never built a second idea.
-> You built ten copies of the first one.
+> This is why your winner dies and nothing can replace it
+> You are just testing the same stuff, adding no diversity to your account
 
 **7.**
-> Next round, write the angles first.
-> On paper, before anyone opens Premiere.
-> If two of them say the same thing, kill one.
+> Just because it worked once, doesn't mean that's the only ad you should be running.
 
 **8.**
-> Comment HOOKS and I'll send you the 34 templates I actually use.
-> Sorted by angle, not by wording.
->
-> Follow @frasercottrell for more from 10,000+ ads made.
+> Want some good hook ideas? Comment HOOK and I'll send you 34 of them.
 
----
+⚠️ **Keyword conflict to resolve before this posts.** `business.md` has the live ManyChat keyword as
+**HOOKS**. Slide 8 says **HOOK**. Whichever it is, the slide and the automation have to match or the
+comments come in and the leads leak. Check ManyChat, then fix one of them.
 
 ## Caption
 
+Revised after Fraser's slide rewrite: pulls in the Meta mechanism and the format names, and drops
+the invented supplement specifics (real numbers or none).
+
 Save this before your next testing round 👇
 
-Most brands think they're testing ads. They're running the same ad with different wording and calling it a test. Here's how to tell the difference, and what a real test actually looks like:
+Most brands think they're testing ads. They're running the same ad with a different first line and calling it a test. Here's how to tell the difference, and what a real test actually looks like:
 
-1. A variation changes the words. A test changes the argument. New thumbnail, new first line, new music, same underlying reason to buy. That's a variation. It tells you which wording won. It doesn't tell you which idea won, and the idea is the expensive part.
+1. Changing the TOS isn't a test. New headline, new first line, new music, same idea underneath. Meta sees those as the same ad, so you learn nothing except which wording won. The idea is the expensive part, and you never tested it.
 
-2. Write the angles before anyone films anything. On paper, one line each. Problem-led, founder-led, proof-led, comparison-led, objection-led. If two of them can be summed up in the same sentence, kill one. You just saved yourself a shoot.
+2. Test formats against each other, not wording against wording. A problem/solution UGC ad, a founder story, and a yapper are three genuinely different arguments for the same product. That's a test. Three cuts of the yapper is one ad, three times.
 
-3. Three angles beats ten variations, every time. Ten versions of one idea gives you one data point. Three genuinely different arguments gives you three. Same budget, three times the learning, and you find out which story your customer actually responds to.
+3. Write the angles before anyone films anything. One line each, on paper. If two of them can be summed up in the same sentence, kill one. You just saved yourself a shoot and a fortnight.
 
-4. Your winner is going to die. Plan for it. Check the frequency on whatever's carrying your account right now. Above 3 or 4 and it's fatiguing. If the only thing in the pipeline is another cut of that same ad, you don't have a pipeline, you have a countdown.
+4. Your winner is going to die. Plan for it. Check the frequency on whatever's carrying the account right now. Above 3 or 4 and it's fatiguing. If the only thing in the pipeline is another cut of that same ad, you don't have a pipeline, you have a countdown.
 
-5. Keep the losing angles. Most brands bin them. A problem-led angle that flopped in January often works in June with a different hook on the front, because the angle wasn't wrong, the entry point was. Losing angles are cheap to retest.
+5. Keep the losing angles. Most brands bin them. An angle that flopped in January often works later with a different hook on the front, because the angle wasn't wrong, the entry point was. Retesting an old angle is cheap. Finding a new one isn't.
 
-The brands that scale aren't spending more. They're carrying three or four live arguments at all times, so there's always a next winner being found while the current one still works.
+The brands that scale aren't spending more. They're carrying three or four genuinely different arguments at all times, so there's always a next winner being found while the current one still works.
 
 Look at your last ten ads. How many different arguments are in there? If the answer is one, that's your whole problem.
 
 Follow @frasercottrell for more from 10,000+ ads made.
-Comment HOOKS and I'll send you 34 hook templates sorted by angle, not by wording.
+Comment HOOK and I'll send you 34 hook templates, sorted by angle.
