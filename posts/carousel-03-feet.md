@@ -28,53 +28,61 @@ a different slot.
 
 ## Slides
 
+Fraser's rewrite, verbatim. Only a pasted-in capital fixed ("That Your" to "that your").
+7 slides, down from 8.
+
 **1.**
 > I scaled a brand 70% with photos of people's feet.
-> I'm being serious.
+> For real.
 
 **2.**
-> and the client hated every single one of them
-> we nearly didn't run it
+> And the winning ads looked nothing like the ads they'd made before
 
 **3.**
-> The product was a dry skin device... for feet
-> every ad we'd made looked like a pharmacy advert
+> The product was a dry skin device for feet
+> you'd think no one wanted to see dry skin... we were wrong
 
 **4.**
 > So we stopped trying to make it look nice
-> we just filmed the actual before and after. close up, bad lighting
+> we just filmed the actual product in action
 
 **5.**
 > Everyone in the room said it was disgusting
-> that's the one that scaled
+> it ended up being the best performing ad we'd made.
 
 **6.**
-> The recognition is what sold it
+> We mirrored people's problem in the hook
 > you see your own problem on a screen and you stop
 
 **7.**
-> Your best ad is probably the one your team is embarrassed by.
+> So what did we learn? That your best ad is probably the one your team is embarrassed by.
 
 **8.**
-> What's the ugliest ad you've ever run that actually worked? go on, tell me
+> Want to see exactly how we did it? Comment FEET and I'll send you the link
 
----
+⚠️ **FEET needs building before this posts.** Fraser rejected the soft CTA and invented a new
+keyword. `business.md` only has HOOKS live, and its rule stands: a CTA promising an undelivered
+thing is worse than no CTA. Two things to settle:
+1. **What is "the link"?** A case study, a YouTube video, a breakdown doc? It has to exist.
+2. **Set FEET up in ManyChat** before this goes out, or the comments arrive and the leads leak.
 
-## Where the rules strained (my read, unverified)
+This is a better solve than the soft CTA, and it's a new pattern worth adopting: rather than
+limiting a carousel to the freebies that exist, build the asset the content earns. Logged in
+`carousels.md`.
 
-Flagging this rather than quietly bending things. Two of the rules learned from carousels 01 and 02
-fight the story shape:
+## Where the rules strained (answered)
 
-- **"The setup is the flourish, cut it."** In a framework, a build-up line exists to make the next
-  line land, so it's decoration. In a story, the build-up *is* the value. Slide 5 ("Everyone in the
-  room said it was disgusting / that's the one that scaled") is exactly the setup-then-punch shape
-  that got cut twice. I've kept it because a narrative beat isn't a flourish. Might be wrong.
-- **"Cut a whole point rather than compress."** Framework points are interchangeable, so dropping
-  one is free. Story beats are sequential. Cut one and the story stops making sense, so this one
-  can't apply as written.
+I flagged two rules as possibly story-incompatible before this draft went over. Both resolved:
 
-What clearly still holds: threading ("and…", "So…", "that's…"), hedging ("probably"), 2-line slides,
-digits, the mid-line beat, the reframe close, second person from slide 6 once the lesson lands.
+- **"The setup is the flourish, cut it" is framework-only.** Fraser kept slide 5's setup-then-punch
+  ("Everyone in the room said it was disgusting / it ended up being the best performing ad we'd
+  made") intact, after cutting that exact shape twice in the framework carousels. A narrative beat
+  is not a flourish. Confirmed.
+- **"Cut a whole point rather than compress"** didn't apply, as expected. He cut a slide, but by
+  merging beats, not by dropping one. Story beats are sequential.
+
+Everything else transferred: threading, hedging, 2-line slides, digits, the reframe close, second
+person once the lesson lands.
 
 ---
 
@@ -96,6 +104,6 @@ We scaled a dry skin brand 70% with close-up photos of people's feet. Not lifest
 
 The uncomfortable truth is that the ads we're proudest of are made for the client, and the ads that scale are made for the customer. They're rarely the same ad.
 
-What's the ugliest thing you've ever run that worked?
+Want to see exactly how we did it? Comment FEET and I'll send you the full breakdown.
 
 Follow @frasercottrell for more from 10,000+ ads made.

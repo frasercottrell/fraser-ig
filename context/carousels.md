@@ -195,7 +195,9 @@ Name the thing you'd actually put in a brief. A format name is concrete and imme
 **5. Generic beats invented-specific.** I wrote "bloating at 3pm" and "4,000 reviews" to satisfy the
 specificity rule. He replaced the whole thing with "the same product" and named formats instead.
 
-**Fabricated detail is not specificity, it's a liability.** Every invented number is a claim Fraser
+**Fabricated detail is not specificity, it's a liability.** (This turned out to be the single most
+repeated correction across all three rewrites, and it covers narrative detail as much as numbers.
+See "Invented texture gets cut exactly like invented numbers".) Every invented number is a claim Fraser
 would have to stand behind in the comments. Where there's a real number, use it and be relentless
 about it. Where there isn't, go generic and get the concreteness from format names, mechanisms and
 the reader's own situation. This corrects move 7 above.
@@ -295,11 +297,109 @@ everything theirs, right down to the CTA being a gift rather than a resource.
 **I. In the CTA, the ask goes last.** Mine: offer question, then the ask, then the payload. His:
 condition, payload, ask.
 
+⚠️ **Corrected below.** Not universal. What's constant is the opening question or condition that
+frames the value. See "Correction to the ask goes last".
+
 > If you want to cheat, i made you 34 top hooks, comment HOOK
 
 "comment HOOK" is the final two words. They know exactly what they're getting before they're asked to
 do anything. Note also "if you want to cheat" — cheeky framing beats a plain offer, and it's straight
 out of `tone-of-voice.md` ("confident, slightly cheeky").
+
+### Third pass (carousel 03, a story) — what the story shape changed
+
+The wildcard was a story rather than a framework, which was the real test of whether the rules above
+are about carousels or about frameworks. Most transferred. Two didn't, and one thing I'd been doing
+consistently wrong finally became undeniable.
+
+**J. "The setup is the flourish" is framework-only. Confirmed.** In carousels 01 and 02 Fraser cut
+every setup-then-punch pair I wrote. In the story he kept one untouched:
+
+> Everyone in the room said it was disgusting
+> it ended up being the best performing ad we'd made.
+
+In a framework, a build-up line exists to make the next line land, so it's decoration. In a story,
+the build-up *is* the value. **Narrative beat: keep. Rhetorical setup: cut.** Same for "cut a whole
+point rather than compress" — framework points are interchangeable, story beats are sequential, so
+that one doesn't apply to stories either.
+
+**K. Plainer beats punchier, even when it's longer.** The most useful correction in this pass,
+because it reverses an instinct I'd built from the first two.
+
+- Mine: "that's the one that scaled" (5 words, snappy)
+- His: "it ended up being the best performing ad we'd made." (10 words, flat)
+
+He went *longer* to be plainer. I'd been treating compression as the voice, because his first two
+rewrites were shorter than my drafts. Wrong causation: **his versions are shorter because plain
+speech is shorter than constructed prose, not because shortness is the target.** When the punchy
+version is the constructed one, the long plain version wins. "that's the one that scaled" is a
+demonstrative-plus-fragment build. Nobody says that. They say what happened.
+
+**L. Invented texture gets cut exactly like invented numbers. Three passes running.** This is now
+the most repeated correction of the whole exercise and the rule was too soft.
+
+Cut from this draft alone: "the client hated every single one of them", "every ad we'd made looked
+like a pharmacy advert", "we just filmed the actual before and after. close up, bad lighting".
+None of it happened. I generated plausible-sounding production detail to satisfy the specificity
+rule. He replaced all of it with what actually happened ("we just filmed the actual product in
+action") or with something that isn't a claim at all.
+
+**If you weren't told it, you don't know it.** Concrete detail in a story has to come from the
+source, not from what would make a good story. Where the detail isn't available, go plain, or use a
+device that doesn't assert anything (see M). This governs numbers, client reactions, production
+details, dates, room dynamics, all of it.
+
+**M. Name the reader's assumption, then break it.** His replacement for one of my invented details,
+and it's a better device than the detail would have been:
+
+> you'd think no one wanted to see dry skin... we were wrong
+
+It costs nothing factually, pulls the reader in ("you'd think"), and creates the reversal that
+invented detail was trying to manufacture. Reach for this when a beat needs energy and the facts
+won't supply it.
+
+**N. The mid-line "..." marks a reversal, not a pause.** Refines the punctuation rule. I put one in
+after "a dry skin device..." as a generic beat; he removed it and put one before "we were wrong"
+instead. The ellipsis earns its place immediately before a turn or a reveal, not anywhere you'd
+breathe.
+
+**O. Name the move, not the concept.**
+
+- Mine: "The recognition is what sold it"
+- His: "We mirrored people's problem in the hook"
+
+Same idea. His names the technique in account vocabulary ("mirrored", "hook"), keeps it active and
+first-person-plural, and describes something the reader could actually do on Monday. Mine named an
+abstraction. This is the pass-1 rule about naming formats rather than descriptions, generalised:
+**abstractions are for captions, moves are for slides.**
+
+**P. A rhetorical self-question is allowed at the story close.**
+
+> So what did we learn? That your best ad is probably the one your team is embarrassed by.
+
+`ai-writing-tells.md` §8 names the self-answered question as a tell, and I'd have cut this. Fraser
+added it. It's genuinely how a person closes a spoken story, and that doc's own false-positive
+discipline says the brand's corpus outranks the inventory. **Narrow exception: the story-close
+position.** It is not a licence for "Sound familiar?" or "The result?" anywhere else, and those stay
+banned.
+
+**Q. Correction to "the ask goes last".** Not universal. Carousel 02 put it last; this one puts it in
+the middle:
+
+> Want to see exactly how we did it? Comment FEET and I'll send you the link
+
+What's actually constant across both is the **opening**: a question or condition that frames the
+value before anything is asked of the reader ("If you want to cheat…", "Want to see exactly how we
+did it?"). Lead with what's in it for them; the ask can sit wherever it falls after that.
+
+**R. Build the asset the content earns, rather than writing to the assets that exist.** The bigger
+strategic move in this pass. I applied the CTA-must-match rule the defensive way: topic doesn't fit
+HOOKS, so drop to a soft CTA. Fraser invented **FEET** and promised a link.
+
+That's the same rule solved from the other end, and it's better. It keeps the keyword mechanic (which
+is engagement fuel and list-building, per `business.md`) instead of surrendering it. The cost is that
+the asset has to exist before the post does. Add the new keyword to `business.md` when it's built,
+and never post the carousel first.
 
 ### The text-message test
 
@@ -692,7 +792,12 @@ Before it goes out:
 - [ ] Claims hedged where honest ("probably"), not asserted absolutely.
 - [ ] Slides threaded with natural connectors, never formulaic bridges.
 - [ ] CTA order: condition, payload, ask. The ask is last.
-- [ ] Every number is real. Nothing invented to sound specific.
+- [ ] Every number AND every detail is real. No invented client reactions, production details or
+      room dynamics. If you weren't told it, you don't know it.
+- [ ] Plain over punchy, even when plain is longer.
+- [ ] Moves named, not concepts.
+- [ ] Story? Then narrative setups stay, and beats can't be dropped.
+- [ ] CTA opens with the value, and its keyword asset actually exists.
 - [ ] Platform mechanism used where one exists, not a definition.
 - [ ] Format names, real account vocabulary, digits not words.
 - [ ] Closing slide is a reframe, not a to-do list.
