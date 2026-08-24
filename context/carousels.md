@@ -51,9 +51,168 @@ them matters** — the best slide 5 in the world is never seen.
 
 Max length: **8–10 slides.** 5 slides is the call-1 default and a fine floor.
 
+That's the skeleton. **How the slides actually sound is section 3, and it matters more than the
+skeleton does.** A carousel with perfect structure in the wrong voice reads like an agency deck.
+
 ---
 
-## 3. Slide 1 — the stop
+## 3. How the slides should sound (the important bit)
+
+**Write every slide like you're texting a mate.** Not writing a post. Not presenting. Texting one
+person who already knows you.
+
+This is the part that decides whether a carousel lands, and it's the part that's easiest to get
+wrong, because a slide *looks* like a written surface. It sits still on a page. So the instinct is to
+write it. Clean sentences, balanced clauses, everything the same temperature. That instinct is the
+enemy. **Slide copy is a spoken surface wearing written clothes.** It has to sound like Fraser
+talking, or it reads as a brand account and the whole authority thing collapses.
+
+`spoken-script-voice.md` is the canonical doc for the register. It was written for scripts, but every
+pattern in it applies here, because a slide and a spoken line have the same job: land in one pass,
+out loud, from a person. What follows is that doctrine pointed at slides, in Fraser's world.
+
+### The ten moves
+
+**1. Short. And the length jumps around.**
+Written copy holds a steady medium sentence length. The mouth doesn't. Snap between a two-word
+fragment and a long one. The jumping *is* the rhythm.
+
+- ❌ "Most brands approach creative testing by producing a high volume of variations that ultimately communicate the same underlying message."
+- ✅ "Most brands test ten ads. Same ad, ten outfits. That's not testing."
+
+**2. Contract everything. Elide where the mouth would.**
+Zero contractions reads as a press release. "You are" is always "you're". "It is" is always "it's".
+
+- ❌ "It is not going to matter how much you increase the budget."
+- ✅ "Doesn't matter how much you bump the budget. It's already dead."
+
+**3. Fragments are sentences.**
+A grammar checker would flag half of this. Good. A fragment strips out everything but the hit.
+
+- ❌ "The creative is the primary factor limiting performance in this account."
+- ✅ "It's the creative. It's always the creative."
+
+**4. Start in the middle. Leave the mess in.**
+Written slides open with a topic sentence. Spoken ones open mid-thought. A "so", an "okay", a small
+stumble left in. Polishing those out is exactly what makes copy read as generated.
+
+- ❌ "In this carousel I want to break down what I look at first when auditing an ad account."
+- ✅ "So a brand sends me their account. Everyone expects me to go straight to targeting."
+
+**5. "You" and "your", constantly. About their actual situation.**
+Talk *to* one person about *their* week. Not about brands in general. This is the mirror mechanism
+that makes the identity hook work, applied to every slide, not just slide 1.
+
+- ❌ "Brands often struggle to identify why a winning ad has stopped performing."
+- ✅ "Your best ad died last week. Nobody on your team can tell you why."
+
+**6. Repeat the word. Don't reach for a synonym.**
+Written copy fears repetition and cycles synonyms: "the creative… the asset… the piece". That
+cycling is a named AI tell. Repetition is how the voice underlines.
+
+- ❌ "The creative, the asset, the content itself is the real variable here."
+- ✅ "The creative is the variable. Not the budget. Not the audience. The creative."
+
+**7. Be concrete to the point of over-sharing.**
+Real numbers, real brands, real niches. Vague reads as marketing. Specific reads as someone who's
+actually done it. (Same rule as the tone doc's specificity rule, but it bites harder on a slide,
+where there are only eight words and every one is exposed.)
+
+- ❌ "A significant portion of viewers drop off almost immediately."
+- ✅ "70% are gone before three seconds. That's your hook rate."
+
+**8. Transition by moving, not by signposting.**
+The written instinct bridges every slide with the same connective tissue. Real speech just moves.
+A "so", an "and", a hard cut to the next thought. Across the whole studied corpus, **"but here's the
+thing" appears zero times.** Same for "the result?" and "sound familiar?" — questions aimed at
+nobody. On a carousel this matters double: **the swipe is the transition.** The gap between slides
+already does the work a bridge phrase would do, so a bridge phrase on top is pure padding.
+
+- ❌ "But here's the thing. The result? Your ads stop working."
+- ✅ "So it fatigues. And nobody spots it until the numbers fall off a cliff."
+
+**9. The CTA sounds like a recommendation, not a close.**
+Low-pressure, personal, the way you'd actually recommend something to someone. Not an ad close.
+
+- ❌ "Comment HOOKS below to receive our comprehensive hook template resource."
+- ✅ "Comment HOOKS and I'll send you the 34 templates I actually use. Costs you nothing."
+
+**10. Be willing to be self-aware.**
+The odd bit of self-mockery breaks the guru frame and buys enormous trust. Fraser's a practitioner,
+not a guru. Practitioners have made bad ads.
+
+- ✅ "I've made 10,000 ads. Plenty of them were rubbish. That's how I know this."
+
+### The text-message test
+
+The spoken doc has the read-aloud test. Slides get the texting version, and it's stricter:
+
+> **Would you actually send this line to a mate?**
+
+Not "could you". Would you. If you'd never type it into a message, it doesn't go on a slide. Nobody
+texts "leveraging a robust creative testing framework". Nobody texts "it's not just an ad, it's a
+conversation". You'd text "your ads are boring and that's the whole problem."
+
+Read the whole carousel aloud, slide to slide, in one go. Watch where you breathe. **If every breath
+lands at the same interval, it's written, not spoken.** Uneven breathing is the sound of a real
+person.
+
+### One thought per slide, and keep it short
+
+A slide holds **one thought, in one to three lines.** If it needs a paragraph, it's two slides. If
+it needs three paragraphs, it's a caption.
+
+This isn't a design preference, it's the friction rule: every bit of comprehension effort costs a
+save. Georgia's version — *"put it on screen so I don't have to go Google what I thought I heard you
+say"* — cuts both ways. Put the specifics on the slide, and put nothing else on it.
+
+### Careful: the slides and the caption are two different registers
+
+Worth naming, because the two standards in this doc pull in opposite directions and it's easy to
+apply the wrong one to the wrong surface.
+
+| | Slides | Caption |
+|---|---|---|
+| Register | **Spoken.** Texting a mate | **Written.** Still Fraser, still punchy |
+| Length | 1–3 lines a slide | Long. 5-point listicle, real depth |
+| Job | Stop, hold, land the idea | Earn the save |
+| Test | Would you text this? | Would someone save this before running ads? |
+
+Same voice, two gears. The slides are him talking. The caption is him writing something you keep.
+A carousel that's *written* on the slides and *thin* in the caption has them exactly backwards, and
+that's the most common way this format gets botched.
+
+### Worked example
+
+Carousel 1 from Georgia's brief, "Most brands are wasting money because XYZ", written both ways.
+
+**The written version (what to avoid):**
+
+> 1. Most brands are wasting significant ad spend without realising it.
+> 2. The issue is not their targeting or their budget allocation.
+> 3. It's that they are testing variations rather than genuinely different concepts.
+> 4. Ten variations of one idea will only ever tell you about that one idea.
+> 5. Effective testing requires distinct angles that can be measured against each other.
+> 6. This approach ensures you always have a next winner in the pipeline.
+> 7. Comment HOOKS below to receive our hook template resource.
+
+Technically correct. Reads like a slide deck from an agency you'd never hire.
+
+**The texting-a-mate version:**
+
+> 1. You're not wasting money on ads. You're wasting it on the same ad, ten times.
+> 2. And you won't spot it, because your reporting says you ran ten tests last month.
+> 3. Ten variations of one idea isn't ten tests. It's one test, run ten times.
+> 4. Different thumbnail. Different first line. Same idea underneath. That's a repeat, not a test.
+> 5. A real test changes the *angle*. Problem-led vs founder-led vs proof-led. Three different arguments for the same product.
+> 6. That's why your winner dies and nothing replaces it. You never built a second idea to fall back on.
+> 7. Comment HOOKS and I'll send you the 34 templates I actually use. They're all different angles, not different wording.
+
+Same argument. One sounds like a person who's seen it happen a hundred times.
+
+---
+
+## 4. Slide 1 — the stop
 
 Same hook doctrine as everything else. **Identity → Pain → Curiosity.**
 
@@ -118,7 +277,7 @@ footage that implies real ad production** (the camera rig, the "fake shower" sho
 
 ---
 
-## 4. Slide 2 — the swipe (the make-or-break)
+## 5. Slide 2 — the swipe (the make-or-break)
 
 The slide nobody writes carefully and the one that decides the post.
 
@@ -147,7 +306,7 @@ answer? If the honest answer is "it'd be mildly interesting", rewrite it.
 
 ---
 
-## 5. Slides 3–7 — the payload
+## 6. Slides 3–7 — the payload
 
 Tell the story, break down the insight, give real examples.
 
@@ -160,9 +319,10 @@ save. Abstract insight gets neither reach nor saves.
 authority and the algorithm rewards it. In carousel terms, slides 3–7 should carry actual ad frames,
 screenshots, numbers, the dashboard. Don't describe the ad. Put it on the slide.
 
-**Notes-app style, bite-size, written like a human.** Write it like you're talking to a friend.
-Aggressive line breaks. One idea per slide. Short paragraphs and fragments, not a paragraph of body
-copy squeezed onto an image.
+**Notes-app style, bite-size, written like a human.** One thought per slide, aggressive line breaks,
+fragments over full sentences. The register is section 3 and it applies to every slide in here, not
+just the hook. Slides 3–7 are where written-sounding copy creeps back in, because you're explaining
+something and explaining pulls you toward the page.
 
 **Friction is the hidden killer.** Georgia: *"put it on screen so I don't have to go Google what I
 thought I heard you say."* Product names, tool names, metrics, brand names go on the slide. Every
@@ -180,7 +340,7 @@ the platform, the format, the niche, the funnel stage.
 
 ---
 
-## 6. The final slide — the CTA
+## 7. The final slide — the CTA
 
 Format: **"Comment [WORD] and I'll send you [relevant resource]."**
 
@@ -207,7 +367,7 @@ Also on the final slide: the follow CTA. "Follow @frasercottrell for more from 1
 
 ---
 
-## 7. Design and craft
+## 8. Design and craft
 
 - **Image + basic readable text.** Lower the photo's exposure so the text reads cleanly. Legibility
   over aesthetics, always.
@@ -221,7 +381,7 @@ Also on the final slide: the follow CTA. "Follow @frasercottrell for more from 1
 
 ---
 
-## 8. The caption
+## 9. The caption
 
 Carousels get the **full caption standard**, same bar as reels. This is where the save is finally
 earned, and the old short captions were the thing Georgia pushed back on.
@@ -249,10 +409,11 @@ substance.
 
 ---
 
-## 9. Voice and the anti-slop check
+## 10. Voice and the anti-slop check
 
-Full doctrine in `tone-of-voice.md` and `ai-writing-tells.md`. The bits that bite hardest on slide
-copy, where every word is exposed:
+Register is section 3. This is the mechanical check that catches what the ear misses. Full doctrine
+in `tone-of-voice.md`, `spoken-script-voice.md` (the spoken register) and `ai-writing-tells.md` (the
+written tells). The bits that bite hardest on slide copy, where every word is exposed:
 
 - **No em-dashes.** The loudest AI tell. Recast as a full stop, a comma, or split the sentence. The
   linter flags every single one.
@@ -277,7 +438,7 @@ in Fraser's register (not thesaurus-swapping) → sanity-check against the tells
 
 ---
 
-## 10. Testing discipline
+## 11. Testing discipline
 
 Georgia: *"Focus on testing, not just posting."* For every carousel, write down **the one variable
 you're testing** and log it next to the numbers in `results-log.md`:
@@ -304,7 +465,7 @@ to a trial reel's.
 
 ---
 
-## 11. The 3 carousels to build first
+## 12. The 3 carousels to build first
 
 Georgia's brief, verbatim intent:
 
@@ -326,7 +487,7 @@ Both #1 and #2 fit HOOKS as a genuine CTA match, which matters while it's the on
 
 ---
 
-## 12. Where carousel topics come from
+## 13. Where carousel topics come from
 
 **Don't invent. Adapt a proven winner.** Georgia: *"Follow the trail of what's already worked rather
 than starting from scratch."* Fraser's back-catalogue is the moat, and the scarce input is never
@@ -352,7 +513,7 @@ it for operators. And do **not** use Steven Bartlett / Huel in any breakdown (le
 
 ---
 
-## 13. Build checklist
+## 14. Build checklist
 
 Before it goes out:
 
@@ -361,7 +522,11 @@ Before it goes out:
 - [ ] Slide 1 uses the word "ads" and comes from one of the 3 hook families.
 - [ ] Slide 1's image is a tight, legible, slightly unusual frame. BTS / camera / production.
 - [ ] **Slide 2 widens the gap.** Cover slides 3+ and check someone *needs* the answer.
-- [ ] Slides 3–7 are a numbered, saveable framework, one idea per slide.
+- [ ] Slides 3–7 are a numbered, saveable framework, one thought per slide, 1–3 lines each.
+- [ ] **Text-message test on every slide: would you actually send this line to a mate?**
+- [ ] Read the whole thing aloud. Uneven breathing, not a steady rhythm.
+- [ ] Contractions everywhere. Fragments used on purpose. No synonym-cycling.
+- [ ] No bridge phrases between slides. The swipe is the transition.
 - [ ] Real evidence on screen: the ad, the number, the dashboard. Not described, shown.
 - [ ] Specific numbers and named brands throughout. No vague claims.
 - [ ] Final slide CTA matches a freebie that **actually exists** (HOOKS, or soft CTA).
@@ -378,7 +543,7 @@ Before it goes out:
 
 ---
 
-## 14. What we don't know yet
+## 15. What we don't know yet
 
 Honest gaps, so nobody mistakes inference for evidence:
 
