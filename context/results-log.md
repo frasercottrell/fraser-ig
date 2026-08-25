@@ -544,7 +544,47 @@ Proven reach formula held (workbench footage, sharp angle, 5-point caption). Onl
 
 ---
 
-## Patterns forming (n=28 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 18 — Day 7 (reels 032-034) — MAX VIEWS + CLICKS. First-frame = skip lever confirmed again. New reach record.
+
+Two footage types this day (accidental natural test): TIGHT workbench (7.1) vs WIDE/open warehouse (7.2, 7.3, subject smaller, boxes + empty floor in frame). Same caption quality, same day. The first frame drove skip and reach.
+
+### Reel 032 — F1 "The first thing I write in an ad isn't the hook." — TIGHT workbench footage ⭐ REACH RECORD
+
+**Metrics:** Views **2,647** · Viewers 2,070 · Watch 8s · Follows 1
+- **Skip 31.6% (Lower)** · **Share 0.2% (Higher)** · Like 1.0% (Lower) · Save 0.1% (Lower) · Comment 0
+
+**Read:** NEW REACH RECORD (2,647, beats 024's 2,318). Tight workbench first frame → low skip → record reach. HOOKS CTA drove 0 comments again.
+
+### Reel 033 — F2 "Your competitor's ads are boring. That's why they win." — WIDE warehouse footage
+
+**Metrics:** Views 1,587 · Viewers 1,054 · Watch 5s · Follows 0
+- **Skip 36.4% (Higher)** · Share 0.1% (Higher) · Like 0.6% (Lower) · Save 0.2% (Lower) · Comment 0
+
+**Read:** Wide/open first frame → skip jumps to Higher → reach ~1k lower than 7.1. Same day, same caption bar. Footage is the difference.
+
+### Reel 034 — F3 "I ranked my 10 best-performing ads ever. They all opened the same way." — WIDE warehouse footage
+
+**Metrics:** Views 1,731 · Viewers 1,053 · Watch 6s · **Follows 3 (best single-reel follows in the log)**
+- **Skip 38.1% (Higher)** · Share 0.0% (Lower) · **Like 1.4% (Higher)** · Save 0.5% (Lower) · **Comment 0.2% (Higher)**
+
+**Read:** Worst skip of the day (wide footage) BUT the most follows (3) and green comments + likes. The authority/credential angle ("my 10 best ads ever") pulled follows + comments from the engaged sub-set even though the wide frame hurt the initial stop. Skip/reach (footage-driven) and follows (angle-driven) diverged here.
+
+### Day 7 verdict — views goal hit (record); the first-frame rule is now bulletproof
+
+| Reel | First frame | Skip | Reach | Follows | Comments |
+|---|---|---|---|---|---|
+| 032 F1 | **tight workbench** | 31.6% (Lower) | **2,647** | 1 | 0 |
+| 033 F2 | wide warehouse | 36.4% (Higher) | 1,587 | 0 | 0 |
+| 034 F3 | wide warehouse | 38.1% (Higher) | 1,731 | **3** | 0.2%↑ |
+
+1. **First frame is THE skip/reach lever — cleanest proof yet.** Same day, same caption standard: the tight workbench reel skipped Lower (31.6%) and set a reach record (2,647); the two wide/open warehouse reels skipped Higher (36-38%) and lost ~1,000 reach each. **Rule: keep the first frame TIGHT and busy, subject filling the frame. Avoid wide/open shots with empty floor and a small subject.** (Consistent with reel 008's old wide-shot finding.)
+2. **Best follow day yet: 4 follows across the 3** (034=3, 032=1). And 034 got green comments. Both came off the **F3 authority/credential angle** ("I ranked my 10 best ads ever"). Tentative (n small): authority-flex angles pull follows + comments from the engaged sub-set, somewhat independent of skip. Worth testing on TIGHT footage to get both reach AND follows.
+3. **Views goal: hit (record 2,647).** Clicks/comments still weak on the HOOKS keyword (032, 033 = 0 comments). The only green comments this day came from the authority angle (034), not the keyword. Keyword still isn't the comment driver; the angle is.
+4. **Next move for views+clicks:** tight workbench first frame (for reach) + F3 authority/credential angle (for the follow/comment bump). That combo hasn't been run together yet — 032 had the frame, 034 had the angle. Pair them.
+
+---
+
+## Patterns forming (n=31 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
