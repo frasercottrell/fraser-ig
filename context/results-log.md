@@ -584,7 +584,53 @@ Two footage types this day (accidental natural test): TIGHT workbench (7.1) vs W
 
 ---
 
-## Patterns forming (n=31 — hold loosely; trial reels vs talking heads are separate scoreboards)
+# BATCH 19 — Day 8 (reels 035-037) — THE COMBO (tight frame + F3 authority). Result: great engagement, NOT record reach. Trade-off surfaces.
+
+All three: tight workbench first frame + F3 authority/credential angle. Held the reach frame AND the follow angle together for the first time.
+
+### Reel 035 — F3 "I've made 10,000 ads. If I started over, I'd only use these 5 hooks." ⭐ BEST ENGAGEMENT SET YET
+
+**Metrics:** Views 1,521 · Viewers 1,154 · Watch 8s · **Follows 2**
+- Skip 34.0% (Lower) · **Share 0.8% (Higher)** · **Like 1.6% (Higher)** · **Save 1.1% (Higher)** · Comment 0
+
+**Read:** Full green engagement set (share 0.8% is a record share rate, like 1.6%, save 1.1%) + 2 follows. The credential+reset angle is the best all-round *engagement* reel in the log. But reach was mid (1,521), not record.
+
+### Reel 036 — F3 "I studied the highest-spending ads of the last 3 years. They open 1 of 5 ways."
+
+**Metrics:** Views 1,744 · Viewers 1,305 · Watch 8s · Follows 0
+- Skip 30.9% (Lower) · Share 0.2% (Higher) · Like 0.8% (Lower) · Save 0.4% (Lower) · Repost 0.1% (Higher) · Comment 0
+
+**Read:** Best skip of the day (30.9%) and highest reach of the day (1,744), but only share/repost green, 0 follows. Solid, not spectacular.
+
+### Reel 037 — F3 "I've reviewed thousands of ad hooks. These 5 mistakes kill most of them."
+
+**Metrics:** Views 960 · Viewers 721 · Watch 7s · Follows 1
+- Skip 31.1% (Lower) · Share 0.0% (Lower) · Like 0.7% (Lower) · Save 0.4% (Lower) · Comment 0
+
+**Read:** Good skip (31.1%) but lowest reach of the day (960) — because share/saves were 0/Lower, so no expansion. Another clean example: good stop, no engagement, no spread.
+
+### Day 8 verdict — the frame worked, but a HOOK-TYPE TRADE-OFF is now clear
+
+| Reel | Skip | Reach | Follows | Engagement |
+|---|---|---|---|---|
+| 035 | 34.0% | 1,521 | 2 | full green ⭐ |
+| 036 | 30.9% | 1,744 | 0 | share/repost green |
+| 037 | 31.1% | 960 | 1 | all Lower |
+
+1. **Tight frame delivered low skip again (30.9-34.0%, all Lower)** — the frame rule holds. But reach stayed mid (960-1,744), NOT the 2,647 record. So a good frame + good skip did NOT guarantee record reach this day.
+2. **Reach tracked ENGAGEMENT more than skip within the day.** 037 had a great skip (31.1%) but 960 reach because shares/saves were 0. 035/036 had green shares → higher reach. Confirms again: skip earns the seed, shares/saves earn the spread. Need BOTH for 2k+.
+3. **THE HOOK-TYPE TRADE-OFF (now repeated across days, higher confidence):**
+   - **Contrarian / curiosity / FOMO hooks (F1/F2)** = the REACH champions. Every reach record is one: 032 F1 (2,647), 024 F2 (2,318), 025 F1 (2,068). They stop the broadest cold pool.
+   - **Authority / credential / pattern hooks (F3)** = the ENGAGEMENT champions. Best saves (019 ~14, 035 full green), best follow reels (034, 035). They convert the engaged sub-set but don't top reach.
+   - You likely can't max BOTH in one reel. The hook TYPE trades reach for engagement/follows.
+4. **Best-engagement reel ever = 035** (full green + 2 follows) — the "if I started over, these 5 hooks" credential+reset angle. Bank that angle for save/follow goals.
+5. **Comments still 0 on all three** (HOOKS keyword). Keyword still not the comment lever; only debate (030) and one authority reel (034) have ever moved comments.
+
+**Strategic takeaway for views + clicks:** stop trying to force both into every reel. MIX the week — F1/F2 contrarian/FOMO hooks on the days you want max VIEWS; F3 authority hooks on the days you want SAVES/FOLLOWS. The combo (Day 8) is a fine balanced all-rounder (good reach + best engagement), but the pure-reach ceiling belongs to F1/F2.
+
+---
+
+## Patterns forming (n=34 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
