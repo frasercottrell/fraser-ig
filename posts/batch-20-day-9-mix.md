@@ -8,7 +8,18 @@ the day, not one at the expense of the other.
 
 ## Held constant (do not change)
 - TIGHT workbench first frame (the reach lever - subject fills frame one, no wide/open floor).
-- 5-point save-worthy caption, Fraser's voice, em-dash-free, trending audio (↑), HOOKS CTA.
+- Fraser's voice, em-dash-free, trending audio (↑), HOOKS CTA.
+
+## NEW: vary the caption FORMAT (they'd become samey otherwise)
+Every caption so far has been the same skeleton: "Save this before X" -> 5 numbered points -> HOOKS. Over 40 reels
+that reads formulaic. Fix: keep the 5-point save-worthy listicle for SAVE-plays (F3 authority reels - the
+listicle is what earns the saves), and VARY the format on REACH-plays (F1/F2 - goal is views, not saves):
+- short contrarian rant (no list)
+- mini-story / narrative (opens mid-story)
+- single big idea expanded
+- 3-point instead of 5
+- different openers (not always "Save this before...")
+This day: 9.1 = short rant, 9.2 = story, 9.3 = 5-point checklist. Same variety approach every day from here.
 
 ## The plan
 - **9.1 (F1 contrarian) = VIEWS play.** Broad, curiosity-driven, withholds the answer.
@@ -27,23 +38,21 @@ Log as reels 038-040. Track: VIEWS on 9.1/9.2, FOLLOWS+SAVES on 9.3.
 
 **Caption:**
 
-Save this before you follow another "best practice" 👇
+(SHORT / contrarian rant format - no listicle, different opener)
 
-My highest-performing ad last month ignored almost every rule I preach. It shouldn't have worked. It crushed. Here are the 5 rules it broke, and why breaking them won:
+My best ad last month broke every rule I teach.
 
-1. It wasn't polished. Shot rough on a phone, bad lighting, no edit to speak of. The "rule" says high production builds trust. The truth is polish looks like an ad, and rough looks like content people actually watch.
+Shot rough on a phone. Nearly a minute long. Product didn't show up for 20 seconds. No urgency, no countdown, no clever CTA.
 
-2. It was long. Nearly a minute when everyone screams "keep it under 15 seconds." But it held attention the whole way because every line earned the next. Length isn't the problem. Boring is.
+By every best practice going, it should have flopped. It beat everything we spent real money on that month.
 
-3. It showed the product late. No product for 20 seconds. The rule says show it early so people know what you sell. But nobody cared what I sold until they felt the problem first.
+Here's what I actually took from it: the rules are averages. They tell you what usually works, not what wins. The winners are almost always the exception to something.
 
-4. It had no fancy CTA. Just a plain "go check it out." No urgency stack, no countdown. Turns out when the message lands, you don't need to trick people into clicking.
+It didn't win despite breaking the rules. It won because it felt like a real person talking, not a brand ticking boxes.
 
-5. It only said one thing. One problem, one promise. No feature list, no benefits stack. The rule says show all your value. The truth is one clear idea beats five blurry ones every time.
+Stop optimising for the checklist. Start optimising for "would a human actually stop and watch this."
 
-The rules are averages. The winners are usually the exceptions. Test the thing everyone tells you not to.
-
-Want the openings I use on the ones that DO work? Comment HOOKS and I'll DM you all 34 templates 👇
+Comment HOOKS and I'll DM you the 34 openings I use on the ones that work 👇
 
 ---
 
@@ -53,23 +62,23 @@ Want the openings I use on the ones that DO work? Comment HOOKS and I'll DM you 
 
 **Caption:**
 
-Save this before you ask for a bigger budget 👇
+(STORY / narrative format - no listicle, opens mid-story)
 
-The brand beating you probably spends the same as you, or less. They're not winning on money. They're winning on how fast they learn. Here's the testing system they run that you don't:
+A founder asked me why his competitor was crushing him. Same product. Roughly the same budget.
 
-1. They test the hook before they produce anything. Ten cheap hook variations over the same footage, live, for pennies. Only the one that stops people gets the full production budget. You produce first and hope. They learn first, then spend.
+So I pulled up both ad accounts side by side.
 
-2. They change one thing at a time. Same ad, only the first line changes. Now they know exactly what moved the number. You change five things at once and learn nothing about why it worked.
+His competitor wasn't spending more. They were spending smarter. He was running 3 ads a month and praying. They were quietly shipping 30, killing the losers within days, and cloning whatever won into ten more.
 
-3. They kill on data, in days. A weak ad is gone in 48 hours, no ego, no "let's give it another week." Fast cuts mean the budget always flows to what's working, not what you're attached to.
+That was the whole "unfair advantage." Not budget. Not talent. A faster loop.
 
-4. They clone winners immediately. The second something works, they make ten versions of it. You start every ad from scratch. They compound their wins. You reset every time.
+They test the hook before they spend a penny producing. They change one thing at a time so they actually know what moved the number. They cut on data, not ego. And they never go quiet.
 
-5. They test constantly, not in bursts. A steady drip every week keeps the account learning and the algorithm fed. You go quiet, then dump five at once. Consistency is the unfair advantage nobody talks about.
+He didn't need more money. He needed to test like they did.
 
-Same budget, faster loop. That's the whole gap. Copy the system, not the spend.
+So do you.
 
-Want to test hooks faster? Comment HOOKS and I'll DM you 34 templates to run against each other 👇
+Comment HOOKS and I'll DM you 34 hook templates so you can start testing 10 at a time 👇
 
 ---
 
