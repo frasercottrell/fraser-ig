@@ -51,6 +51,13 @@ Every piece of content should sound like Fraser, not like a machine. Two referen
 
 **Workflow:** draft → run `voice-lint.py` → fix real flags by rewriting in Fraser's register (not thesaurus-swapping) → sanity-check against the tells doc.
 
+## Skills
+
+- **[.claude/skills/carousel-captions/](.claude/skills/carousel-captions/)** — writes the caption
+  under a finished carousel. Carousel captions are a different job from reel captions (short, frames
+  and drives the swipe, never re-delivers the slides), and getting them confused is the easy mistake.
+  Includes the swipe file the standard came from.
+
 ## To add over time
 
 - `posts/` — drafted and published content
