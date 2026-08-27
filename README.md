@@ -51,6 +51,13 @@ Every piece of content should sound like Fraser, not like a machine. Two referen
 
 **Workflow:** draft → run `voice-lint.py` → fix real flags by rewriting in Fraser's register (not thesaurus-swapping) → sanity-check against the tells doc.
 
+## Skills
+
+- **`.claude/skills/talking-head-captions/`** — writes the caption for a talking-head video from its
+  transcript, in Fraser's voice (3 modes, vary the opener, weave a credential, rotate the CTA, lint it).
+  Invoke with `/talking-head-captions` or just paste a talking-head transcript and ask for a caption.
+  **Talking heads only** — not trial reels, carousels, or static-ad copy.
+
 ## To add over time
 
 - `posts/` — drafted and published content
