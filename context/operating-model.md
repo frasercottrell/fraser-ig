@@ -138,6 +138,54 @@ compounds.
 
 ---
 
+## New mechanisms from call 3 (27 Aug)
+
+**Compounding is literal on the main feed — a post is a deposit, not a verdict.**
+Georgia: *"the more talking-head reels you post, the more it boosts the older ones."* This changes how to
+read a sub-1K talking head. On trial reels, a piece is an experiment and the number is the answer. On the
+main feed, the *run* is the unit and each post lifts the back-catalogue. So: don't prune a format on early
+views, don't slow down to "fix" it, and don't apply trial-reel scoring to feed content. Volume here isn't
+grinding — it's the mechanism itself.
+
+**Reuse the asset, not just the idea — effort should be spent once.**
+Call 1's principle was *one idea → many formats.* Call 3 goes further: **the artefact you already made is
+the input.** A trial reel that plateaued at 2.5K is a finished, market-tested asset — put it on the main
+feed. A talking-head script is a written carousel. A carousel topic that worked is a two-minute B-roll hook.
+An archived old post is a fresh trial reel. The scarce resource is Fraser's time, so the default question on
+anything that worked is *"where else does this go?"* before *"what's next?"*
+
+**Polish is not the lever. Humanness is.**
+The doppelganger data point: 200K followers, elaborate video carousels, 3 likes at four hours. Georgia's
+read — *"I don't think it's human enough."* Effort spent on production is invisible to the viewer; effort
+spent on being a real person is the whole thing. This is the same root as the anti-slop doctrine and the
+"messy bathroom" pattern-interrupt: **the signal people respond to is evidence of a person, not evidence of
+work.** When choosing where to spend an hour, spend it on the story, not the render.
+
+**Vulnerability is an authority tactic, not a departure from one.**
+It looks like it contradicts "expertise first, personal second" (call 1). It doesn't. The sequence Georgia
+gave is **vulnerability → lesson → expertise**: the failure buys the attention and the trust, and the
+expertise is what you spend it on. A £10k mistake told honestly is a *credential* — it proves he's been in
+the room. The failure mode is a story that stops at the story. Every one of these must land on something
+only a practitioner would know.
+
+**Specific-curiosity beats vague-curiosity (again).**
+"These 5 hooks beat everything" died because *beat everything* means nothing. The hook's job is a *stop*,
+and a stop needs a concrete thing to catch on: a number, a brand, a loss, a result. This is the same lever
+as mirror-hook specificity — vagueness is the single most common way a hook fails, and it's always fixable
+by naming the actual outcome.
+
+**Clarity of the profile, restated (the stranger test is still unfinished).**
+Highlights (none exist), the pinned intro carousel, the reorderable grid, plateaued trial reels moved to the
+feed for social proof — Georgia raised four separate things on this call that are all the *same* job: a cold
+visitor lands and immediately knows who this is and what they'll get. It keeps coming up because it's the
+one piece of the system still unbuilt, and it's where trial-reel reach leaks into nothing.
+
+**AI has a trust cost in the writing itself.**
+*"Every time, I can kind of tell that it is slightly AI."* A professional can spot it, so the buyer can too —
+and the product being sold is "this person knows more than me." Generic prose doesn't just underperform, it
+undercuts the claim. Practical split: AI for research, structure, hook variants and analysis; **Fraser's own
+hands for anything first-person.** For a story he lived, briefing a model costs more than typing it.
+
 ## Fraser's reality overrides generic advice (where they clash)
 
 Georgia gives the general model. Fraser has *data*. When they conflict, trust the data and reason about *why*:
@@ -194,3 +242,7 @@ got this week, run it — don't hold it back to protect a 20% ratio.
 - **Real client numbers** — the proof pillar is starved without them.
 - **Course specifics** — what "The Ad Creative Course" actually teaches / promises (for conversion content).
 - **Which freebies exist vs need building** — he has "tons of stuff"; pin down the 2–3 to lead with.
+  (Call 3: the **AI-video doc** is the next one to build — it has a live post waiting on it.)
+- **Course vs agency as the IG conversion target** (call 3, Fraser's own question). He leans course (£900 is
+  an easier first yes than a £10k/mo retainer for this audience); the funnel logic agrees. Decide, then
+  rewrite the lead form and the CTAs to match. See `business.md`.

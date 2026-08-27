@@ -406,6 +406,50 @@ Three reels, same formula, same day, wildly different skip:
 - **Correction: align the freebie to the video.** Stop putting HOOKS on non-hook content; rotate 2–3 relevant freebies.
 - **Still a volume game** — ~+50 followers (skewed), 3 keyword leads, low engagement. Not enough reps to read signal yet.
 
+## Call 3 review (Georgia, 27 Aug) — findings + state of play
+
+Full transcript: `context/sources/georgia-call-3-transcript.md`. Execution changes live in
+`instagram-playbook.md` (Call 3 learnings).
+
+**State of play (her numbers and read):**
+- **Nearly 3K followers.** Georgia thinks 3K is reachable by the end of the month. Real movement since call 2.
+- **Trial reels: most are over 1,000 views; average ~1.5K.** They earn a decent amount of likes, but
+  **almost no comments and few detectable follows.** That's the current gap.
+- **The winning trial-reel style is the POV-with-a-camera BTS shot** (Fraser's read, Georgia agreed —
+  *"the visual's great"*). Consistent with call 2: BTS footage that implies real ad production.
+- **Talking heads are still under 1K views — and that's fine.** Georgia: *"even though we're not pushing 1K
+  views yet, we're still getting the reposts, the shares, the keyword comments, which is massive."* Five
+  talking heads posted in ~2–3 weeks.
+- **Comment-keyword leads are now coming in** where two weeks ago there were none.
+- **Carousels are performing well** — and Fraser's note: they're *low effort*, so do more.
+
+**⭐ New mechanic — talking heads compound each other.** Georgia: *"the more talking-head reels you post, the
+more it boosts the older ones. Once we have that momentum, they should all be pulling good numbers."* So a
+sub-1K talking head is not a failed post; it's a deposit. **Judge the format on the run, not the reel.** This
+is the strongest argument yet for volume on the main feed, and it means we should NOT prune or slow talking
+heads on early view counts.
+
+**What the data pushed her to change (details in the playbook):**
+1. **Captions: shorter.** The long listicle captions are now too text-heavy — 1–2 lines per point, break the
+   hook and the why into their own paragraphs. A direct reversal of the call-2 "much longer" standard.
+2. **One caption per day's variants, not one per hook.** Three same-B-roll posts a day should share a
+   tweaked caption; the **on-screen hook is the variable being tested.** (Also makes the test readable.)
+3. **Hooks need the result in them.** "These 5 hooks beat everything" is vague and it's why it got no
+   comments; "I've made 10,000 ads" works because it's a hard number.
+4. **Push ~3 plateaued trial reels (~2.5K views, 1–2 weeks old) to the main feed** — credibility on the
+   profile, and they often restart. Reverses our old "only if it blows up" rule. Her student hit **11K
+   followers on main-feed B-roll alone.**
+5. **Recycle the topic across formats:** talking head → carousel (she named the 10,000-ads one and the Grüns
+   teardown), winning carousel/talking-head topic → B-roll hook, archived old posts → new trial reels.
+6. **New lane: raw vulnerability storytelling** (carousels + B-roll with the story in the caption). See
+   `idea-bank.md`.
+7. **Effort is not the lever.** Fraser's 200K-follower "doppelganger" makes high-production video carousels
+   and got 3 likes in 4 hours. *"I don't think it's human enough."* Lo-fi + personal wins.
+8. **SFX on the hook** (click/pop) + overlay the thing you name on screen. Visual disruptors already landing.
+
+**Open at the end of the call:** Georgia is rewriting the "5 hooks" hook and sending a vulnerability-post
+example and her ManyChat flow.
+
 ## Patterns forming (n=17 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
@@ -418,4 +462,10 @@ Three reels, same formula, same day, wildly different skip:
 5. **Follows are coming now (1 so far)** — the profile is converting *some*. Still set it up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
 7. **DTC-brand teardowns out-share the hot-take talking head** (Reel 017 vs 016): first talking head to earn shares + reposts, best comment count, biggest reach — while holding the same ~1.1% save rate. A teardown is *useful to forward*; a hot take is not. Make more real-brand teardowns for the main feed.
-8. **Specific + contrarian on-screen text beats vague-curiosity TOS** (Reel 017 ran "GRÜNS is doing what 90% of wellness brands get wrong" over the drafted "everyone missed why this works"). Name the brand + a hard claim in the TOS.
+8. **Talking heads compound (call 3).** Each new talking head lifts the older ones — so early sub-1K
+   view counts on the format are not a verdict on the piece, they're the start of a run. Volume is the lever;
+   don't judge or prune talking heads on views this early. Judge on saves/shares/comments/keyword leads.
+9. **Trial reels have a COMMENT problem, not a reach problem now.** Most sit over 1K views (avg ~1.5K) with
+   likes but almost no comments. Reach improved; the engagement that snowballs it hasn't. Next lever: hooks
+   that name a result + a comment-keyword people actually want (a doc, not a YouTube link).
+10. **Specific + contrarian on-screen text beats vague-curiosity TOS** (Reel 017 ran "GRÜNS is doing what 90% of wellness brands get wrong" over the drafted "everyone missed why this works"). Name the brand + a hard claim in the TOS.

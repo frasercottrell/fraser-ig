@@ -32,12 +32,17 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
 - Carousels are under-used right now → worth testing
 
-### ⭐ Caption standard (Georgia's feedback + our saves data — this is the bar now)
+### ⭐ Caption standard (Georgia's feedback + our saves data)
+
+> ⚠️ **Superseded on LENGTH by call 3 (27 Aug).** Georgia has now seen the long versions live and
+> her read flipped: they're *too* text-heavy, the sentences are too long, and she'd get bored reading
+> them. The *substance* bar below still stands — the shape doesn't. Read **Call 3 learnings** below for
+> the current caption standard before writing anything.
 
 The old captions were too short and thin. New standard, because captions are how we finally earn the SAVE:
 
 - **Much longer.** Pack the caption with genuinely useful, specific info — the kind of thing a marketer screenshots and comes back to *right before they run their ads.* If it's not worth saving, it's not done.
-- **A different caption for every hook.** No recycling. Each one earns its own depth.
+- ~~**A different caption for every hook.** No recycling.~~ **Reversed at call 3:** reuse one caption across the day's same-B-roll variants, tweaked — the on-screen hook is the variable.
 - **Use listicles — aim for 5 points, not 3.** "Here's what they all had in common: 1… 2… 3… 4… 5…" Each point is 2–3 sentences of *real* tactical advice: a specific example, a concrete number, a do-this-not-that. Not one-liners.
 - **Genuinely helpful, not surface.** Specifics over vibes. Name the niche, the phrase, the metric, the exact fix. Teach something a pro would still find useful.
 - **Keep Fraser's voice** (punchy, fragments, no fluff) *inside* the longer structure — long doesn't mean padded. Every line earns its place.
@@ -79,6 +84,113 @@ The old captions were too short and thin. New standard, because captions are how
 **Stories & highlights:** daily "look at this ad we ran this week" laptop stories (already part of Fraser's routine). Q&A box — seed 5–6 of his own expert questions ("what problems are you having with your ads this week?"). Highlights: BTS + Results.
 
 **State of play:** ~+50 followers since call 1 (skewed — brands run ads on Fraser's page). 3 HOOKS auto-DM leads, all from trial reels. Engagement low, no DMs/comments yet. **It's a volume game right now** — not enough reps to read signal. Keep posting.
+
+### Call 3 learnings (27 Aug — bi-weekly review; transcript in `sources/georgia-call-3-transcript.md`)
+
+**⭐ CAPTION CORRECTION — the biggest change on this call. Shorter, not longer.**
+Georgia reviewed the live long captions and reversed the length call. Not less *substance* — less *text*.
+- *"It's quite text-heavy… shorten each of the steps as well, because sometimes people don't want to scroll all the way down."*
+- *"A lot of great detail, but the sentences are just too long. We can make them one to two lines per point."*
+- *"If I start reading that, I'm probably going to get bored."*
+- **New shape for a value caption** (her exact construction):
+  1. **The call-out** — who it's for.
+  2. **The hook, clear, on its own line.**
+  3. **One short paragraph on why it's valuable** — then the list. (The old ones bunched all of this together.)
+  4. **Numbered points, 1–2 lines each.** Listicles are right; 2–3 sentences per point is not.
+  5. Relevant CTA.
+- **Talking heads can be caption-light.** Fraser's own observation, which Georgia confirmed: on a lot of
+  good talking heads *"it's literally just the CTA."* Her rule: **when the message on screen is strong and
+  compelling, the CTA is the whole caption.** (This validates "Micro" mode in `talking-head-caption-style.md`
+  — stop defaulting to the listicle.)
+
+**⭐ STOP WRITING A NEW CAPTION PER TRIAL-REEL VARIANT.** Direct reversal of the old "a different caption
+for every hook, no recycling" rule. Fraser posts 3/day off the same B-roll with 3 trending sounds — and had
+been writing 3 brand-new captions. Georgia: *"I don't think we need to write a new caption every single time."*
+- **Reuse the same (now shorter) caption across the day's variants, tweaked slightly.**
+- **The variable that changes is the on-screen hook.** Footage same, caption same-ish, hook different.
+- Why it matters beyond time saved: it's cleaner testing. One variable (see the testing discipline in
+  `idea-bank.md`) — if the caption is a fresh write every time, a win tells you nothing about the hook.
+
+**On-screen hooks must carry the RESULT, not a vague claim.**
+Her critique of the live one: *"These 5 hooks beat everything"* — **too weak, because "beat everything" is
+vague. What does that mean?** She rated *"I've made 10,000 ads"* as a strong start and wants the specific
+outcome attached: *"These five hooks are WHAT? What was the result of those five hooks, so it's way more
+compelling?"* Same lesson as Reel 017 (specific + contrarian beat vague-curiosity). She's tweaking that
+hook and sending it over — **outstanding from Georgia.**
+- Also: she wants to **push hard for comments now.** BTS visuals are confirmed working, hooks are close;
+  comments are the gap (barely any trial reel is getting them).
+
+**⭐ NEW LANE: push proven trial reels onto the main feed.** Previously we said "rarely publish trial reels
+to the feed — only if one blows up (200–300k)." **That's now wrong for this account.** Georgia's actual advice:
+- Take trial reels that are **1–2 weeks old, have stopped gaining momentum, but pulled decent numbers**
+  (~2.5K views is her ideal mark) and **share them to the main feed.**
+- **Do ~3 to start.** Three reasons: (a) *credibility* — a visitor lands on the profile and sees 2.5K views,
+  which is strong for a ~3K-follower account; (b) the content already exists, so it's free; (c) posting to
+  the feed **often restarts momentum** — she's had trial reels pick up again after this.
+- **B-roll on the main feed is a real growth engine, not a filler.** Her student grew to **11K followers
+  posting only B-roll — on the main feed, not as trial reels.**
+- **The feed can be reordered now** — so curate the grid (B-roll / talking head / carousel) after posting.
+- **Low-lift is the point.** Talking heads take filming + prep + edit; carousels take a while; **a B-roll
+  post takes ~2 minutes** off clips that already exist and already perform.
+
+**⭐ One idea, every format — recycle the TOPIC, not just the footage.** *"We just want to get as much
+exposure as possible from one piece of content, one piece of idea."*
+- **Talking head → carousel.** The script is already written; convert it. Both current carousels were
+  standalone hooks — none came off a talking head. She specifically wants the **"I've tested 10,000+ ads"**
+  one and the **Grüns teardown** turned into carousels.
+- **Talking head / carousel topic that did well → B-roll hook.** Two minutes of work.
+- **Archived old posts → re-run as trial reels.** The old language reel: pull it out of archive, tweak the
+  caption, run it as a trial reel. It'll get picked up again.
+
+**Carousels — what she wants next:**
+- **An ad-breakdown carousel series.** Screenshot the actual ad, overlay evidence, break it down.
+  *"I like adding screenshots and evidence to the carousels to give you a bit more authority."* Make it a series.
+- **Keep the lo-fi format** — it's working. Two tweaks: the images are **a bit dark** (pick brighter BTS
+  shots — still obviously behind-the-scenes, just legible), and **include Fraser's face** more often. She
+  flagged the carousel with his photo in it as the better one.
+- **Do NOT over-produce.** Fraser's "doppelganger" (200K followers) makes high-effort graphic *video*
+  carousels and posts them to ~3 likes at 4 hours. Georgia's read: *"It's not human enough."* **Effort is
+  not the lever — personal storytelling is.** *"Instagram loves personal storytelling."*
+
+**Editing — sound effects on the hook (from the Yapper girl's own paid course):**
+- **Put a click / pop SFX under the on-screen hook**, and under anything else that pops on screen. The
+  goal: in the first 5 seconds the viewer is **overstimulated by visual + sound**.
+- **Overlay the thing you name.** When Fraser says "feed pics" in the feed-pics reel, put a picture of
+  feed pics on screen as he says it. (Same friction principle as putting product/tool names on screen.)
+- **Visual disruptors are landing** — confirmed in the last few talking heads (sitting down mid-sentence,
+  bringing the laptop into frame, swiping it across frame). Keep doing them. The mechanism (her Yapper-girl
+  example): she'd walk away from camera and kick clothes off the bathroom floor to sit on the bath edge —
+  *"I feel like I'm in your home."* Ordinary + real beats produced.
+
+**Profile jobs (the stranger test again):**
+- **Highlights: build 3–4.** Fraser uses none. Pull them from archived stories. Suggested buckets: **AI
+  tools** (a weekly 30-second "trialling this tool today" story), **Results**, plus whatever fits. Purpose:
+  a visitor gets what this account is in one glance.
+- **Pinned posts: go to 3.** Currently two random ones. Make one of them an **intro carousel — "I'm Fraser,
+  I'm X", 6–7 slides: the story, what he does, where he's based** — and pin it top. Third pin: a carousel
+  or the highest-viewed reel.
+
+**Lead magnets / ManyChat:**
+- **A quick doc beats a YouTube link.** A YouTube link makes them work for it (sit through a video); a
+  one-page doc with the tool name + link is the low-friction version and feels like more value.
+- **For the AI reel:** the number-one question will be *"what program did he use?"* — so gatekeep it behind
+  a comment-keyword and hand over a doc that breaks down the program.
+- **Every lead form must link the paid product too.** Not just capture the email — put the course in front
+  of them at the point of highest interest.
+- **Open strategic question Fraser raised (worth resolving):** the current form chases *agency leads*
+  (£10k/mo), but this IG audience may be the wrong buyer for that. **The £900 course is a much easier
+  first "yes."** Leaning the lead form toward the course is probably the right call. (See `business.md`.)
+
+**Posting cadence / timing:** **stop being precious about post timing.** *"If it's edited and ready, get it
+up."* Time of day is not the lever. Keep the bank of ready content — that's what protects consistency — but
+don't sit on a finished piece waiting for a slot.
+
+**Georgia's read on progress:** *"You've done really well. I love the consistency."* Nearly 3K followers,
+five talking heads in, comment-keyword leads now coming in where two weeks ago there were none. Her framing:
+baby moves, and the talking-head momentum compounds (see results-log call-3 findings).
+
+**Outstanding from Georgia:** the tweaked "5 hooks" hook, an example post for the vulnerability format, and
+an example of her ManyChat flow.
 
 ### How Instagram trial reels actually work (get this right)
 
@@ -141,7 +253,7 @@ the value, and the whole point of the reel leaks out.
 - It's a **numbers game.** Pick 2–3 B-rolls, keep reusing them, just rotate hooks. Test a hook per pillar to see which pillar resonates with non-followers.
 - Long-form talking clips **don't** work as trial reels — that's for the main feed.
 - Trending audio: look for the **↑ arrow**; scan the Explore page for what's being used.
-- Rarely publish trial reels to the main feed — only if one blows up (200–300k+). Otherwise keep testing indefinitely; if a hook wins as a trial reel, just re-make/duplicate it as a main reel.
+- ~~Rarely publish trial reels to the main feed — only if one blows up (200–300k+).~~ **Reversed at call 3:** share plateaued trial reels that pulled decent numbers (~2.5K) to the main feed, ~3 at a time — credibility + they often restart. See Call 3 learnings above.
 
 ## Stories & highlights
 - **Daily stories** — personality, Q&A boxes ("ask me anything about X"), be a real human
@@ -171,6 +283,34 @@ the value, and the whole point of the reel leaks out.
 5. Create **4 talking-head reels — one per pillar**, strong hook on each
 6. Verbal + visual + text hook in every main-feed reel
 7. Test up to **8 hooks** with B-roll + caption; **2–3 trial reels/day**
+
+## ⭐ Call 3 to-do list (27 Aug) — what Fraser said he'd do
+
+**Today / this week**
+- [ ] **Post the AI language talking head today.** It's filmed and edited. Georgia specifically wants an AI
+      one out because nothing on AI has gone up yet. Don't wait for a "good" posting time.
+- [ ] **Build the AI-video doc** (what program was used + how) and wire it to a comment keyword → post the
+      reel with that CTA. Add a link to the course inside the form.
+- [ ] **Re-run the archived old language reel as a trial reel** with a tweaked caption.
+- [ ] **Re-edit the feed-pics talking head** to overlay a picture of feed pics on the line where he says it.
+- [ ] **Rewrite one trial-reel caption short** (call-out → hook → why-it's-valuable → 1–2 line points → CTA),
+      then reuse it across the day's three variants with only the on-screen hook changing.
+- [ ] **Share ~3 plateaued trial reels (~2.5K views, 1–2 weeks old) to the main feed**, then reorder the grid.
+- [ ] **Add click/pop SFX** under the on-screen hook in the next edits.
+
+**This week / next**
+- [ ] **2–4 storytelling carousels** from the vulnerability lane (`idea-bank.md`) — written by hand, not AI.
+- [ ] **Carousel: "I've tested 10,000+ ads…"** — waiting on Georgia's tweaked hook (with the result in it).
+- [ ] **Carousel: the Grüns teardown**, converted from the talking-head script. Screenshots + overlays of the
+      actual ad. Start the ad-breakdown carousel *series*.
+- [ ] **Intro carousel — "I'm Fraser, I'm X"**, 6–7 slides (story, what he does, where he's based) → pin it.
+- [ ] **Third pinned post** — a carousel or the highest-viewed reel.
+- [ ] **Build 3–4 highlights** from archived stories (AI tools, Results, +1–2).
+- [ ] **Brighter carousel images**, and include Fraser's face more often.
+- [ ] Remaining filmed talking heads to schedule: AI slop, case-study feedback, Yapper.
+- [ ] **Decide: course or agency as the IG conversion target** (see `business.md`), then rewrite the form.
+
+**Waiting on Georgia:** the rewritten "5 hooks" hook, an example vulnerability post, her ManyChat flow.
 
 ## Distribution
 Repurpose everywhere: IG + TikTok + YouTube Shorts. (Fraser is lukewarm on TikTok — audience fit — but the marginal cost of cross-posting is ~zero.)

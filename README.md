@@ -35,7 +35,7 @@ later session couldn't see them). To stop it happening again:
 - **[idea-bank.md](context/idea-bank.md)** — video ideas + topics + hooks (kills the blank-screen problem)
 - **[talking-head-caption-style.md](context/talking-head-caption-style.md)** — the register talking-head captions should be written in (3 modes; vary the opener, weave credentials, add personality, rotate the CTA)
 - **[results-log.md](context/results-log.md)** — real performance data + what each reel taught us (the flywheel)
-- **[sources/](context/sources/)** — raw source material kept verbatim for provenance (e.g. Georgia's call-2 email)
+- **[sources/](context/sources/)** — raw source material kept verbatim for provenance (Georgia's call-2 email, the **call-3 transcript**, caption examples)
 
 ## Anti-AI-slop check
 
