@@ -67,26 +67,48 @@ future in which they need it.
 
 Blocks 3 and 5 are the flexible ones. A very tight carousel can run four blocks. Never fewer.
 
-## Voice
+## Voice: this is half the job
 
-Fraser's full voice reference is `context/tone-of-voice.md` and the AI-tell inventory is
-`context/ai-writing-tells.md` in the fraser-ig repo. The rules that bite hardest here:
+A caption that carries the right structure and the wrong voice is a failure. Fraser's audience buys
+one belief, that he understands ad creative better than they do, and generic writing breaks that
+belief faster than a weak hook does. Georgia made the same point unprompted: when people can't sense
+a real person behind the writing, it reads as generated, and the authority goes with it.
 
-- **No em-dashes.** Recast as a full stop, a comma, or a fragment. The linter flags every one.
-- **Contractions throughout.** Short sentences, varied length, fragments where they punch.
-- **Specific over clever.** Real numbers and named things, never invented ones. If you weren't told a
-  number, don't write a number. Fabricated detail is the most common failure and Fraser cuts it every
-  time.
-- **No "here's the thing", no "the result?", no "sound familiar?".** No balanced triads. No "it's not
-  just X, it's Y". Negation is fine when it denies something the reader actually believes ("It isn't
-  budget and it isn't effort"), and a tell when it's there for rhythm.
-- **A softener is fine if it sounds like him.** "Hate to break it to you but" works. "Not to be
-  dramatic but" and any generic warm-up do not. The test is whether the line could top anyone's post.
-- **Emoji: sparingly and functionally.** A 👇 or 👉 pointing at the swipe is fine. Never decorative
-  strings of them, never double exclamation marks. That's a different creator's persona.
+**Read `references/voice.md` before you write.** Don't skim it. It holds his actual corpus, real lines
+from carousels he wrote, plus a negative corpus of lines that Claude wrote, that sounded good, and
+that he deleted. That negative section is the valuable half: it's specifically the stuff a competent
+model produces that Fraser doesn't.
 
-Run the draft past `scripts/voice-lint.py` in the fraser-ig repo if it's available:
-`python3 scripts/voice-lint.py path/to/draft.md`
+### The check, in order
+
+1. **Draft it**, having read the corpus.
+2. **Run the bundled linter.** It ships inside this skill, so it works wherever the skill lives:
+   `python3 <skill-dir>/scripts/voice-lint.py draft.txt`, or pipe the draft with `-`.
+   It's deterministic and can't be talked out of a flag, which is the point.
+3. **Fix flags by rewriting in his register.** Not by swapping the flagged word for a synonym, which
+   just trades one tell for another. Go back to the corpus and say the plain thing his way.
+4. **Judgment pass.** The linter sees words. It can't see register drift, sameness of rhythm, or
+   copy that's simply too clean. Read the draft against the corpus and ask whether it sounds like the
+   person who wrote "go and look at your top performer right now" and "To most people polish = Ad",
+   or like a competent marketer.
+
+**A clean lint is not the goal.** It proves the AI surface is gone, nothing more. Copy that passes the
+lint and still sounds like anybody was written without the corpus, and the fix is more corpus, not
+more scrubbing.
+
+### The five that bite hardest on captions
+
+Full detail is in `references/voice.md`. These are the ones you'll actually trip on:
+
+- **No em-dashes.** Recast as a full stop, a comma, or a fragment.
+- **Never invent a number or a detail.** If you weren't told it, you don't know it. This is the
+  single most repeated correction across every draft he's rewritten. Where the detail isn't there,
+  go plain or use a device that asserts nothing.
+- **Hedge.** "probably", "basically", "usually". Absolute claims read as marketing.
+- **Plain beats punchy, even when plain is longer.** If the snappy version is the constructed one,
+  the flat one wins.
+- **A softener is fine if it sounds like him.** "Hate to break it to you but" works. Any warm-up that
+  could top anyone's post does not. And if you use one, drop the hedge. One or the other.
 
 ## Worked examples
 
@@ -148,8 +170,12 @@ wrapped around it. Then, briefly and only if there's something worth saying:
 
 Don't explain the template back to him. He knows it.
 
-## More reference
+## Bundled reference
 
-`references/swipe-file.md` holds the full set of real captions this standard was derived from,
-including the longer story-format ones and notes on why they run long. Read it when you want more
-examples of the register, or when a carousel doesn't fit the usual shape.
+- **`references/voice.md`** — Fraser's corpus and the anti-corpus, plus the two-layer check. Read
+  this before writing, every time. It's the difference between a caption that's merely correct and
+  one that sounds like him.
+- **`references/swipe-file.md`** — the real captions this structure was derived from, including the
+  longer story-format ones and notes on why they run long. Read it for more of the register, or when
+  a carousel doesn't fit the usual shape.
+- **`scripts/voice-lint.py`** — the mechanical tell scan. Bundled so it runs anywhere.
