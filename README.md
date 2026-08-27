@@ -33,6 +33,7 @@ later session couldn't see them). To stop it happening again:
 - **[hooks-swipe.md](context/hooks-swipe.md)** — hook swipe file by category
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
 - **[idea-bank.md](context/idea-bank.md)** — video ideas + topics + hooks (kills the blank-screen problem)
+- **[talking-head-caption-style.md](context/talking-head-caption-style.md)** — the register talking-head captions should be written in (3 modes; vary the opener, weave credentials, add personality, rotate the CTA)
 - **[results-log.md](context/results-log.md)** — real performance data + what each reel taught us (the flywheel)
 - **[sources/](context/sources/)** — raw source material kept verbatim for provenance (e.g. Georgia's call-2 email)
 
