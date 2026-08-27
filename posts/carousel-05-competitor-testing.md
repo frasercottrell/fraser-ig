@@ -104,25 +104,36 @@ as the only live keyword.
 
 ## Caption
 
-Written to the built arc. The slides establish what changed; the caption delivers the how, which is
-where the save gets earned.
+Written to the carousel caption template (see `context/carousels.md`, "Carousel captions are NOT reel
+captions"). Short on purpose: the slides carry the value, so the caption frames and converts rather
+than re-teaching. Blank line between every block.
 
-Save this before you write your next batch of ads 👇
+Your competitor is testing 10x more ads than you.
 
-The brands out-testing you usually aren't outspending you. The expensive part of trying a new angle used to be production, and that's the bit that collapsed. Here's what it actually looks like when a team runs it properly, rather than as an AI hacks thing:
+Swipe all 9 slides before you brief another batch.
 
-1. Stop starting from a blank doc. The blank doc is the reason most brands end up testing wording instead of ideas. Feed the model your reviews, your DMs, the comments under your competitor's ads, and ask it for angles. You're not asking it to be creative. You're asking it to read more customer language in ten minutes than you'd get through in a week.
+It isn't budget and it isn't effort. The thing that used to make every new angle expensive is gone, and most brands haven't changed how they work to match. That gap is the whole story.
 
-2. Write angles before you write scripts. One line each. Problem-led, founder-led, proof-led, comparison-led, objection-led. The angle is the argument for buying. The script is just how you deliver it. Most brands skip straight to scripts and end up with five versions of the same argument.
+Comment SCRIPT and I'll DM you my video on scripting great ads with AI. Straight to your inbox, no link-in-bio hunt.
 
-3. Use AI for the volume, use yourself for the judgement. Getting twenty angles out is trivial now. Knowing which three are worth filming is the actual job, and that part hasn't got any easier. If you're letting the model pick the winners, you've automated the wrong half of the process.
+Save this one for the next time your team asks why the tests aren't landing.
 
-4. Kill the duplicates before anything gets briefed. Read the angles back to yourself. If two of them collapse into the same sentence, you've got one angle, not two. It takes about ten minutes and it's the step that decides whether all that volume was worth anything.
+---
 
-5. The winners still get made properly. Finding the angle is cheap now. Making the version that scales isn't, and that gap is exactly where the advantage sits. The brands publishing raw AI output end up with a lot of ads and no winners.
+### Previous caption (long, reel-standard) — kept as the contrast
 
-None of this is about making ads faster. It's about getting more shots at finding the one that works, because the thing that used to make every shot expensive is gone.
+The version below was written to Georgia's reel caption standard and is the mistake the swipe file
+exposed: it re-delivers the entire framework, so there's no reason left to swipe. Kept here as the
+worked example of what not to do on a carousel.
 
-Want my video on scripting great ads with AI? Comment SCRIPT and I'll DM it over.
+> Save this before you write your next batch of ads 👇
+>
+> The brands out-testing you usually aren't outspending you. The expensive part of trying a new angle used to be production, and that's the bit that collapsed. Here's what it actually looks like when a team runs it properly, rather than as an AI hacks thing:
+>
+> 1. Stop starting from a blank doc. [...]
+> 2. Write angles before you write scripts. [...]
+> 3. Use AI for the volume, use yourself for the judgement. [...]
+> 4. Kill the duplicates before anything gets briefed. [...]
+> 5. The winners still get made properly. [...]
 
-Follow @frasercottrell for more from 10,000+ ads made.
+The five points aren't wasted. They're the next carousel, or the reel version of this one.

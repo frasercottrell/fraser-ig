@@ -760,6 +760,11 @@ Also on the final slide: the follow CTA. "Follow @frasercottrell for more from 1
 
 ## 9. The caption
 
+⚠️ **Corrected at the end of this section.** The standard below is the **reel** standard. Carousel
+captions are a different job and much shorter, because the slides already carry the value. See
+"Carousel captions are NOT reel captions". The bullets below still govern reel captions and still
+describe the voice.
+
 Carousels get the **full caption standard**, same bar as reels. This is where the save is finally
 earned, and the old short captions were the thing Georgia pushed back on.
 
@@ -783,6 +788,77 @@ Worked examples of the standard live in `posts/batch-12-long-captions.md` and
 
 **The test:** would someone about to launch an ad save this to reference? If not, add more real
 substance.
+
+---
+
+### ⭐ Carousel captions are NOT reel captions (corrects the caption standard above)
+
+A swipe file of real carousel captions from working creators exposed a mistake in every caption in
+this doc. The rule I'd carried over is right for reels and wrong for carousels.
+
+**The mistake: the caption was re-delivering the slides.** My carousel captions restate the whole
+framework as a 5-point listicle. Someone who reads the caption has no reason to swipe, and the
+carousel's own payload becomes redundant. I was writing a reel caption and attaching it to a
+carousel.
+
+**Why the repo standard says otherwise, and why both are right.** Georgia's caption standard (much
+longer, 5 points, packed, "would someone about to run ads save this") came from **reel** feedback. A
+reel has no text payload, so the caption is the only place value can live. **A carousel already
+carries the value on the slides.** Different format, different job:
+
+| | Reel caption | Carousel caption |
+|---|---|---|
+| Job | Carry the value. It's the only surface | Frame the stakes, drive the swipe, convert |
+| Length | Long. 5-point listicle, real depth | Short. Four or five blocks |
+| Content | The whole framework | Never the framework. That's what swiping is for |
+
+#### The template the good ones follow
+
+From the strongest example in the swipe file:
+
+> 5 Meta ads changes that broke August.
+>
+> Swipe all 8 slides before you touch another campaign.
+>
+> If your delivery, your costs, or your reporting went sideways this month, the reason is probably in
+> here. Every change in this carousel has a source you can read yourself.
+>
+> Comment META for the source links.
+>
+> Save this one for the next time someone on your team asks what changed.
+
+Five blocks, each its own paragraph:
+
+1. **Restate the claim, compact.** Not a new hook. The carousel's own claim, tightened. This is the
+   line that shows before "…more", so it still has to carry.
+2. **Tell them to swipe, and name the number.** "Swipe all 8 slides before you touch another
+   campaign." The slide count is a commitment device, and the "before you…" attaches a cost to not
+   doing it. Nearly every good example has an explicit swipe instruction.
+3. **Say who it's for and why to trust it.** One short block. Stakes plus credibility, no teaching.
+4. **The keyword CTA, and sell the delivery.** "Comment MUSE and I'll DM you Meta's entire
+   announcement. **No link-in-bio hunt.**" The friction removed is part of the offer.
+5. **A save prompt with an occasion.** Not "save this". *"Save this one for the next time someone on
+   your team asks what changed."* Naming the moment it'll be useful is far stronger than asking.
+
+#### Other things the swipe file confirms
+
+- **Heavy line breaks.** Every block is its own paragraph with a blank line. One idea per block.
+- **Emoji, sparingly and functionally.** 👀 👉 to point at the swipe. Not decoration.
+- **Casual asides are fine.** "haha", ":)", a parenthetical. It reads as a person posting, not a brand
+  publishing.
+- **Where a caption IS long, it's a story, not a framework.** The ManyChat and here.now examples run
+  long because the caption *is* the content (single image, no slides to carry it). Their numbered
+  points are steps in a story with real specifics ("899 comments processed, 224 DMs sent, 0
+  duplicates"), not a listicle of advice. Long is for when there's no payload elsewhere.
+
+⚠️ **Don't copy the register of the "chicest thing" example** (🌻💖🌸, double exclamation marks). That's
+a different creator's persona and it's the opposite of `tone-of-voice.md`. Take the structure from
+these, never the voice.
+
+#### What this means for the carousels in `posts/`
+
+Carousels 01 to 04 all carry long listicle captions written to the reel standard. They should be
+rewritten to this template before any of them post. Carousel 05's caption has been done.
 
 ---
 
@@ -929,7 +1005,9 @@ Before it goes out:
 - [ ] Specific numbers and named brands throughout. No vague claims.
 - [ ] Final slide CTA matches a freebie that **actually exists** (HOOKS, or soft CTA).
 - [ ] Follow CTA present.
-- [ ] Caption is long, 5-point listicle, genuinely tactical, different from every other caption.
+- [ ] Caption does NOT re-deliver the slides. Frame, swipe instruction with the slide count, stakes,
+      keyword CTA, save prompt with an occasion.
+- [ ] Save prompt names the moment it'll be useful, not just "save this".
 - [ ] Caption first line promises the payoff.
 - [ ] Photo exposure lowered, text legible on every slide.
 - [ ] Trending audio (↑).
