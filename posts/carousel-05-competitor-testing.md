@@ -120,7 +120,7 @@ Save this one for the next time your team asks why the tests aren't landing.
 
 ---
 
-### Previous caption (long, reel-standard) — kept as the contrast
+### Previous caption (long, reel-standard). Kept as the contrast
 
 The version below was written to Georgia's reel caption standard and is the mistake the swipe file
 exposed: it re-delivers the entire framework, so there's no reason left to swipe. Kept here as the
