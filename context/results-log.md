@@ -668,6 +668,7 @@ New method (Fraser): lock the WINNING footage (POV of the gear/workbench) + lock
 3. **The method is the unlock: lock winning footage + lock caption, rotate ONLY the hook text.** Cleanest isolation of the single highest-leverage variable, and cheap. This is how we should test from now on.
 4. **Plain outcome language beats jargon.** "drove the most sales" won over CTR, CPA, clicks, revenue, "cheapest customers." On a cold audience, the universally-understood outcome (SALES) out-pulls metric jargon. Lead with the outcome everyone wants, not the acronym.
 5. **"I've analysed 10,000 ads. These 5 hooks drove the most [outcome]." is now a proven template.** Authority (10,000 ads) + specific desirable outcome + the "5 hooks" reveal. Bank it and rotate the outcome word (sales > purchases > revenue > CTR/CPA).
+6. **RESULTS/PROOF baked into the hook text is a lever (Fraser's read).** The winner carried a concrete result ("drove the most sales") and a proof number ("10,000 ads"). Hooks with a tangible outcome + number beat vaguer claims. Next test: push harder on real, specific results in the hook (£ figures, multiples, 7-figure) - only ones Fraser can actually stand behind.
 
 ---
 
