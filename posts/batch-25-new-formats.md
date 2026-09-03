@@ -1,37 +1,46 @@
-# Batch 25. New FORMATS as full trial reels (not variations of the listicle winner)
+# Batch 25. New FORMATS, now LEADING WITH SOCIAL PROOF
 
-Point: the "I've analysed 10,000 ads. These 5 hooks..." listicle is ONE format, not the only one. Each reel below
-is a DIFFERENT structure - its own potential winner with its own future rotation. Short caption (new standard),
-tight first frame, HOOKS CTA. Picked the 3 strongest/most distinct from the menu; swap freely.
-⚠️ Verify any specific figure.
+Point 1: the listicle is ONE format, not the only one - each reel below is a different structure.
+Point 2 (new): every hook now LEADS with social proof, then the hook/promise. Proof first = credibility before
+the claim, which matters most on a cold audience. Short caption (opens with proof too), tight frame, HOOKS CTA.
+
+## Social-proof prefix bank (lead any hook with one of these)
+SAFE / grounded (use freely):
+- "I've made 10,000 ads..."
+- "We make ads for brands spending £80k+ a month..."
+- "I run a creative agency for brands doing serious ad spend..."
+⚠️ VERIFY before using (only if true / Fraser is happy to say it):
+- "My agency makes ads for 8-figure brands..."
+- "We've made ads that have done millions in sales..."
+- "I've managed £[X]M in ad spend..."
 
 ===============================================================================
 
-## Reel A - FORMAT: Mistake / negative
-**On-screen hook:** "You're killing your ads in the first 3 seconds. Here's how."
+## Reel A - FORMAT: Mistake / negative (proof-led)
+**On-screen hook:** "I've made 10,000 ads. Yours is dying in the first 3 seconds."
 **B-roll:** tight POV on the gear / an ad on screen. Fill frame one.
 
 **Caption:**
 
-Most ads don't fail on the offer or the edit. They die at the open.
+I've made over 10,000 ads. The number one killer I see is the first 3 seconds.
 
-They lead with the product, so the viewer never sees their own problem, and scrolls.
+Most ads open on the product, so the viewer never sees their own problem, and scrolls.
 
-Open on their problem, in their words, before the product shows up. Watch the drop-off disappear.
+Open on their problem, in their words, before the product shows up. The drop-off disappears.
 
 Comment 'HOOKS' and I'll send you a list of openings that actually stop people.
 
 ===============================================================================
 
-## Reel B - FORMAT: Case study / proof-story (⚠️ verify £2M)
-**On-screen hook:** "This ad did £2M. It opened with one line."
+## Reel B - FORMAT: Case study / proof-story (proof-led ⚠️ verify £2M)
+**On-screen hook:** "We make ads for brands spending £80k+ a month. This one did £2M with one line."
 **B-roll:** tight POV on an ad playing on the monitor / scrubbing the first frame. Fill frame one.
 
 **Caption:**
 
-No big budget. No fancy production. One line at the start did the heavy lifting.
+We make ads for brands spending serious money on Meta. One of them did £2M.
 
-It named the customer's exact problem before the product ever appeared. That's the whole reason it worked.
+No big production. One line at the start did the heavy lifting: it named the customer's exact problem before the product ever appeared.
 
 Most ads bury the problem or skip it. This one led with it.
 
@@ -39,13 +48,13 @@ Comment 'HOOKS' and I'll send you the openings I'd start from.
 
 ===============================================================================
 
-## Reel C - FORMAT: Contrarian / myth-bust
-**On-screen hook:** "Everything you've been told about hooks is wrong."
+## Reel C - FORMAT: Contrarian / myth-bust (proof-led)
+**On-screen hook:** "I've made 10,000 ads. Everything you've been told about hooks is wrong."
 **B-roll:** tight POV on the gear, hands working. Fill frame one.
 
 **Caption:**
 
-"Grab attention." "Be loud." "Shock them." All of it misses the point.
+10,000 ads in, here's the truth: "grab attention", "be loud", "shock them" all miss the point.
 
 The best hooks don't grab everyone. They call out one person so precisely they can't scroll past.
 
@@ -56,5 +65,5 @@ Comment 'HOOKS' for the openings that do exactly that.
 ===============================================================================
 
 ## Note
-These are 3 different formats, not 3 versions of one. Whichever pops becomes its own template we can then
-rotate (like we did with the listicle). Run them, and we keep the formats that beat the ~1.5-2k baseline.
+Proof-first is the new default for hooks and caption opens. Keep the proof TRUE - the safe bank above needs no
+checking; verify anything bigger. Whichever format pops becomes its own template to rotate.
