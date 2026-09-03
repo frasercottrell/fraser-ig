@@ -45,6 +45,8 @@ The old captions were too short and thin. New standard, because captions are how
 
 **Test:** would someone about to launch an ad save this to reference? If not, add more real substance.
 
+**⚠️⚠️ Update (post-record, reel 041): TRIAL-REEL captions are now SHORT.** The best reel in the whole log (5,948 views, 2.2x the old record, + green saves/shares/comments + 4 follows) used a ~70-word caption, not a long listicle. For TRIAL REELS: keep captions tight — a one-line setup, a compact list of named items (one line each, no 2-3 sentence explanations), a single takeaway line, then the CTA. The video + on-screen hook carry the weight; the caption is a quick reference, not an essay. Save the long, meaty 5-point listicle for MAIN-GRID / save-goal posts. Everything below about depth still applies to those; for trial reels, cut hard.
+
 **⚠️ Update (post Day 8): vary the caption FORMAT — don't make every caption the same skeleton.** For ~40 reels every caption was identical in shape: "Save this before X" → 5 numbered points → HOOKS. That reads formulaic at volume. The 5-point listicle stays the standard for **SAVE-plays (F3 authority reels)** — the listicle is what earns the saves. But **vary the format on REACH-plays (F1/F2 contrarian/FOMO)**, where the goal is views, not saves: short contrarian rant (no list), mini-story/narrative, single big idea, 3-point, and different openers (not always "Save this before…"). Match format to the reel's job; keep the voice, the em-dash-free rule, and the HOOKS CTA throughout.
 
 ### How Instagram trial reels actually work (get this right)
