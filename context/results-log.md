@@ -673,6 +673,17 @@ New method (Fraser): lock the WINNING footage (POV of the gear/workbench) + lock
 
 ---
 
+# Reel 042 — YAPPER topic + new lead magnet (Yapper Framework, keyword YAP)
+
+New topic/offer: promoting the Yapper Framework download instead of HOOKS.
+**Hook:** "Yapper ads are responsible for 90% of our winning ads. Here's why." · footage: tight POV gear (workbench/warehouse) · caption short + "Comment YAP for my framework."
+
+**Metrics:** ~1,600 views · comments coming in (people commenting "Yap") - the YAP keyword CTA is pulling.
+
+**Read:** Yapper topic + framework offer works out of the gate (~1,600 on a fresh topic/keyword). YAP is the live keyword (not YAPPER). Iterate the same way as the "5 hooks" winner: lock footage + caption, rotate on-screen hook (batch 29). Every variant keeps yapper/yap/yapping + "ads" + proven levers. NOTE: make sure YAP -> framework delivery is wired (ManyChat/DM) so the leads don't leak.
+
+---
+
 ## Patterns forming (n=35 — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
