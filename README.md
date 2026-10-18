@@ -36,7 +36,13 @@ later session couldn't see them). To stop it happening again:
 - **[talking-head-caption-style.md](context/talking-head-caption-style.md)** — the register talking-head captions should be written in (3 modes; vary the opener, weave credentials, add personality, rotate the CTA)
 - **[instagram-voice-patterns.md](context/instagram-voice-patterns.md)** — how Fraser sounds on camera (openers, enders, cadence, words he says/never says, slang, humour) for writing IG scripts that sound exactly like him. Grows as more real transcripts are added.
 - **[results-log.md](context/results-log.md)** — real performance data + what each reel taught us (the flywheel)
-- **[sources/](context/sources/)** — raw source material kept verbatim for provenance (e.g. Georgia's call-2 email)
+- **[instagram-brain.md](context/instagram-brain.md)** — condensed working summary (the one test, format scoreboards, save ladder, carousel cover rule, how to work with Fraser). Good first read.
+- **[sources/](context/sources/)** — raw source material kept verbatim for provenance (e.g. Georgia's call-2 and call-3 emails, the 2026-10-18 handoff note)
+
+## Hooks
+
+- **[hooks/LEDGER.md](hooks/LEDGER.md)** — every hook handed to Fraser (2026-09-16 → 2026-10-04) with status + result, the MISS 1-8 rejection rules, findings already given (don't restate), and the tested-won / tested-lost / untested angle map. **Check it before writing any new hooks.**
+- `hooks/YYYY-MM-DD-*.md` — individual hook batches
 
 ## Anti-AI-slop check
 
