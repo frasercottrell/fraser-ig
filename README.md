@@ -30,6 +30,7 @@ later session couldn't see them). To stop it happening again:
 - **[business.md](context/business.md)** — offers, funnel, course, newsletters, freebies
 - **[pillars.md](context/pillars.md)** — the 4 content pillars + hook formula
 - **[instagram-playbook.md](context/instagram-playbook.md)** — execution: bio, trial reels, carousels, cadence, action plan
+- **[carousels.md](context/carousels.md)** — ⭐ the complete carousel guide: slide-by-slide anatomy, slide-2 mechanics, CTA rules, caption bar, testing discipline
 - **[hooks-swipe.md](context/hooks-swipe.md)** — hook swipe file by category
 - **[proven-content.md](context/proven-content.md)** — what's already worked (idea mine)
 - **[idea-bank.md](context/idea-bank.md)** — video ideas + topics + hooks (kills the blank-screen problem)
@@ -64,6 +65,10 @@ Every piece of content should sound like Fraser, not like a machine. Two referen
   transcript, in Fraser's voice (3 modes, vary the opener, weave a credential, rotate the CTA, lint it).
   Invoke with `/talking-head-captions` or just paste a talking-head transcript and ask for a caption.
   **Talking heads only** — not trial reels, carousels, or static-ad copy.
+- **[.claude/skills/carousel-captions/](.claude/skills/carousel-captions/)** — writes the caption
+  under a finished carousel. Carousel captions are a different job from reel captions (short, frames
+  and drives the swipe, never re-delivers the slides), and getting them confused is the easy mistake.
+  Includes the swipe file the standard came from.
 
 ## To add over time
 

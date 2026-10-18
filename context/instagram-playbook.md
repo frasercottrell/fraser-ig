@@ -27,6 +27,8 @@ Link-in-bio: a link hub with all resources (Georgia suggests **Stan Store**).
 - Cover photo: pick the keyframe with the text hook visible (optional for Fraser's more personal brand)
 
 ### 2. Carousels (1–2 per week)
+
+> **Full guide: [carousels.md](carousels.md)** — slide-by-slide anatomy, slide-2 mechanics, hook families, CTA rules, caption bar, testing discipline, build checklist. The notes below are the summary; that doc is the working spec.
 - Take a reel **hook as slide 1**
 - 5 slides, storytelling, notes-app style — write like talking to a friend
 - **Last slide = CTA** (e.g. "comment [word] for my freebie")
