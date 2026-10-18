@@ -88,6 +88,66 @@ One variable at a time. If you change the hook *and* the B-roll *and* the topic,
 
 ---
 
+## ⭐ Storytelling / vulnerability (call 3 — the new lane Georgia wants)
+
+Georgia's main new direction on 27 Aug: **start posting raw, vulnerable storytelling.** Not because
+it's nice — because of the mechanism: *"it starts making people feel like they are connecting to a real
+person… people start to recognise parts of their own experiences in them."* Relatability opens the door;
+the expertise then lands on someone who already trusts you.
+
+**The structure (her formula):** personal vulnerability → the lesson → the expertise. Balance the wins
+Fraser already posts with the failures. The story is the way *in*; the point is still authority.
+
+**Format:** **carousel storytelling first** (that's what she named), and these hooks are *also* perfect
+B-roll trial reels — hook on screen, **the story lives in the caption**. Each carousel slide is only a
+few words, a couple of lines. Condense hard.
+
+**Be clickbaity here — negative hooks work.** Her words: *"we are quite clickbaity with carousels, but it
+really does work using negative hooks. If there is a genuine story here, just use it."* The rule: the
+clickbait must be **true**.
+
+**Hooks she gave (use as-is / fill with Fraser's real numbers):**
+- "I wasted £10,000 on ads before I realised what I was actually doing wrong."
+- "The biggest mistake I've made when running ads for DTC cost me £15,000."
+- "I nearly quit."
+- "What I wish I knew when I started working with DTC brands." *(She flagged "what I wish I knew" posts as
+  doing amazingly well.)*
+
+**The stories to mine (find the real one, don't invent):**
+- A campaign that bombed. A month that went badly. **A client Fraser lost** — and what it taught him.
+- Money poured into something that didn't work — then what he learned about the business/industry.
+- **The AI fear, told honestly:** genuinely being scared AI would replace the agency, and **how he adapted
+  it to work in his favour instead.** (Georgia named this one specifically. It's also the most on-brand
+  version of the AI pillar — operator-framed, not "AI hacks".)
+- **Awkward agency-owner moments. Insecurities. Things that didn't go to plan.**
+- **High-maintenance client scenarios** — *"not bitching about brands"*, but the real difficulty and how he
+  handled it. People are nosy; this is the one that gets read.
+- What he misunderstood about DTC early on. What surprised him about scaling.
+- **What he looks for now before taking a client on** — the story that turned into the filter.
+- The backstory itself: how he got here (also the raw material for the pinned intro carousel).
+
+**Write these ones yourself.** Georgia can tell when it's AI (see `talking-head-caption-style.md`). Fraser
+already knows the story — explaining it to a model costs more effort than typing it. Notes app or
+speech-to-text, then tidy.
+
+## Observations from call 3 worth turning into content
+
+- **"Organic social is consistency and volume. That's the game."** Fraser's own line, and his sharpest
+  contrarian take on the hour: the people selling growth courses *can't* say it, because it kills the sale.
+  Strong Pillar 4 / founder post — a genuine hot take he actually believes.
+- **The hype economy.** The Yapper-girl playbook (post your revenue daily → sell the course → repeat),
+  now being cloned by several accounts within weeks. Angle: *the product being sold is hype, not
+  information* — and what that means for anyone buying a "make money on reels" course. Related: the CapCut
+  editing course aimed at people who think editing is high-tech. Fraser's addition: **timing and luck play
+  a huge part and nobody selling wants to admit it.** Handle with care — punch at the mechanic, not the person.
+- **The DTC gender gap.** Fraser can count on one hand the female founders who've booked a call with him,
+  while the Instagram growth space is overwhelmingly female-led. A real, specific observation about his
+  industry. Potentially a strong post — needs to be written as observation, not complaint.
+- **Building the ManyChat replacement in two hours with AI.** Fraser built his own comment-automation tool
+  on the Meta API (campaigns, per-post triggers, keyword → reply → link, preview, IG stats pulled in) in
+  ~2 hours, free, because ManyChat bills per contact. Perfect operator-framed AI content: *this is what an
+  agency actually does with AI* — not a hack, a replaced SaaS bill. (Also a candidate lead magnet.)
+
 ## Format notes tied to ideas
 - **Show it on screen.** The more Fraser watches/reacts to real examples on screen (ads, tools, results), the more engaging + the algorithm rewards it. Up to ~1 min is fine.
 - **One idea = 4 formats:** trial reel + main-feed reel + carousel + Nice Ads newsletter title. Post the winner across all and compare.

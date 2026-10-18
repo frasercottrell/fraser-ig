@@ -38,6 +38,23 @@ Keep freebies short (1–2 pages), one per content pillar, rotate them. Each fre
 
 Promote via **keyword CTAs + ManyChat**: "Comment AD", "Comment HOOKS", etc. (drives engagement signals + starts conversations).
 
+### ⭐ Call 3 (27 Aug): what the lead magnet has to do now
+
+- **A one-page doc beats a link to a YouTube video.** Georgia: a video makes them *work* for the answer
+  (sit through it); a quick doc with the tool name + link is instant and feels like more value. Default the
+  deliverable to a short doc.
+- **Every lead form must ALSO link the paid product.** Not just capture the email — put the course in front
+  of them at peak interest. (Fraser's current form is the shot page; it needs course content added.)
+- **⭐ Open decision Fraser raised: point IG at the COURSE, not the agency.** The form currently chases
+  agency leads (£10k+/mo, brands spending £80k+/mo on media). His own read: this IG audience is probably the
+  wrong buyer for that, and **"a grand might be an easier in for people instead of people spending 10K a
+  month."** Georgia didn't push back. That looks right — the funnel already says content → course → agency,
+  and IG is top-of-funnel. **Recommendation: make the course the IG conversion target and let the agency
+  leads come as the exception.** Needs Fraser's call before rewriting CTAs and the form.
+- **Next freebie to build (immediate): the AI-video doc.** For the AI talking head — the number-one question
+  will be *"what program did he use?"* So gatekeep it: comment-keyword → doc breaking down the program and
+  how it was made. This becomes the AI-pillar freebie the call-2 CTA-matching rule has been missing.
+
 ### Standard keyword CTAs
 
 Every keyword needs a real destination (ManyChat auto-DM, or manual reply with the link) or the comments

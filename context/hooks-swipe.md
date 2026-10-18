@@ -64,6 +64,29 @@ Don't copy word-for-word — take the shape, fill with Fraser's real specifics. 
 - "Most ecommerce brands test offers too slowly."
 - "If you're relying on discounts to sell..."
 
+## ⭐ Vulnerability / clickbait story hooks (Georgia, call 3)
+
+Negative, specific, and **true**. These are for carousels *and* B-roll trial reels (hook on screen, story in
+the caption). The mechanic is recognition — the reader has had a version of this and needs to know how it ended.
+
+- "I wasted £10,000 on ads before I realised what I was actually doing wrong."
+- "The biggest mistake I've made when running ads for DTC cost me £15,000."
+- "I nearly quit."
+- "What I wish I knew when I started working with DTC brands."
+- "I lost a client because of [X]. Here's what I do differently now."
+- "I was scared AI would kill my agency. Here's what actually happened."
+- "The campaign I was most confident about bombed. Here's what it taught me."
+
+**Rule:** a real number, a real loss, a real fear. The clickbait is allowed *because* the story is genuine —
+invent one and it reads like everyone else's fake origin story.
+
+---
+
+**⭐ Every hook needs the RESULT in it (call 3).** Georgia killed "These 5 hooks beat everything" on the spot:
+*"'Beat everything' is vague. What does that mean? What was the result of those five hooks?"* Whereas
+"I've made 10,000 ads" is a strong start because it's a hard number. So: name the outcome, the number, or the
+brand. Vague-curiosity loses to specific-curiosity every time (confirmed by Reel 017 too).
+
 ---
 
 **Best format (from Georgia):** Identity → Pain → Curiosity. Lead by naming *who* it's for, name the *pain*, then withhold the answer to create *curiosity*. Agency call-outs + founder + ecommerce hooks above are already identity-led — Fraser's strongest angles because they mirror the exact buyer.

@@ -43,6 +43,27 @@ personal, and vary in shape. Match the caption to the video, not to a template.
 - **Still em-dash-free**, and still run `scripts/voice-lint.py` before it ships. Personality is not a licence
   for AI tells — it's the opposite of them.
 
+## ⭐ Call 3 (27 Aug): Georgia can tell it's AI — write these yourself
+
+Unprompted, on seeing the drafts: *"When you do send me it, every time, I can kind of tell that it is slightly
+AI."* That's the whole voice apparatus failing its one job. Her fix, and it's now the standard:
+
+- **Open the notes app and write it in Fraser's voice first.** *"Just like you're texting a friend."*
+- **Speech-to-text is the shortcut** — Fraser already does this elsewhere and says it genuinely sounds like
+  him. Talk it out, then tidy. That beats prompting for a draft and editing the AI-ness back out.
+- **Her argument on effort:** *"By the time we've told Claude what our experience was and what actually
+  happened, it's taken more effort. If you're already writing a story, you might as well just write it
+  yourself if you have it fresh in your mind."* For **story / personal content this is right** — the input
+  cost is the same as just writing it.
+- **Where AI still earns its place:** research, structure, hook variations, analysing what's worked, cutting
+  a long draft down. **Not** first-person story prose. Anything Fraser lived, Fraser types.
+- Then still run `scripts/voice-lint.py` and check `ai-writing-tells.md`.
+
+**Also from call 3 — the Micro mode is validated, use it more.** Fraser noticed that on strong talking heads
+other people's captions are *"literally just the CTA"*, and Georgia confirmed: **when the message on screen is
+strong and compelling, the CTA is the whole caption.** And when a caption does carry value, it's **1–2 lines
+per point**, not 2–3 sentences (see `instagram-playbook.md` call-3 caption correction).
+
 ## Anti-pattern (what we were overdoing)
 
 Every caption opening "Save this before X 👇", followed by a tidy 5-point numbered list, each point one clean
