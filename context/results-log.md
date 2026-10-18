@@ -450,7 +450,327 @@ heads on early view counts.
 **Open at the end of the call:** Georgia is rewriting the "5 hooks" hook and sending a vulnerability-post
 example and her ManyChat flow.
 
-## Patterns forming (n=17 — hold loosely; trial reels vs talking heads are separate scoreboards)
+
+## ⚠️ Numbering note — two reel logs merged here
+
+From Reel 017 on, this file holds two separately-numbered logs that were kept on different branches:
+- **Trial-reel log** (Batch 14 onward, reels 017–042): cold trial reels, Aug 17 – Sep 5.
+- **Main-feed log** (Reel 017 Grüns above, and the 2026-09-16 insights pull further down, reels 016–027 + carousels).
+
+Same number ≠ same post. Known overlap: **trial Reel 041 = main-feed Reel 022** (the 7k "5 hooks drove the most sales" reel, graduated trial → feed).
+When you cite a reel, say which log (e.g. "trial 024" vs "feed 024").
+
+---
+
+# BATCH 14 — Georgia's 3 hook FAMILIES, Day 1 (3 reels, same day, same camera-in-hands POV frame)
+
+All three used the **same B-roll**: POV holding the Canon C50 in the studio (tight, hands + camera fill frame). Same footage, fresh export each. Only the hook family + caption changed. This is as clean a family A/B/C as we've run.
+
+### Reel 017 — F1 Contrarian expertise — "The first thing I fix in a losing ad isn't the creative."
+
+**Metrics:** Views 1,483 · Viewers 1,048 · Watch 6s · **Follows 0**
+- **Skip 32.7% (Lower)** · Share 0.0% (Typical) · Like 0.7% (Lower) · **Save 0.4% (Lower) ≈ 4 saves** · Comment 0
+
+**Read:** Biggest reach of any trial reel to date (beats the old 1,139 and reel 014's 870). Skip 32.7% sits in the winning band. Save *rate* reads "Lower" but that's the big-reach denominator — **absolute saves ≈ 4, which ties the all-time best**, just spread over ~1.7x the audience. So: new reach high, saves held at ceiling. Solid all-rounder. No follows.
+
+### Reel 018 — F2 Competitive gap / FOMO — "Your competitor launched 40 ads last month. You launched 4."
+
+**Metrics:** Views 1,293 · Viewers 878 · Watch 5s · **Follows 2** ⭐
+- Skip 39.8% (Lower) · **Share 0.1% (Higher)** · Like 0.3% (Lower) · **Save 0.0% (Lower) = 0 saves** · Comment 0
+
+**Read:** **FIRST MEANINGFUL FOLLOWS IN THE LOG (2).** Follows have been stuck at 0 across nearly every trial reel; the FOMO/competitive family is the first to move them, plus a green share. But it earned **zero saves** — the "you're behind" callout drives *follow to keep up*, not *save to reference*. Higher skip (39.8%) and lowest watch (5s): people got the point fast, then followed or left. n=2 on follows, hold loosely — but it's a real lead on the follows problem.
+
+### Reel 019 — F3 Pattern recognition / authority — "I analysed 500 winning ads and noticed the same 5-second pattern." ⭐ BEST YET
+
+**Metrics:** Views 1,715 · Viewers 1,095 · Watch 6s · Follows 0
+- Skip 35.0% (Lower) · **Share 0.1% (Higher)** · Like 0.6% (Lower) · **Save 1.3% (Higher) ≈ 14 saves** 🔥 · Comment 0
+
+**Read:** **Best reach AND best saves in the entire log.** ~14 saves is a **3.5x jump on the previous all-time best (~4)** — and it came with the highest reach (1,715), not at the expense of it. The "I analysed X → here's the exact second-by-second pattern" hook + a genuinely tactical numbered template is the most save-worthy thing we've posted. This is the fusion working: authority hook (reach) + steal-this template (saves). No follows.
+
+### Day 1 verdict — the families do DIFFERENT JOBS (the map we've been chasing)
+
+| Reel | Family | Reach | Skip | Saves | Follows |
+|---|---|---|---|---|---|
+| 017 | F1 Contrarian | 1,483 | 32.7% | ~4 | 0 |
+| 018 | F2 Competitive/FOMO | 1,293 | 39.8% | 0 | **2** |
+| 019 | F3 Pattern/authority | **1,715** | 35.0% | **~14** | 0 |
+
+1. **Reach is now reliable, not a fluke.** All three cleared 1,000+ views on the same camera-in-hands POV frame. The floor has moved up — this frame + these hook families = a dependable reach engine.
+2. **F3 (pattern/authority + concrete numbered template) = the SAVE machine.** Tactical density drives saves. Make more of these when saves are the goal.
+3. **F2 (competitive/FOMO) = the FOLLOW machine.** Emotional/identity pressure drives follows, not saves. Use it when the goal is followers.
+4. **F1 (contrarian process) = balanced all-rounder** — strong reach, best-ever-tier saves, low skip.
+5. **Match family to intent:** saves → F3 (then F1); follows → F2. Confirms the "two hook jobs" hypothesis from the patterns below, now with a third family in the map.
+
+---
+
+# BATCH 14 — Day 2 (same 3 families, fresh angles) — SAME C50 footage, 6th+ outing → REACH COLLAPSE
+
+Same camera-in-hands C50 POV footage as Day 1. New angles within each family. **Reach cratered across all three** despite the frame that carried Day 1.
+
+### Reel 020 — F1 Contrarian — "Most brands think they have a targeting problem. They don't."
+
+**Metrics:** Views 263 · Viewers 181 · Watch 5s · Follows 1
+- **Skip 47.3% (Higher)** · Share 0 · Like 0.5% (Lower) · Save 0 · Comment 0
+
+**Read:** Big drop from Day 1 F1 (1,483). First "Higher" skip. "Targeting" is narrower/jargonier than "a losing ad" — weaker angle within the family — but see the batch-level footage read below.
+
+### Reel 021 — F2 Competitive/FOMO — "Your competitor is using AI to test 100 ads a week. Here's how."
+
+**Metrics:** Views 286 · Viewers 202 · Watch 5s · **Follows 0**
+- **Skip 40.6% (Higher)** · Share 0 · Like 0 · Save 0.5% (Lower) · Comment 0
+
+**Read:** Day 1's F2 was the follow winner (2). This got 0. AI angle didn't drive the FOMO-follow the volume angle did — and again, throttled reach.
+
+### Reel 022 — F3 Pattern/authority — "Every ad that scaled this year did the same boring thing." ⭐ THE DIAGNOSTIC
+
+**Metrics:** Views 469 · Viewers 389 · **Watch 7s (best of batch)** · Follows 0
+- **Skip 34.3% (Lower — best of Day 2)** · Share 0 · Like 0 · Save 0 · Comment 0
+
+**Read:** THE KEY DATA POINT. Skip was great (34.3%) and watch was best of batch (7s) — the hook *stopped and held* people. But **shares 0, saves 0.** On a trial reel, the initial stop earns the seed pool; **expansion past it is earned by shares/saves** (IG lists share rate as the #2 reach factor after skip). 0 shares/saves = no expansion = capped at 469. The reel stopped people but didn't compel them to *act*, so it never widened.
+
+### Day 2 verdict — CORRECTED: it's the angles' share/save-worthiness, NOT footage
+
+⚠️ **Correction (Fraser flagged this):** an earlier version of this entry blamed "footage fatigue." That's a **main-feed** concept and does NOT apply to trial reels. Every trial reel is an independent cold test to fresh non-followers; reusing the C50 clip across separate trial reels carries no cumulative penalty, and Day 1 proved that exact clip can do 1k+. The footage was never the problem.
+
+| Reel | Family | Day 1 reach | Day 1 shares | Day 2 reach | Day 2 shares |
+|---|---|---|---|---|---|
+| F1 | Contrarian | 1,483 | 0 | 263 | 0 |
+| F2 | Competitive/FOMO | 1,293 | 0.1% ↑ | 286 | 0 |
+| F3 | Pattern/authority | 1,715 | 0.1% ↑ | **469** | **0** |
+
+1. **Reach is earned by shares/saves, and Day 2 earned neither.** Consistent with the established trial-reel loop (see reel 009/176: reach is earned by retention + engagement, not capped by follower count). Day 1 reels carried green shares/saves and expanded to 1k+. Every Day 2 reel had 0 shares and 0 saves and stayed sub-500. Skip got the stop; shares/saves get the spread. This is the mechanism, not the clip.
+2. **So it's the ANGLES.** Day 2's angles (targeting, AI how-to, "boring thing" mindset list) were less shareable/saveable than Day 1's ("40 vs 4", the ugly-truth callout, and the save-bait second-by-second template that pulled ~14 saves). Same families, weaker *angles* within them → no share/save signal → no expansion. Within-angle share/save-worthiness is the real lever.
+3. **Day 2 engagement metrics are otherwise unreliable** — tiny denominators (181–389). Day 1's family→job map (F3=saves, F2=follows) is NOT disproven; the weak angles just never earned reach for it to express.
+4. **Possible secondary confound: audio.** Day 2 audios (Pink Floyd, Hans Zimmer) likely weren't trending (↑). Non-trending audio can cap the initial push. Enforce trending audio.
+5. **ACTION: engineer the share/save, not the footage.** Write angles people *act* on — a saveable reference (numbered template) or a shareable truth (send-this-to-your-marketer). Footage variety is fine and healthy, but it is NOT the fix and there is no "rotate every 3 posts" rule for trial reels.
+
+---
+
+# BATCH 15 — Day 3 (reels 023-025) — BEST BATCH EVER. Fresh workbench footage + sharper angles.
+
+New footage: messy garage workbench, hands assembling a cinema camera with a red-handled tool. Busy, authentic, "ugly," and (for 023) congruent with the message. Tight/arresting first frame. Trending audio. This batch fixed the Day 2 collapse and set records across the board.
+
+### Reel 023 — F3 Pattern/authority — "I studied 1,000 ads this year. The best performers were the ugliest."
+
+**Metrics:** Views 1,471 · Viewers 1,100 · **Watch 9s** · Follows 0
+- **Skip 24.4% (Lower)** · Share 0.1% (Higher) · **Like 2.2% (Higher)** · **Save 0.5% (Higher)** · Comment 0
+
+**Read:** First reel with the FULL engagement set green (share + like + save). Reach roared back to 1,471 from Day 2's sub-500. The "ugly ads win" reference-checklist is saveable, and the scrappy footage literally matched the message. Records at the time for skip and watch (both beaten later same day).
+
+### Reel 024 — F2 Competitive/FOMO — "Your competitor's worst ad is still beating your best one." ⭐ REACH RECORD
+
+**Metrics:** Views **2,318** · Viewers 1,657 · **Watch 9s** · Follows 0
+- **Skip 26.9% (Lower)** · Share Typical · **Like 1.0% (Higher)** · Save Lower · Comment 0
+
+**Read:** BIGGEST REACH IN THE LOG (2,318). Near-record skip + green likes carried it even though shares/saves weren't green. Confirms **skip is the dominant reach lever; one green engagement signal amplifies.** NB: F2 got 0 follows here — the Day-1 "F2 = follows" (n=2) was noise, now debunked.
+
+### Reel 025 — F1 Contrarian — "The first thing I do with a winning ad isn't scale it." ⭐ SKIP + WATCH RECORD
+
+**Metrics:** Views 2,068 · Viewers 1,485 · **Watch 10s (record)** · Follows 0
+- **Skip 21.5% (Lower — RECORD)** · Share 0.1% (Higher) · **Like 0.9% (Higher)** · Save Lower · Comment 0
+
+**Read:** Lowest skip (21.5%) and longest watch (10s) ever recorded. The proven "first thing I do isn't X" F1 shape + arresting fresh footage = elite stop and hold. Green share + like.
+
+### Day 3 verdict — the reach/retention machine is SOLVED; conversion is the whole remaining problem
+
+| Reel | Family | Reach | Skip | Watch | Like | Save | Follows | Comments |
+|---|---|---|---|---|---|---|---|---|
+| 023 | F3 | 1,471 | 24.4% | 9s | 2.2%↑ | 0.5%↑ | 0 | 0 |
+| 024 | F2 | **2,318** | 26.9% | 9s | 1.0%↑ | Lower | 0 | 0 |
+| 025 | F1 | 2,068 | **21.5%** | **10s** | 0.9%↑ | Lower | 0 | 0 |
+
+1. **Skip is the reach engine, and Day 3 hit record skips (21–27%).** Vs Day 2's 34–47%. Sharper, more relatable angles ("ugliest won", "worst beats your best", "don't scale a winner") + fresh arresting workbench footage = a whole tier better stop → a whole tier more reach. This decisively confirms the corrected model over footage-fatigue.
+2. **Watch times are records too (9–10s).** The save-worthy 5-point captions are holding people to the end. Stop AND hold, both solved.
+3. **Engagement amplifies reach; likes are now reliably green.** Shares green on 2 of 3. Saves green only on 023 (the reference-checklist) — saveable *format* drives saves, not family label.
+4. **⚠️ THE UNSOLVED PROBLEM (now glaring): Follows 0, Comments 0 across ~5,900 reach in one day.** Record reach + record retention + green engagement, and still zero follows and zero comments/lead-magnet actions. Reach and retention are done. **The entire remaining lever is CONVERSION: the HOOKS CTA (comments) and the profile (follows).** Next experiment must target those, NOT the hook/footage/reach — those are working.
+5. **Fresh footage helped, but the takeaway is "arresting first frame", not "rotate footage".** The workbench clip stopped harder than the C50 clip because it's busier/more intriguing (and congruent), not because the C50 was "used up". Pick the most arresting first frame; congruence with the hook is a bonus.
+
+---
+
+# BATCH 17 — Day 6 (reels 029-031) — CONVERSION TEST: 3 CTAs. Verdict: CTA is NOT the follows lever.
+
+Proven reach formula held (workbench footage, sharp angle, 5-point caption). Only the CTA changed, one per reel.
+
+### Reel 029 — F2 agency-callout — CTA-D share driver ("send this to whoever runs your ads")
+
+**Metrics:** Views 2,269 · Viewers 1,709 · Watch 8s · Follows 1
+- Skip 32.8% (Lower) · **Share 0.0% (Lower)** · Like 0.7% (Lower) · Save 0.2% (Lower) · Comment 0
+
+**Read:** Biggest reach of the day but WORST engagement. The "send this to..." share ask did NOT lift shares (0.0%, Lower). Agency-callout is a narrower topic (only lands for people who have an agency), so the broad cold pool didn't act. Share-ask CTA = failed.
+
+### Reel 030 — F1 "Fight me" — CTA-E debate prompt ("agree or disagree?")
+
+**Metrics:** Views 1,432 · Viewers 1,048 · Watch 8s · Follows 0
+- Skip 28.6% (Lower) · Share 0.0% (Typical) · Like 1.0% (Lower) · Save 0.0% (Lower) · **Comment 0.1% (Higher) ⭐**
+
+**Read:** FIRST green comment rate in ~28 reels (≈1 comment). Tiny, but the debate/"fight me" prompt is the ONLY CTA that has ever moved comments. Opinion beats keyword for comments. Worth more reps.
+
+### Reel 031 — F3 audit-100 — CTA-F series follow-hook ("1 of 5 this week, follow for the rest")
+
+**Metrics:** Views 1,391 · Viewers 1,105 · Watch 7s · **Follows 0**
+- Skip 28.5% (Lower) · **Share 0.1% (Higher)** · Like 0.5% (Lower) · **Save 0.6% (Higher)** · Comment 0.0% (Lower)
+
+**Read:** The series follow-hook got 0 follows. But the reel earned green saves + shares — the F3 reference-checklist ("5 mistakes, check your account") keeps reliably driving saves. Content worked; the follow CTA didn't.
+
+### Day 6 verdict — CTA is NOT the conversion lever. Follows are won on the PROFILE, not the caption.
+
+| Reel | CTA tested | Target signal | Result |
+|---|---|---|---|
+| 029 | share ("send to...") | shares | 0.0% shares (Lower) ❌ |
+| 030 | debate ("fight me") | comments | 0.1% comments (Higher) ⭐ weak win |
+| 031 | series ("1 of 5, follow") | follows | 0 follows ❌ |
+
+1. **You cannot caption your way to follows on a cold trial reel.** Three deliberate CTAs, follows across the day = **1 total on ~4,900 reach.** The explicit follow-hook got zero. This is now well-evidenced across ~30 reels: the CTA wording is NOT the follows bottleneck.
+2. **Follows happen on the profile, not in the caption.** A cold viewer who likes a reel taps the profile before following. If they don't follow, the profile isn't converting them. **Next work = profile optimisation** (bio, pinned "start here" reels, what the feed looks like), not more CTA rewrites.
+3. **Reframe the trial-reel scoreboard.** Trial reels reliably deliver reach + retention but almost never follows, regardless of CTA. Their real job is **finding winning content.** The winners (023 full-green, 024 reach record, 025 skip record) should be **republished to the main grid / used as ads**, where follows and comments actually accrue over time with a warmer audience. Stop judging trial reels on follows.
+4. **Weak positives to keep:** debate/"fight me" is the best comment lever we've found (keep testing it); the F3 numbered self-checklist is the reliable save driver.
+5. **Reach machine still humming** — all three 1,391-2,269 reach, skip 28-33% (all Lower), regardless of CTA. The CTA never hurt reach; it just didn't fix conversion.
+
+---
+
+# BATCH 18 — Day 7 (reels 032-034) — MAX VIEWS + CLICKS. First-frame = skip lever confirmed again. New reach record.
+
+Two footage types this day (accidental natural test): TIGHT workbench (7.1) vs WIDE/open warehouse (7.2, 7.3, subject smaller, boxes + empty floor in frame). Same caption quality, same day. The first frame drove skip and reach.
+
+### Reel 032 — F1 "The first thing I write in an ad isn't the hook." — TIGHT workbench footage ⭐ REACH RECORD
+
+**Metrics:** Views **2,647** · Viewers 2,070 · Watch 8s · Follows 1
+- **Skip 31.6% (Lower)** · **Share 0.2% (Higher)** · Like 1.0% (Lower) · Save 0.1% (Lower) · Comment 0
+
+**Read:** NEW REACH RECORD (2,647, beats 024's 2,318). Tight workbench first frame → low skip → record reach. HOOKS CTA drove 0 comments again.
+
+### Reel 033 — F2 "Your competitor's ads are boring. That's why they win." — WIDE warehouse footage
+
+**Metrics:** Views 1,587 · Viewers 1,054 · Watch 5s · Follows 0
+- **Skip 36.4% (Higher)** · Share 0.1% (Higher) · Like 0.6% (Lower) · Save 0.2% (Lower) · Comment 0
+
+**Read:** Wide/open first frame → skip jumps to Higher → reach ~1k lower than 7.1. Same day, same caption bar. Footage is the difference.
+
+### Reel 034 — F3 "I ranked my 10 best-performing ads ever. They all opened the same way." — WIDE warehouse footage
+
+**Metrics:** Views 1,731 · Viewers 1,053 · Watch 6s · **Follows 3 (best single-reel follows in the log)**
+- **Skip 38.1% (Higher)** · Share 0.0% (Lower) · **Like 1.4% (Higher)** · Save 0.5% (Lower) · **Comment 0.2% (Higher)**
+
+**Read:** Worst skip of the day (wide footage) BUT the most follows (3) and green comments + likes. The authority/credential angle ("my 10 best ads ever") pulled follows + comments from the engaged sub-set even though the wide frame hurt the initial stop. Skip/reach (footage-driven) and follows (angle-driven) diverged here.
+
+### Day 7 verdict — views goal hit (record); the first-frame rule is now bulletproof
+
+| Reel | First frame | Skip | Reach | Follows | Comments |
+|---|---|---|---|---|---|
+| 032 F1 | **tight workbench** | 31.6% (Lower) | **2,647** | 1 | 0 |
+| 033 F2 | wide warehouse | 36.4% (Higher) | 1,587 | 0 | 0 |
+| 034 F3 | wide warehouse | 38.1% (Higher) | 1,731 | **3** | 0.2%↑ |
+
+1. **First frame is THE skip/reach lever — cleanest proof yet.** Same day, same caption standard: the tight workbench reel skipped Lower (31.6%) and set a reach record (2,647); the two wide/open warehouse reels skipped Higher (36-38%) and lost ~1,000 reach each. **Rule: keep the first frame TIGHT and busy, subject filling the frame. Avoid wide/open shots with empty floor and a small subject.** (Consistent with reel 008's old wide-shot finding.)
+2. **Best follow day yet: 4 follows across the 3** (034=3, 032=1). And 034 got green comments. Both came off the **F3 authority/credential angle** ("I ranked my 10 best ads ever"). Tentative (n small): authority-flex angles pull follows + comments from the engaged sub-set, somewhat independent of skip. Worth testing on TIGHT footage to get both reach AND follows.
+3. **Views goal: hit (record 2,647).** Clicks/comments still weak on the HOOKS keyword (032, 033 = 0 comments). The only green comments this day came from the authority angle (034), not the keyword. Keyword still isn't the comment driver; the angle is.
+4. **Next move for views+clicks:** tight workbench first frame (for reach) + F3 authority/credential angle (for the follow/comment bump). That combo hasn't been run together yet — 032 had the frame, 034 had the angle. Pair them.
+
+---
+
+# BATCH 19 — Day 8 (reels 035-037) — THE COMBO (tight frame + F3 authority). Result: great engagement, NOT record reach. Trade-off surfaces.
+
+All three: tight workbench first frame + F3 authority/credential angle. Held the reach frame AND the follow angle together for the first time.
+
+### Reel 035 — F3 "I've made 10,000 ads. If I started over, I'd only use these 5 hooks." ⭐ BEST ENGAGEMENT SET YET
+
+**Metrics:** Views 1,521 · Viewers 1,154 · Watch 8s · **Follows 2**
+- Skip 34.0% (Lower) · **Share 0.8% (Higher)** · **Like 1.6% (Higher)** · **Save 1.1% (Higher)** · Comment 0
+
+**Read:** Full green engagement set (share 0.8% is a record share rate, like 1.6%, save 1.1%) + 2 follows. The credential+reset angle is the best all-round *engagement* reel in the log. But reach was mid (1,521), not record.
+
+### Reel 036 — F3 "I studied the highest-spending ads of the last 3 years. They open 1 of 5 ways."
+
+**Metrics:** Views 1,744 · Viewers 1,305 · Watch 8s · Follows 0
+- Skip 30.9% (Lower) · Share 0.2% (Higher) · Like 0.8% (Lower) · Save 0.4% (Lower) · Repost 0.1% (Higher) · Comment 0
+
+**Read:** Best skip of the day (30.9%) and highest reach of the day (1,744), but only share/repost green, 0 follows. Solid, not spectacular.
+
+### Reel 037 — F3 "I've reviewed thousands of ad hooks. These 5 mistakes kill most of them."
+
+**Metrics:** Views 960 · Viewers 721 · Watch 7s · Follows 1
+- Skip 31.1% (Lower) · Share 0.0% (Lower) · Like 0.7% (Lower) · Save 0.4% (Lower) · Comment 0
+
+**Read:** Good skip (31.1%) but lowest reach of the day (960) — because share/saves were 0/Lower, so no expansion. Another clean example: good stop, no engagement, no spread.
+
+### Day 8 verdict — the frame worked, but a HOOK-TYPE TRADE-OFF is now clear
+
+| Reel | Skip | Reach | Follows | Engagement |
+|---|---|---|---|---|
+| 035 | 34.0% | 1,521 | 2 | full green ⭐ |
+| 036 | 30.9% | 1,744 | 0 | share/repost green |
+| 037 | 31.1% | 960 | 1 | all Lower |
+
+1. **Tight frame delivered low skip again (30.9-34.0%, all Lower)** — the frame rule holds. But reach stayed mid (960-1,744), NOT the 2,647 record. So a good frame + good skip did NOT guarantee record reach this day.
+2. **Reach tracked ENGAGEMENT more than skip within the day.** 037 had a great skip (31.1%) but 960 reach because shares/saves were 0. 035/036 had green shares → higher reach. Confirms again: skip earns the seed, shares/saves earn the spread. Need BOTH for 2k+.
+3. **THE HOOK-TYPE TRADE-OFF (now repeated across days, higher confidence):**
+   - **Contrarian / curiosity / FOMO hooks (F1/F2)** = the REACH champions. Every reach record is one: 032 F1 (2,647), 024 F2 (2,318), 025 F1 (2,068). They stop the broadest cold pool.
+   - **Authority / credential / pattern hooks (F3)** = the ENGAGEMENT champions. Best saves (019 ~14, 035 full green), best follow reels (034, 035). They convert the engaged sub-set but don't top reach.
+   - You likely can't max BOTH in one reel. The hook TYPE trades reach for engagement/follows.
+4. **Best-engagement reel ever = 035** (full green + 2 follows) — the "if I started over, these 5 hooks" credential+reset angle. Bank that angle for save/follow goals.
+5. **Comments still 0 on all three** (HOOKS keyword). Keyword still not the comment lever; only debate (030) and one authority reel (034) have ever moved comments.
+
+**Strategic takeaway for views + clicks:** stop trying to force both into every reel. MIX the week — F1/F2 contrarian/FOMO hooks on the days you want max VIEWS; F3 authority hooks on the days you want SAVES/FOLLOWS. The combo (Day 8) is a fine balanced all-rounder (good reach + best engagement), but the pure-reach ceiling belongs to F1/F2.
+
+---
+
+# 🏆 HOOK-TEXT ROTATION TEST — new method, and a RECORD that breaks the trade-off
+
+New method (Fraser): lock the WINNING footage (POV of the gear/workbench) + lock ONE short caption, then change ONLY the on-screen hook text. Rotate many hook-text variants over the identical reel. Cleanest possible isolation of the hook line, and cheap to run.
+
+### Hook-text variants tested (all same footage + same short caption)
+- These 5 hooks drove the most purchases across 10,000+ ads
+- These 5 hooks generated the highest CTR across 10,000+ ads
+- These 5 hooks brought in the cheapest customers across 10,000+ ads
+- I've analysed 10,000 ads. These 5 hooks drove the most sales. ← WINNER
+- I've analysed 10,000 ads. These 5 hooks got the most clicks.
+- I've analysed 10,000 ads. These 5 hooks drove the most purchases.
+- I've analysed 10,000 ads. These 5 hooks delivered the lowest CPA.
+- I've analysed 10,000 ads. These 5 hooks got the highest CTR.
+- I've analysed 10,000 ads. These 5 hooks generated the most revenue.
+- I've analysed 10,000 ads. These 5 hooks turned viewers into buyers.
+
+### Reel 041 — WINNER — "I've analysed 10,000 ads. These 5 hooks drove the most sales." 🏆 BEST REEL EVER
+
+*(Same post as main-feed **Reel 022** below — it graduated to the feed. Full ~2.5-week insights there: 7,046 views, 68 saves.)*
+
+**Metrics:** Views **5,948** (2.2x the old record of 2,647) · Viewers 4,458 · Watch 8s · **Follows 4**
+- **Skip 34.1% (Lower)** · **Share 0.2% (Higher)** · Like 0.9% (Lower) · **Save 1.2% (Higher)** · **Comment 0.3% (Higher)**
+
+**Short caption used (this is the new standard for trial reels):**
+> I've written more ad hooks than I can count. These 5 never stop performing:
+> 1. The callout: "[Exact person], you're making this mistake."
+> 2. The number: "I analysed 500 ads and found one pattern."
+> 3. The contrarian: "Everyone says X. It's wrong."
+> 4. The confession: "The mistake that cost me thousands."
+> 5. The reveal: "The one thing every winning ad does."
+> Notice they all open on the viewer, never the product. That's the whole reason they work.
+> Comment 'HOOKS' and i'll send you a full list of killer hooks
+
+### What this test proved
+
+1. **NEW RECORD by a mile: 5,948 views (2.2x the previous best), AND green saves + shares + comments + 4 follows.** First reel ever to win on reach AND engagement AND follows at once. The "reach vs engagement" trade-off is NOT a hard law — the right hook + short caption can do both.
+2. **SHORT captions win.** The record used the concise ~70-word caption, not the long 5-point listicle. Confirms the shorten directive with the best result in the log. Trial-reel captions should be short from now on.
+3. **The method is the unlock: lock winning footage + lock caption, rotate ONLY the hook text.** Cleanest isolation of the single highest-leverage variable, and cheap. This is how we should test from now on.
+4. **Plain outcome language beats jargon.** "drove the most sales" won over CTR, CPA, clicks, revenue, "cheapest customers." On a cold audience, the universally-understood outcome (SALES) out-pulls metric jargon. Lead with the outcome everyone wants, not the acronym.
+5. **"I've analysed 10,000 ads. These 5 hooks drove the most [outcome]." is now a proven template.** Authority (10,000 ads) + specific desirable outcome + the "5 hooks" reveal. Bank it and rotate the outcome word (sales > purchases > revenue > CTR/CPA).
+6b. **PROOF-FIRST beat proof-last (teardown of reel 041).** The winner led "I've analysed 10,000 ads..." THEN the claim; the variants it beat buried the proof at the end ("These 5 hooks... across 10,000 ads"). Front-loading credibility is a real lever - and confirms "lead with social proof." The full winning formula = [proof first] + [enumerated finite "these N"] + [plain high-value outcome, e.g. SALES not CTR] + [open loop]. Losing variants each dropped one ingredient. Build hooks (any format) that keep ALL four. See batch 26 teardown.
+6. **RESULTS/PROOF baked into the hook text is a lever (Fraser's read).** The winner carried a concrete result ("drove the most sales") and a proof number ("10,000 ads"). Hooks with a tangible outcome + number beat vaguer claims. Next test: push harder on real, specific results in the hook (£ figures, multiples, 7-figure) - only ones Fraser can actually stand behind.
+
+---
+
+# Reel 042 — YAPPER topic + new lead magnet (Yapper Framework, keyword YAP)
+
+New topic/offer: promoting the Yapper Framework download instead of HOOKS.
+**Hook:** "Yapper ads are responsible for 90% of our winning ads. Here's why." · footage: tight POV gear (workbench/warehouse) · caption short + "Comment YAP for my framework."
+
+**Metrics:** ~1,600 views · comments coming in (people commenting "Yap") - the YAP keyword CTA is pulling.
+
+**Read:** Yapper topic + framework offer works out of the gate (~1,600 on a fresh topic/keyword). YAP is the live keyword (not YAPPER). Iterate the same way as the "5 hooks" winner: lock footage + caption, rotate on-screen hook (batch 29). Every variant keeps yapper/yap/yapping + "ads" + proven levers. NOTE: make sure YAP -> framework delivery is wired (ManyChat/DM) so the leads don't leak.
+
+---
+
+## Patterns forming (n=35 trial + main-feed pull below — hold loosely; trial reels vs talking heads are separate scoreboards)
 
 1. **Two hook jobs, both valid — match to intent:**
    - *Identity/mirror hooks* ("your agency…", "you're paying…") → **max cold reach + stop** (Reel 001). Best for top-of-funnel awareness.
@@ -459,7 +779,7 @@ example and her ManyChat flow.
 2. **Saveable framework content converts to follows/saves; hot takes get reach but 0 saves.** Make more frameworks — they're what grows the *right* audience.
 3. **Personal-story hooks ("my biggest mistake") underperform cold** (Reel 002) — save them for the feed / post-follow.
 4. **Comment-keyword CTA works — always include it on saveable reels** (and deliver the freebie!).
-5. **Follows are coming now (1 so far)** — the profile is converting *some*. Still set it up properly to lift the rate.
+5. **Follows are coming now** — after a long run of 0, trial Reel 018 (F2 competitive/FOMO) got 2. **The FOMO family is the follows lever.** Still set the profile up properly to lift the rate.
 6. **Check audio is trending (↑)** — likely behind Reel 002's low reach.
 7. **DTC-brand teardowns out-share the hot-take talking head** (Reel 017 vs 016): first talking head to earn shares + reposts, best comment count, biggest reach — while holding the same ~1.1% save rate. A teardown is *useful to forward*; a hot take is not. Make more real-brand teardowns for the main feed.
 8. **Talking heads compound (call 3).** Each new talking head lifts the older ones — so early sub-1K
@@ -469,6 +789,10 @@ example and her ManyChat flow.
    likes but almost no comments. Reach improved; the engagement that snowballs it hasn't. Next lever: hooks
    that name a result + a comment-keyword people actually want (a doc, not a YouTube link).
 10. **Specific + contrarian on-screen text beats vague-curiosity TOS** (Reel 017 ran "GRÜNS is doing what 90% of wellness brands get wrong" over the drafted "everyone missed why this works"). Name the brand + a hard claim in the TOS.
+11. **Family = job (Batch 14, Day 1, n=3):** F3 pattern/authority + numbered template → **saves** (new record ~14). F2 competitive/FOMO → **follows** (first 2). F1 contrarian → balanced. Pick the family by the metric you're chasing.
+12. **Camera-in-hands POV (C50) is a strong reach frame** — three 1,000+ reels on Day 1. Day 2's sub-500 on the same clip was NOT footage fatigue (trial reels are independent cold tests; no cumulative clip penalty). The frame still works; reuse it freely. Footage variety is nice-to-have, not a reach lever.
+13. **Diagnostic rule (trial Reel 022):** if skip is Lower and watch is high but reach is still low, the hook is fine — the reel just didn't earn the **shares/saves** that drive trial-reel expansion. Fix: make the payoff more shareable/saveable (and check audio is trending ↑). Don't rewrite a hook that's clearly stopping people.
+14. **Reach = skip (stop) × shares/saves (spread).** Skip earns the seed pool; shares/saves earn expansion beyond it (IG's own order: skip #1, share #2). A reel needs both. Day 2 had the first, missed the second, and stalled.
 
 ---
 
@@ -492,7 +816,7 @@ example and her ManyChat flow.
 
 ---
 
-## Public pull of the main feed, 2026-08-22 to 2026-09-15 (logged by Runneth 2026-09-16 from public data; NOT in the GitHub repo)
+## Public pull of the main feed, 2026-08-22 to 2026-09-15 (logged by Runneth 2026-09-16 from public data)
 
 Source: public post data (views = Instagram's public play count, likes, comments). No reach, saves, shares or follower split; Fraser's insights needed for those. Main-feed posts only; trial reels are not public.
 
@@ -720,6 +1044,7 @@ Curve: fast first day to ~750, then a slow shallow shelf. Less tail than 016.
 
 ## Reel 022 — the 7k "5 hooks" reel, full insights (Aug 29, 14s). Insights from Fraser 2026-09-16 (~2.5 weeks). https://www.instagram.com/reel/Dcnp9eNI8b1/
 
+- *(Same post as **trial Reel 041** above — early trial-stage numbers + the hook-rotation test live there.)*
 - **Process note from Fraser:** "started as a trial reel and then we posted it to the feed when it had done well." The trial-to-feed graduation is confirmed as a live mechanic, and this is the account's proof case.
 - **Content:** POV gear-table frame, TOS "I've analysed 10,000 ads. These 5 hooks drove the most sales.", 5 numbered hooks, HOOKS keyword.
 

@@ -10,7 +10,7 @@ shared brain — the more that lives here, the sharper and more on-voice the con
 ## ⚠️ One brain, one branch (read first)
 
 This repo IS the memory — nothing carries between Claude sessions except what's committed here.
-So the whole brain must live on **one branch: the repo default** (`instagram-content-context`).
+So the whole brain must live on **one branch: the repo default** (`claude/instagram-content-context-tp1gwf`).
 History fragmented once (call-2 notes landed on a different branch than the talking-head work, and a
 later session couldn't see them). To stop it happening again:
 
@@ -43,7 +43,7 @@ later session couldn't see them). To stop it happening again:
 ## Hooks
 
 - **[hooks/LEDGER.md](hooks/LEDGER.md)** — every hook handed to Fraser (2026-09-16 → 2026-10-04) with status + result, the MISS 1-8 rejection rules, findings already given (don't restate), and the tested-won / tested-lost / untested angle map. **Check it before writing any new hooks.**
-- `hooks/YYYY-MM-DD-*.md` — individual hook batches
+- `hooks/YYYY-MM-DD-*.md` — individual hook batches. **Numbering is separate from `posts/batch-NN-*.md`** (hooks batch 15/16 ≠ posts batch 15/16) — always cite by filename.
 
 ## Anti-AI-slop check
 
