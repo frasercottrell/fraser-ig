@@ -1,6 +1,6 @@
 # Carousel 06. "Your video editor isn't going to like this" (Pillar 2, AI)
 
-**Status:** 🟡 DRAFT, not posted. Hook reworked, awaiting Fraser's pass.
+**Status:** 🟢 FINAL, slides rendered (`carousel-studio/decks/claude-video-editing.txt`). Not posted. EDIT brief still to build.
 **Hook family:** identity mirror ("your ..."), the best stop on the account (35.1% skip).
 **Judge on:** saves and follows.
 

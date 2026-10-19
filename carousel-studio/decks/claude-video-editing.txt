@@ -1,0 +1,45 @@
+// Carousel 06. Final copy from posts/carousel-06-claude-video-editing.md
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+## Your video editor isn't going to like this...
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# Claude can now edit your ads.
+# In minutes.
+# And it's _actually good._
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# 1. Point it at your footage
+Open Claude Code.
+Point it at the folder with your _footage_ in.
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# 2. Give it a brief
+Tell it what you want.
+Drop in a couple of _example ads_
+if you've got them.
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# 3. Use Opus 5.5
+I've found it's the _best one_ for editing.
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# 4. Press go
+Make a coffee.
+Come back to a _first cut._
+---
+photo: studio-shoot-clapperboard.jpg
+y: 0.27
+# 5. Tweak it in the chat
+Just tell it what to change.
+_Scary easy._
+---
+photo: studio-shoot-clapperboard.jpg
+bw: yes
+y: 0.27
+## Want my exact editing brief? Comment EDIT and I'll send it to you.
