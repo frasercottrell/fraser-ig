@@ -69,6 +69,9 @@ Every piece of content should sound like Fraser, not like a machine. Two referen
   under a finished carousel. Carousel captions are a different job from reel captions (short, frames
   and drives the swipe, never re-delivers the slides), and getting them confused is the easy mistake.
   Includes the swipe file the standard came from.
+- **[.claude/skills/carousel-designer/](.claude/skills/carousel-designer/)** — renders finished carousel
+  slides (1080×1350 PNGs) in the blue caption bubble style, from a plain-text deck + Fraser's photos.
+  The renderer is **[carousel-studio/](carousel-studio/)** (`make_carousel.py`, deck format in its README).
 
 ## To add over time
 

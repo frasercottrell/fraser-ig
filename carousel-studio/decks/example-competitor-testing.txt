@@ -1,0 +1,26 @@
+// Example deck: carousel 05 (posts/carousel-05-competitor-testing.md), typos fixed.
+// No photos yet, so every slide renders the placeholder. Add "photo: <file>" to each slide.
+// Format reference: carousel-studio/README.md
+
+## Hate to break it to you but your competitor is testing _10x_ more ads than you.
+---
+# Not because they have bigger budgets
+---
+# Or because they're working harder...
+---
+# It's because they've figured something out you _haven't_
+---
+The thing that used to limit testing was _production_.
+Every new angle meant a shoot and a week of waiting.
+---
+That cost has basically gone.
+Now they can put out _10 angles_ in the time it used to take to make one.
+---
+They're not using AI to make the ads.
+They're using it to help write the angles and pump out _net new ideas_.
+---
+So while you're still staring at a blank Google Doc, they've already tested 10 new angles.
+---
+bw: yes
+## Want my video on scripting great ads with AI?
+Comment _SCRIPT_ and I'll DM it to you.

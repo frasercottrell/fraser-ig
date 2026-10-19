@@ -748,6 +748,10 @@ Also on the final slide: the follow CTA. "Follow @frasercottrell for more from 1
 
 - **Image + basic readable text.** Lower the photo's exposure so the text reads cleanly. Legibility
   over aesthetics, always.
+- **House look (2026-10-19): the blue caption bubble style.** White bold text in `#08019D` royal-blue
+  rounded boxes, one box per line, centred, one underlined key word per block, over a darkened BTS
+  photo. B&W photo on the CTA slide. Reference: @briarcochran's "ungodly amount of creativity"
+  carousel. Rendered by `carousel-studio/make_carousel.py` (skill: `carousel-designer`).
 - **Notes-app aesthetic** is the reference. Bite-size, human, unpolished.
 - **Trending audio** — look for the ↑ arrow. Yes, on carousels too.
 - **Max 8–10 slides.** Five is a fine floor.
