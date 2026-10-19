@@ -1,6 +1,6 @@
 # Carousel 06. "Your video editor isn't going to like this" (Pillar 2, AI)
 
-**Status:** 🟢 FINAL, slides rendered (`carousel-studio/decks/claude-video-editing.txt`). Not posted. EDIT brief still to build.
+**Status:** 🟢 FINAL, slides rendered (`carousel-studio/decks/claude-video-editing.txt`). Not posted.
 **Hook family:** identity mirror ("your ..."), the best stop on the account (35.1% skip).
 **Judge on:** saves and follows.
 
@@ -28,7 +28,7 @@ it's a tool you brief and steer, not a replacement button.
 5. Use Opus 5.5. I've found it's the best one for editing.
 6. Press go. Make a coffee. Come back to a first cut.
 7. Then just tell it what to change in the chat. Scary easy.
-8. Want my exact editing brief? Comment EDIT and I'll send it to you.
+8. Want more tips like this? Drop me a follow
 
 ## What changed and why
 
