@@ -53,6 +53,10 @@ For each row, two lines under its `### N.` block:
 
 Hand over the table + reads. **Fraser marks the Pick? column. He always has the final say.**
 
+## Dead topics (Fraser's call: mark these "Fits Fraser? no" even when they outlie)
+
+- 2026-10-19: Mac Mini / always-on AI agent setups ("I thought the Mac Mini hype was dumb..."). Trend is over.
+
 ## Step 4: Picks -> trial-reel packs
 
 Before writing anything: read `hooks/LEDGER.md` (MISS 1-8, tested-won/lost map), the last few entries of
