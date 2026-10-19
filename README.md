@@ -70,6 +70,10 @@ Every piece of content should sound like Fraser, not like a machine. Two referen
   and drives the swipe, never re-delivers the slides), and getting them confused is the easy mistake.
   Includes the swipe file the standard came from.
 
+- **[.claude/skills/competitor-radar/](.claude/skills/competitor-radar/)** — the Competitor Radar: scrape the cohort
+  (`radar/cohort.json`) via Apify or HikerAPI, flag reels that beat their own creator's median (`radar/radar.py`),
+  write why-it-won reads into `radar/picklist.md`, turn Fraser's picks into trial-reel packs. Say "run the radar".
+
 ## To add over time
 
 - `posts/` — drafted and published content
