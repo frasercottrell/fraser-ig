@@ -16,6 +16,7 @@ Spec: Competitor-Radar.md (Step 3). Two ways to get data in:
 import argparse
 import json
 import os
+import re
 import statistics
 import sys
 import time
@@ -65,6 +66,12 @@ def _iso_to_epoch(ts):
         return 0
 
 
+def _is_sponsored(flag, caption):
+    """Brand partnerships are often boosted by the sponsor, so their views aren't topic proof."""
+    cap = (caption or "").lower()
+    return bool(flag) or bool(re.search(r"#\w*partner\b|#ad\b|#sponsored\b", cap))
+
+
 def normalise_apify(items):
     """apify/instagram-reel-scraper dataset -> {creator: [reel, ...]}"""
     out = {}
@@ -84,6 +91,7 @@ def normalise_apify(items):
             "caption": (it.get("caption") or "").strip(),
             "taken_at": _iso_to_epoch(it.get("timestamp")),
             "pinned": bool(it.get("isPinned")),
+            "sponsored": _is_sponsored(it.get("paidPartnership"), it.get("caption")),
         })
     return out
 
@@ -101,6 +109,7 @@ def normalise_hiker_clip(clip):
         "caption": cap.strip(),
         "taken_at": _iso_to_epoch(clip.get("taken_at") or 0),
         "pinned": False,
+        "sponsored": _is_sponsored(clip.get("is_paid_partnership"), cap),
     }
 
 
@@ -168,7 +177,7 @@ def find_outliers(reels_by_creator, now=None):
         for r in window:
             ratio = r["views"] / median
             beats_bar = ratio >= MIN_RATIO or (ratio >= HYBRID_RATIO and r["views"] >= HYBRID_MIN_VIEWS)
-            if beats_bar and r["views"] >= ABS_FLOOR_VIEWS:
+            if beats_bar and r["views"] >= ABS_FLOOR_VIEWS and not r.get("sponsored"):
                 outliers.append({**r, "creator": creator, "ratio": round(ratio, 1),
                                  "median": int(median)})
     return sorted(outliers, key=lambda r: r["ratio"], reverse=True), baselines
