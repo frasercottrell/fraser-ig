@@ -12,7 +12,7 @@ This file is the workflow.
 
 - If it's a carousel already in `posts/carousel-*.md`, use the **FINAL** slides from that file and
   fix any typos it flags.
-- If Fraser pastes new copy, use his words. Don't rewrite them unless asked. If Fraser asks you to write
+- If Fraser pastes new copy, use Fraser's words. Don't rewrite them unless asked. If Fraser asks you to write
   the copy too, follow `context/carousels.md` (slide 1 stops, slide 2 buys the swipe, max 8–10 slides).
 
 ## 2. Get the photos
