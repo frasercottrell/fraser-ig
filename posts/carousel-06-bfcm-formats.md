@@ -11,59 +11,42 @@ data). Every number below is from the scan, nothing invented.
 
 ---
 
+**Format (v2, Fraser 2026-10-27):** more casual, and the example slides are the ad itself, full-bleed, with one
+small line of text. No big headline on slides 3-9.
+
 **Slide 1 (cover)**
-Your Black Friday ad doesn't have to scream 30% OFF
+your black friday ad really doesn't need a massive 30% OFF on it
 
 **Slide 2**
-I saved 62 Black Friday ads from last year...
-13 of them were just a big discount banner
-these 7 ran for weeks and look nothing like a sale
+so I went back through 62 black friday ads from last year
+13 were basically just a sale banner
+the ones that ran for weeks looked more like this 👇
 
-**Slide 3**
-1. The founder letter
-Emmafy's longest running ad was a wall of text
-"Black Friday: end of GoFree production", signed by the co-founder
-68 days live. nothing else on the board ran longer
+**Slide 3** [Emmafy ad, small line]
+Emmafy just wrote a letter. 68 days live, longest on the list
 
-**Slide 4**
-2. The Notes app screenshot
-Hismile's "Secret Hismile Sale 🤫" is literally a screenshot of the Notes app
-Tonic Health did the same idea as an Instagram story and kept it live 56 days
-it looks like something a mate sent you
+**Slide 4** [Hismile ad, small line]
+Hismile literally screenshotted the notes app
 
-**Slide 5**
-3. The product just doing its thing
-TobioShop shows someone painting with their tiny watercolour kit
-the 55% off is in the voiceover, not plastered on screen
-55 days live
+**Slide 5** [TobioShop ad, small line]
+no banner, just the product doing its thing. 55 days
 
-**Slide 6**
-4. The comment reply
-HeyShape answered a question sticker: "Black Friday is 5 for 2??? That's literally $16.40 each"
-the customer does the maths for you
-42 days live
+**Slide 6** [HeyShape ad, small line]
+HeyShape let a customer do the maths for them
 
-**Slide 7**
-5. The skit
-Ooomay opens on a girl moaning she's got nothing to wear
-the free bag charm is just a little overlay
-34 days live
+**Slide 7** [Ooomay ad, small line]
+a skit about having nothing to wear. the offer's just a tiny sticker
 
-**Slide 8**
-6. The ugly whiteboard
-Nutrition Geeks scribbled the offer on a whiteboard... "our designer is on leave"
-in a feed full of polished sale graphics, it's the odd one out
+**Slide 8** [Nutrition Geeks ad, small line]
+"our designer is on leave" 😂
 
-**Slide 9**
-7. The anti-sale
-BURGA ran "STOP BUYING BURGA PHONE CASES"
-during the biggest sale of the year
-you have to stop and work out what's going on
+**Slide 9** [BURGA ad, small line]
+BURGA telling you to stop buying BURGA. on black friday
 
 **Slide 10**
-you can still run the discount. just don't make it the whole ad
+still run the discount, just don't make it the whole ad
 
-Want all 62? Comment BFCM and I'll send you the board
+want all 62? comment BFCM and I'll send you the board
 
 ---
 
