@@ -12,3 +12,6 @@ __pycache__/
 # Radar
 .env
 radar/cache/
+
+# Rendered carousel slides (re-render from carousel-studio/decks)
+carousel-studio/out/
