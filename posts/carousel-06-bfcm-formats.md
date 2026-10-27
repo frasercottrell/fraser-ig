@@ -69,3 +69,15 @@ Early-access alternates: SKIMS members-only (https://www.facebook.com/ads/librar
 Bench (swap in if one above doesn't fit): Lily Styler "We owe you an apology" letter, 45 days
 (https://www.facebook.com/ads/library/?id=1199230518787743); Kanga Coolers product demo, 50 days; HeyShape UGC
 "we may have gone a little crazy this black friday", 19 days.
+
+## Caption (carousel-captions skill, 2026-10-27)
+
+The ads you should probably be running this Q4.
+
+Swipe all 10 slides before you build your Black Friday campaign.
+
+If the plan is your best ad with 30% OFF slapped on it, you're going to look exactly like everyone else in the feed that week. Every example in here is a real Black Friday ad from last year.
+
+i saved 62 of them, comment BFCM and I'll send you the whole board. Straight to your DMs.
+
+Save this one for when your team asks what to brief for Black Friday.
