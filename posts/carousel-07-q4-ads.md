@@ -1,4 +1,4 @@
-# Carousel 06. "The ads you should be running this Q4" (Pillar 1, list)
+# Carousel 07. "The ads you should be running this Q4" (Pillar 1, list)
 
 **Status:** 🟡 DRAFT, not posted. Awaiting Fraser's rewrite pass.
 **Why this one:** "N ad formats" lists were the biggest pattern on the radar (lgnelmes "25 Black Friday ad formats"
@@ -73,7 +73,10 @@ Bench (swap in if one above doesn't fit): Lily Styler "We owe you an apology" le
 
 ## Rendered slides
 
-`posts/carousel-06/slide-01.png` to `slide-10.png` (1080x1350), built with headless Chromium from the ad images. Cover follows the carousel-0x convention (real photo, exposure down, text on top); placeholder is the Kanga ad frame until Fraser supplies a camera-rig / monitor BTS shot.
+Deck: `carousel-studio/decks/q4-ads.txt` (carousel-designer skill, blue caption bubble style). Render:
+`python3 carousel-studio/make_carousel.py carousel-studio/decks/q4-ads.txt` → `carousel-studio/out/q4-ads/`.
+Slides 3-9 use `photos/framed-ad-*.jpg`: the whole ad on the blurred, darkened studio photo, so nothing gets cropped.
+Slides 10+11 of the draft merged into one CTA slide (10 total).
 
 ## Caption (carousel-captions skill, 2026-10-27)
 

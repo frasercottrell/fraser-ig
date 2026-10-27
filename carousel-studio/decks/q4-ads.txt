@@ -1,0 +1,51 @@
+// Carousel 07. Copy from posts/carousel-07-q4-ads.md (v3). Slides 3-9: the ad itself + one small line.
+photo: studio-shoot-clapperboard.jpg
+## The ads you should be running this Q4
+---
+photo: studio-shoot-clapperboard.jpg
+darken: 0.3
+Most brands just slap 30% OFF
+on their best ad and call it a day.
+# Here's what I'd have _running instead_
+---
+photo: framed-ad-dore-rose-early-access.jpg
+darken: 0
+y: 0.93
+- An early access ad.
+- Get people on the list before the sale even starts
+---
+photo: framed-ad-emmafy-founder-letter.jpg
+darken: 0
+y: 0.93
+- A founder letter. Emmafy's ran for 68 days
+---
+photo: framed-ad-hismile-notes-app.jpg
+darken: 0
+y: 0.93
+- A notes app screenshot. Looks like something a mate sent you
+---
+photo: framed-ad-kanga-demo.jpg
+darken: 0
+y: 0.93
+- The product just doing its thing. No banner in sight
+---
+photo: framed-ad-heyshape-comment-reply.jpg
+darken: 0
+y: 0.93
+- A comment reply. Let the customer do the maths for you
+---
+photo: framed-ad-ooomay-skit.jpg
+darken: 0
+y: 0.93
+- A skit, with the offer as a tiny sticker
+---
+photo: framed-ad-nutrition-geeks-whiteboard.jpg
+darken: 0
+y: 0.93
+- An ugly whiteboard static. "Our designer is on leave"
+---
+photo: studio-shoot-clapperboard.jpg
+bw: yes
+And yeah, still run your discount ad.
+Just not on its own.
+## Want all 62? Comment BFCM
