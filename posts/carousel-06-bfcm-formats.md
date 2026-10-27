@@ -31,8 +31,8 @@ a founder letter. Emmafy's ran for 68 days
 **Slide 5** [Hismile ad, small line]
 a notes app screenshot. looks like something a mate sent you
 
-**Slide 6** [TobioShop ad, small line]
-the product just doing its thing, with the offer in the voiceover
+**Slide 6** [Kanga Coolers ad, small line]
+the product just doing its thing. no banner in sight
 
 **Slide 7** [HeyShape ad, small line]
 a comment reply. let the customer do the maths for you
@@ -58,7 +58,8 @@ want the full swipe file? comment BFCM and I'll send you all 62
 | 4 | Emmafy | 68 | https://www.facebook.com/ads/library/?id=1455515456146275 | https://medias.trendtrack.io/facebook/image/053721c1e107ba90bc66b5e2d32d748c6598fdd0a5300830e720718a3457f561.jpg |
 | 5 | Hismile | 15 | https://www.facebook.com/ads/library/?id=2030209744409655 | https://medias.trendtrack.io/facebook/image/e09109ceaa03cedabf2f991be8bd5199ee6cbd4e9c27f8b32b25f2f32b2d53be.png |
 | bench | Tonic Health | 56 | https://www.facebook.com/ads/library/?id=1164603775119685 | https://medias.trendtrack.io/facebook/image/a993aa37184dc3e84eeb7b6854acd53ef02e131de1d357baadb2791ac6835686.png |
-| 6 | TobioShop | 55 | https://www.facebook.com/ads/library/?id=25234674032825236 | https://medias.trendtrack.io/facebook/thumbnails/b2e619985c5e26ae30cfc06088da5b35e4dbede39747af93e2ee14eb119f0f8a.jpg |
+| bench | TobioShop (thumbnail has a big 55% OFF sticker) | 55 | https://www.facebook.com/ads/library/?id=25234674032825236 | https://medias.trendtrack.io/facebook/thumbnails/b2e619985c5e26ae30cfc06088da5b35e4dbede39747af93e2ee14eb119f0f8a.jpg |
+| 6 | Kanga Coolers | 50 | https://www.facebook.com/ads/library/?id=2089383005231092 | https://medias.trendtrack.io/facebook/thumbnails/fc7e2d76190219af4a9e6ce1de0f7391ac2a2d0b0721f64edbd65924e6b60e85.jpg |
 | 7 | HeyShape | 42 | https://www.facebook.com/ads/library/?id=1349356290017227 | https://medias.trendtrack.io/facebook/thumbnails/71a0895d84089378ef6dd8beb67285be834b6db133cbc2c598888326f8d01277.jpg |
 | 8 | Ooomay | 34 | https://www.facebook.com/ads/library/?id=902833888733747 | https://medias.trendtrack.io/facebook/thumbnails/cd82df7299fbcdacb6b3605449792bc634d1136dc6fcb25c9d77add9d484bbfa.jpg |
 | 9 | Nutrition Geeks | 12 | https://www.facebook.com/ads/library/?id=819202330998215 | https://medias.trendtrack.io/facebook/image/0c244afa883c958b8221199a268698e4f38c185de7ef1071442f1c9c62635ad1.png |
@@ -69,6 +70,10 @@ Early-access alternates: SKIMS members-only (https://www.facebook.com/ads/librar
 Bench (swap in if one above doesn't fit): Lily Styler "We owe you an apology" letter, 45 days
 (https://www.facebook.com/ads/library/?id=1199230518787743); Kanga Coolers product demo, 50 days; HeyShape UGC
 "we may have gone a little crazy this black friday", 19 days.
+
+## Rendered slides
+
+`posts/carousel-06/slide-01.png` to `slide-10.png` (1080x1350), built with headless Chromium from the ad images.
 
 ## Caption (carousel-captions skill, 2026-10-27)
 
