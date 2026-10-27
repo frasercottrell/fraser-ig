@@ -1,54 +1,52 @@
-// Carousel 07. Copy from posts/carousel-07-q4-ads.md (v3). Slides 3-9: the ad itself + one small line.
+// Carousel 07. Copy from posts/carousel-07-q4-ads.md (v3). Slides 3-9: the ad small on the studio photo + one line.
+// Ad framing + caption y values come from framed-ad-*.jpg (ad and caption centred as one group).
 photo: studio-menopause-court.jpg
-y: 0.2
 ## The ads you should be running this Q4
 ---
 photo: studio-menopause-court.jpg
 darken: 0.3
-y: 0.25
 Most brands just slap 30% OFF
 on their best ad and call it a day.
 # Here's what I'd have _running instead_
 ---
 photo: framed-ad-dore-rose-early-access.jpg
 darken: 0
-y: 0.8
+y: 0.755
 - An early access ad.
 - Get people on the list before the sale even starts
 ---
 photo: framed-ad-emmafy-founder-letter.jpg
 darken: 0
-y: 0.8
+y: 0.703
 - A founder letter. Emmafy's ran for 68 days
 ---
 photo: framed-ad-hismile-notes-app.jpg
 darken: 0
-y: 0.8
+y: 0.754
 - A notes app screenshot. Looks like something a mate sent you
 ---
-photo: framed-ad-kanga-demo.jpg
+photo: framed-ad-purdy-figg-haul.jpg
 darken: 0
-y: 0.8
-- The product just doing its thing. No banner in sight
+y: 0.754
+- A haul. "I got all of this for £26"
 ---
 photo: framed-ad-heyshape-comment-reply.jpg
 darken: 0
-y: 0.8
+y: 0.754
 - A comment reply. Let the customer do the maths for you
 ---
-photo: framed-ad-ooomay-skit.jpg
+photo: framed-ad-tropeaka-voice-note.jpg
 darken: 0
-y: 0.8
-- A skit, with the offer as a tiny sticker
+y: 0.754
+- A trend. "Creating a video from a voice note my boss sent me"
 ---
 photo: framed-ad-nutrition-geeks-whiteboard.jpg
 darken: 0
-y: 0.8
+y: 0.754
 - An ugly whiteboard static. "Our designer is on leave"
 ---
 photo: studio-menopause-court.jpg
 bw: yes
-y: 0.27
 And yeah, still run your discount ad.
 Just not on its own.
 ## Want all 62? Comment BFCM
