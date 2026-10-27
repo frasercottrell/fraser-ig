@@ -73,7 +73,7 @@ Bench (swap in if one above doesn't fit): Lily Styler "We owe you an apology" le
 
 ## Rendered slides
 
-`posts/carousel-06/slide-01.png` to `slide-10.png` (1080x1350), built with headless Chromium from the ad images.
+`posts/carousel-06/slide-01.png` to `slide-10.png` (1080x1350), built with headless Chromium from the ad images. Cover follows the carousel-0x convention (real photo, exposure down, text on top); placeholder is the Kanga ad frame until Fraser supplies a camera-rig / monitor BTS shot.
 
 ## Caption (carousel-captions skill, 2026-10-27)
 
