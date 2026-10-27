@@ -75,7 +75,7 @@ Bench (swap in if one above doesn't fit): Lily Styler "We owe you an apology" le
 
 Deck: `carousel-studio/decks/q4-ads.txt` (carousel-designer skill, blue caption bubble style). Render:
 `python3 carousel-studio/make_carousel.py carousel-studio/decks/q4-ads.txt` → `carousel-studio/out/q4-ads/`.
-Slides 3-9 use `photos/framed-ad-*.jpg`: the whole ad on the blurred, darkened studio photo, so nothing gets cropped.
+Background on every slide: `photos/studio-menopause-court.jpg` (Fraser, 2026-10-27). Slides 3-9 use `photos/framed-ad-*.jpg`: the ad small (max 520x660) overlaid on that photo, line underneath.
 Slides 10+11 of the draft merged into one CTA slide (10 total).
 
 ## Caption (carousel-captions skill, 2026-10-27)
