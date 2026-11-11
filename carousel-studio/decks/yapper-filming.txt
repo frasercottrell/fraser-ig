@@ -1,28 +1,28 @@
 // Carousel 08. Fraser's copy, 2026-11-11. Photo: lab coat set in the white studio.
-// Text sits low (y 0.72) on the white floor so the presenter at the desk stays visible.
+// Text centred (y 0.5), Fraser 2026-11-11.
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 ## 6 ways to film a yapper ad
 ## so it doesn't look like _everyone else's_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 most of the yapper ads
 you're seeing right now
 are probably someone sat in their _car_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 which is fine...
 until every brand in your niche
 is filming the _exact same shot_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 1. walk and talk
 phone in hand, walking somewhere.
 the _movement_ in the first frame
@@ -30,7 +30,7 @@ does a lot of the stopping for you
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 2. getting ready in the mirror
 doing their hair or skincare,
 talking the whole time.
@@ -38,7 +38,7 @@ feels like a story they'd _post anyway_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 3. mid-task
 making a coffee, packing a bag, cooking.
 hands are busy so the product
@@ -46,7 +46,7 @@ can just _sit in shot_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 4. the handheld mic
 talking straight into one of
 those little handheld mics.
@@ -55,7 +55,7 @@ for their _own page_
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 5. green screen
 stand in front of a Reddit thread
 or a review and react to it.
@@ -63,7 +63,7 @@ the _proof_ is sat right there behind them
 ---
 photo: studio-lab-coat-set.jpg
 darken: 0.12
-y: 0.72
+y: 0.5
 # 6. lying in bed
 phone held above their face,
 late night chat energy.
@@ -72,7 +72,7 @@ _low-fi_ on purpose
 photo: studio-lab-coat-set.jpg
 bw: yes
 darken: 0.12
-y: 0.72
+y: 0.5
 If you want the script to go with it,
 i made you my yapper framework
 ## comment YAP

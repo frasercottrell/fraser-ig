@@ -3,7 +3,7 @@
 **Status:** 🟢 Copy by Fraser (2026-11-11), slides rendered. Not posted.
 **Deck:** `carousel-studio/decks/yapper-filming.txt` (carousel-designer, blue caption bubble style).
 **Photo:** `carousel-studio/photos/studio-lab-coat-set.jpg` on every slide (lab coat presenter at the desk, white
-studio, red Amaran lights). Text sits low on the white floor (y 0.72) so the presenter stays visible.
+studio, red Amaran lights). Text centred (y 0.5), per Fraser.
 **Keyword:** YAP → yapper framework (live).
 
 ## Slides (Fraser's copy, line breaks only added for the boxes)
