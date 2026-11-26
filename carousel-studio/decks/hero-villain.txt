@@ -1,0 +1,60 @@
+// Carousel 09. Hero vs villain. Copy drafted 2026-11-26 from Fraser's "the enemy" rule (posts/batch-15).
+// Photo: Menopause Court set (a judge, a verdict, a villain on trial). Text centred.
+photo: studio-menopause-court.jpg
+darken: 0.25
+## your ad is probably missing a _villain_
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+most ads open on the product
+the hero turns up before anyone knows
+what it's saving them _from_
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# hero vs villain
+the villain is the thing
+your customer is fighting
+the hero is whatever _beats_ it
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# the villain is never a competitor
+it's a habit, a feeling,
+or a _lie_ the industry tells
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# and the hero isn't your product either
+it's your customer
+your product is just what they _win_ with
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# so the ad goes
+name the villain
+show what it's _costing_ them
+then hand them the product
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# it's why us vs them statics work
+the old way is the villain
+you never had to say a _competitor's_ name
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+# and why yapper rants work
+the creator is just fed up with the villain
+the product turns up _halfway_ through
+---
+photo: studio-menopause-court.jpg
+darken: 0.3
+you don't need a better product shot
+you need something to be _against_
+---
+photo: studio-menopause-court.jpg
+bw: yes
+want some hooks built on this?
+## comment HOOKS
+- and I'll send you 34 of them
