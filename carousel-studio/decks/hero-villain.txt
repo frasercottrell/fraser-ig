@@ -55,6 +55,6 @@ you need something to be _against_
 ---
 photo: studio-checker-lab-set.jpg
 bw: yes
-want some hooks built on this?
-## comment HOOKS
-- and I'll send you 34 of them
+want my script framework for this?
+## comment HERO
+- and I'll send it over

@@ -6,7 +6,7 @@ a habit, a lie the industry tells." Built out into hero vs villain: customer = h
 villain = the problem / old way. No invented numbers or brand claims.
 **Deck:** `carousel-studio/decks/hero-villain.txt`, photo `studio-checker-lab-set.jpg` (checkerboard lab-coat set, crew in
 the foreground; Fraser's pick 2026-11-26), no extra darkening, text centred.
-**Keyword:** HOOKS → 34 hook templates (live; the "enemy" opener is one of the three opening moves it's built on).
+**Keyword:** HERO → Fraser's hero vs villain script framework (Fraser, 2026-11-26). ⚠️ New keyword: needs a ManyChat trigger before posting.
 
 ## Slides
 
@@ -19,4 +19,4 @@ the foreground; Fraser's pick 2026-11-26), no extra darkening, text centred.
 7. it's why us vs them statics work / the old way is the villain / you never had to say a competitor's name
 8. and why yapper rants work / the creator is just fed up with the villain / the product turns up halfway through
 9. you don't need a better product shot / you need something to be against
-10. want some hooks built on this? / comment HOOKS / and I'll send you 34 of them
+10. want my script framework for this? / comment HERO / and I'll send it over
