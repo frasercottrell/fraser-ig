@@ -4,8 +4,8 @@
 **Source:** Fraser's own "the enemy" opener (posts/batch-15): "Name a villain, but never a competitor. A feeling,
 a habit, a lie the industry tells." Built out into hero vs villain: customer = hero, product = what they win with,
 villain = the problem / old way. No invented numbers or brand claims.
-**Deck:** `carousel-studio/decks/hero-villain.txt`, photo `studio-menopause-court.jpg` (a court set for a villain
-carousel), text centred.
+**Deck:** `carousel-studio/decks/hero-villain.txt`, photo `studio-checker-lab-set.jpg` (checkerboard lab-coat set, crew in
+the foreground; Fraser's pick 2026-11-26), no extra darkening, text centred.
 **Keyword:** HOOKS → 34 hook templates (live; the "enemy" opener is one of the three opening moves it's built on).
 
 ## Slides
